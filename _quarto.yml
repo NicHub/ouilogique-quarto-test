@@ -6,7 +6,7 @@ project:
   type: website
   output-dir: _site
   post-render:
-    - scripts/flatten-pages-to-root.sh
+    - _scripts/flatten-pages-to-root.sh
   resources:
     - pages/*/**
     - images/**/*
@@ -41,7 +41,7 @@ website:
 format:
   html:
     include-in-header:
-      - includes/material-symbols.html
+      - _includes/material-symbols.html
     theme:
       - cyborg
       - custom.scss
