@@ -1,5 +1,8 @@
 /*-- scss:defaults --*/
 
+
+/*-- scss:rules --*/
+
 blockquote {
     color: rgb(200, 200, 200) !important;
 
@@ -9,7 +12,6 @@ blockquote {
         font-weight: bolder;
     }
 }
-
 
 /*
  * NOM DE L’AUTEUR ET DATE DES BILLETS
@@ -22,7 +24,6 @@ blockquote {
 .quarto-title-meta-contents {
     font-style: italic;
 }
-
 
 /**
  * ANIMATION DU LOGO
@@ -41,7 +42,6 @@ blockquote {
     }
 }
 
-
 span.spin {
     display: inline-block;
 }
@@ -49,7 +49,7 @@ span.spin {
 .cls-site-logo img:hover,
 .spin:hover {
     transform: rotate(180deg);
-    animation-duration: 1.0s;
+    animation-duration: 1s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: 1;
     cursor: none;
@@ -59,7 +59,7 @@ $final_angle: 90deg;
 
 .spin {
     animation-name: rotateImageOnPageLoad;
-    animation-duration: 1.0s;
+    animation-duration: 1s;
     animation-timing-function: ease-out;
     animation-iteration-count: 1;
     transition: transform 1s;
@@ -78,7 +78,7 @@ $final_angle: 90deg;
 
 .cls-site-logo img {
     animation-name: rotateImageOnPageLoadImg;
-    animation-duration: 1.0s;
+    animation-duration: 1s;
     animation-timing-function: ease-out;
     animation-iteration-count: 1;
     transition: transform 1s;
@@ -95,8 +95,8 @@ $final_angle: 90deg;
     }
 }
 
-// Indique que le lien est cassé.
-[rel="nofollow"] {
+// Si `rel` contient `nofollow`, cela indique que le lien est cassé.
+[rel~="nofollow"] {
     text-decoration: line-through;
     color: grey;
 }

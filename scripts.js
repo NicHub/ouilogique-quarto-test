@@ -23,8 +23,14 @@ function targetBlank() {
         }
 
         if (isExternal) {
+            // Attribue `_blank` à l’attribut `target`.
             _a[i].setAttribute("target", "_blank");
-            _a[i].setAttribute("rel", "noopener");
+
+            // Ajoute `noopener` à l’attribut `rel`.
+            const rel = (_a[i].getAttribute("rel") || "").trim();
+            const relParts = rel ? rel.split(/\s+/) : [];
+            if (!relParts.includes("noopener")) relParts.push("noopener");
+            _a[i].setAttribute("rel", relParts.join(" ").trim());
         }
         // console.log(`${String(isExternal).padEnd(5)} ${_siteHost} ${href}`);
     }
