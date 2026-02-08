@@ -1,0 +1,21 @@
+---
+aliases:
+- /ne-pressez-plus-sur-boot-pour-flasher-un-esp
+author: Nico
+categories: []
+date: 2023-11-11 12:00:00+01:00
+draft: false
+lang: fr
+layout: page
+lightbox: auto
+pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+title: Ne pressez plus sur BOOT pour flasher un ESP
+---
+
+Vous aimeriez flasher vos ESP sans devoir presser sur le bouton BOOT ?
+
+Ajoutez simplement un condensateur de 10 µF entre la broches RST et GND, et le tour est joué !
+
+![Ne pressez plus sur BOOT pour flasher un ESP — ouilogique.com][img_1]
+
+[img_1]: ./images/2023-11-11-ne-pressez-plus-sur-boot-pour-flasher-un-esp_lowres.jpg

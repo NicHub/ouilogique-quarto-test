@@ -1,0 +1,25 @@
+---
+aliases:
+- /humour-there-is-no-place-like-127_0_0_1
+author: Nico
+categories: []
+date: 2022-06-19 12:00:00+02:00
+draft: false
+lang: fr
+layout: page
+lightbox: auto
+pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+title: Humour There is no place like 127.0.0.1
+---
+
+Trop bien la pub [init7](https://www.init7.net/)
+
+<video width="100%" controls>
+    <source
+        src="./videos/there-is-no-place-like-127_0_0_1.mp4"
+        type="video/mp4">
+</video>
+
+![There is no place like 127.0.0.1][img_1]
+
+[img_1]: ./images/there-is-no-place-like-127_0_0_1.jpg

@@ -11,6 +11,7 @@ project:
   resources:
     - pages/*/**
     - images/**/*
+    - scripts.js
 
 execute:
   enabled: false
@@ -43,6 +44,8 @@ format:
   html:
     include-in-header:
       - _includes/material-symbols.html
+    include-after-body:
+      - _includes/scripts.html
     theme:
       - cyborg
       - custom.scss

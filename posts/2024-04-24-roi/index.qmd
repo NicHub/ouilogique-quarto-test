@@ -12,9 +12,8 @@ pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
 title: Sélection de régions d’intérêt sur une image avec D3.js
 ---
 
-Cliquez sur l’image pour accéder à la démo
+Cliquez sur l’image pour accéder à la démo :
 
--   [![Sélection de régions d’intérêt sur une image avec D3.js][img_1]][page_html]
-
-[img_1]: ./images/2024-04-24-roi-001.jpg
-[page_html]: https://ouilogique.alwaysdata.net/RoI/
+<a href="https://ouilogique.alwaysdata.net/RoI/" target="_blank" rel="noopener noreferrer">
+  <img src="./images/2024-04-24-roi-001.jpg" alt="Sélection de régions d’intérêt sur une image avec D3.js">
+</a>

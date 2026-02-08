@@ -1,0 +1,28 @@
+---
+aliases:
+- /blog/mooc_initiation_aux_microcontroleurs/
+- /mooc_initiation_aux_microcontroleurs
+author: Nico
+categories: []
+date: 2015-06-11 12:00:00+01:00
+draft: false
+lang: fr
+layout: page
+lightbox: auto
+pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+title: MOOC — Initiation aux microcontrôleurs
+---
+
+Un peu de pub pour le cours de microcontrôleurs en ligne de l’EPFL :
+
+-   <https://www.coursera.org/learn/microcontroleurs>{rel="nofollow"}
+
+Et voici le cours au format GitBook :
+
+<https://www.gitbook.com/book/nichub/initiation-aux-microcontroleurs/details>{rel="nofollow"}
+
+![MOOC Microcontrôleurs EPFL][img_mooc]
+
+[img_mooc]: ./images/Microcontroleurs-v1.0.jpg
+
+<iframe width="799" height="449" src="https://www.youtube.com/embed/wCgJRtzTvmI" title="YouTube video player" frameborder="0" allow="web-share" allowfullscreen></iframe>

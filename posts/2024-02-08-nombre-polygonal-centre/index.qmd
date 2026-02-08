@@ -1,0 +1,19 @@
+---
+aliases:
+- /nombre-polygonal-centre
+author: Nico
+categories: []
+date: 2024-02-08 11:00:00+01:00
+draft: false
+lang: fr
+layout: page
+lightbox: auto
+pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+title: Générateur de nombres polygonaux centrés
+---
+
+Cliquez sur l’image pour accéder au générateur de nombres polygonaux centrés :
+
+<a href="https://nichub.github.io/centered_polygonal_number_generator/centered_polygonal_number_generator.html" target="_blank" rel="noopener noreferrer">
+  <img src="./images/cpn.svg" alt="Générateur de nombres polygonaux centrés">
+</a>

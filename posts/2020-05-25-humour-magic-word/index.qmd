@@ -1,0 +1,17 @@
+---
+aliases:
+- /humour-magic-word
+author: Nico
+categories: []
+date: 2020-05-25 06:33:00+02:00
+draft: false
+lang: fr
+layout: page
+lightbox: auto
+pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+title: Humour Magic Word
+---
+
+![sudo is the magic word][img_1]
+
+[img_1]: ./images/magic-word.jpg
