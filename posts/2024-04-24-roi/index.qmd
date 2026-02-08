@@ -1,0 +1,20 @@
+---
+aliases:
+- /roi
+author: Nico
+categories: []
+date: 2024-04-24 09:00:00+02:00
+draft: false
+lang: fr
+layout: page
+lightbox: auto
+pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+title: Sélection de régions d’intérêt sur une image avec D3.js
+---
+
+Cliquez sur l’image pour accéder à la démo
+
+-   [![Sélection de régions d’intérêt sur une image avec D3.js][img_1]][page_html]
+
+[img_1]: ./images/2024-04-24-roi-001.jpg
+[page_html]: https://ouilogique.alwaysdata.net/RoI/

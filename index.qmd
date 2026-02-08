@@ -1,0 +1,66 @@
+---
+title: <span class="spin">OUI</span>LOGIQUE.COM
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  sort-ui: false
+  filter-ui: false
+  page-size: 100000
+  fields: [image, date, title, description]
+page-layout: full
+title-block-banner: true
+date-format: long
+lang: fr
+body-classes: no-navbar-home
+# license: "CC BY"
+---
+
+[![][img_1]]{.cls-site-logo}
+
+[img_1]: ./images/site-logo.png
+
+## Bienvenue sur ouilogique.com
+
+*Ce blog me sert d’aide-mémoire pour mes projets IoT sur Arduino et Raspberry Pi.*
+
+*Bonne visite.*
+
+<!--
+  Séparateur
+ -->
+<div style="margin-top: 100px;"></div>
+
+<!--
+
+# PENSE-BÊTE #
+
+- [radios](/radios/)
+- [enum](/enum/)
+- [scratchpad](/scratchpad/)
+- [cours-html-embarque](/cours-html-embarque/)
+
+Redirection a créer
+https://ouilogique.com/cours-html-embarque.html
+https://ouilogique.com/files/2018-02-17-html-embarque/microclub-atelier-html-embarque.pdf
+https://ouilogique.com/accueil/
+
+
+CNAME !
+
+robots.txt
+
+images look
+
+<title>
+
+https://groups.google.com/g/pandoc-discuss/c/x9SDcHJ5vMI
+
+https://quarto.org/docs/extensions/starter-templates.html
+
+https://github.com/quarto-dev/quarto-cli/tree/main/src/resources/formats/html/pandoc
+
+Is it possible to specify render source files to have a custom output path / url? #6561
+https://github.com/quarto-dev/quarto-cli/discussions/6561
+
+-->

@@ -1,0 +1,132 @@
+/*-- scss:defaults --*/
+
+blockquote {
+    color: rgb(200, 200, 200) !important;
+
+    a,
+    :link {
+        color: inherit;
+        font-weight: bolder;
+    }
+}
+
+
+/*
+ * NOM DE L’AUTEUR ET DATE DES BILLETS
+ */
+
+.quarto-title-meta-heading {
+    visibility: hidden;
+}
+
+.quarto-title-meta-contents {
+    font-style: italic;
+}
+
+
+/**
+ * ANIMATION DU LOGO
+ */
+
+.cls-site-logo {
+    display: block;
+    margin: 50px auto 100px;
+    text-align: center;
+
+    img {
+        border-radius: 200px;
+        width: 200px;
+        height: 200px;
+        border: 5px solid rgba(80, 80, 80, 0.75);
+    }
+}
+
+
+span.spin {
+    display: inline-block;
+}
+
+.cls-site-logo img:hover,
+.spin:hover {
+    transform: rotate(180deg);
+    animation-duration: 1.0s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+    cursor: none;
+}
+
+$final_angle: 90deg;
+
+.spin {
+    animation-name: rotateImageOnPageLoad;
+    animation-duration: 1.0s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    transition: transform 1s;
+    transform: rotate($final_angle);
+}
+
+@keyframes rotateImageOnPageLoad {
+    0% {
+        transform: rotate(-180deg);
+    }
+
+    100% {
+        transform: rotate($final_angle);
+    }
+}
+
+.cls-site-logo img {
+    animation-name: rotateImageOnPageLoadImg;
+    animation-duration: 1.0s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    transition: transform 1s;
+    transform: rotate(0deg);
+}
+
+@keyframes rotateImageOnPageLoadImg {
+    0% {
+        transform: rotate(-360deg);
+    }
+
+    100% {
+        transform: rotate(0);
+    }
+}
+
+// Indique que le lien est cassé.
+[rel="nofollow"] {
+    text-decoration: line-through;
+    color: grey;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+    line-height: 1;
+    vertical-align: -3px;
+}
+
+/* Masquer la navbar uniquement sur la page d'accueil */
+.no-navbar-home #quarto-header {
+    display: none !important;
+}
+
+.no-navbar-home {
+    padding-top: 0 !important;
+}
+
+footer {
+    font-size: small;
+    padding: 50px 0 40px;
+    opacity: 0.8;
+    text-align: center;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.no-underline:hover {
+    text-decoration: none;
+}
