@@ -63,4 +63,10 @@ https://github.com/quarto-dev/quarto-cli/tree/main/src/resources/formats/html/pa
 Is it possible to specify render source files to have a custom output path / url? #6561
 https://github.com/quarto-dev/quarto-cli/discussions/6561
 
+Largeur à fixer sur mobiles.
+
+date en français dans les posts.
+
+Vérifier les liens
+
 -->

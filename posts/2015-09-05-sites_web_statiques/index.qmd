@@ -17,10 +17,11 @@ title: Générateurs de sites web statiques
 
 
 ## Simon Wood — Future Insights
-
+<!--
 <iframe width="799" height="449" src="https://www.youtube.com/embed/jeQCoiZT5gg" title="YouTube video player" frameborder="0" allow="web-share" allowfullscreen></iframe>
+-->
 
--   <https://www.youtube.com/watch?v=jeQCoiZT5gg&feature=em-subs_digest-vrecs>
+-   <https://www.youtube.com/watch?v=jeQCoiZT5gg&feature=em-subs_digest-vrecs>{rel="nofollow"}
 
 <!-- ![](https://avatars1.githubusercontent.com/u/189606?v=3&s=96) -->
 

@@ -130,3 +130,20 @@ footer {
 .no-underline:hover {
     text-decoration: none;
 }
+
+/* Rendre les iframes YouTube responsives sur mobile */
+iframe[src*="youtube.com"],
+iframe[src*="youtu.be"],
+iframe[src*="youtube-nocookie.com"] {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
+
+/* Éviter le débordement horizontal des URLs longues */
+main a {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
