@@ -1,11 +1,9 @@
 <nav class="page-navigation">
-
     <div class="nav-page nav-page-home">
         <a href="#" class="pagination-link">
             ← <span class="nav-page-text">Précédent</span>
         </a>
     </div>
-
     <div class="nav-page nav-page-next">
         <a href="#" class="pagination-link">
             <span class="nav-page-text">Suivant</span> →
@@ -13,11 +11,28 @@
     </div>
 </nav>
 
-<!--
--->
+<script>
+    document.addEventListener("keydown", (event) => {
 
-<!--
-<footer class="post-footer">
+        // Leave if user is typing in an editable area.
+        const tag = (event.target.tagName || "").toLowerCase();
+        if (tag === "input" || tag === "textarea" || event.target.isContentEditable) return;
 
-</footer>
--->
+        // Otherwise assign keyboard shortcuts to prev-next buttons.
+        const prevKeys = ["ArrowLeft"];
+        const nextKeys = ["ArrowRight"];
+
+        const prevLink = document.querySelector(".nav-page-home .pagination-link");
+        const nextLink = document.querySelector(".nav-page-next .pagination-link");
+
+        if (prevKeys.includes(event.key) && prevLink && prevLink.getAttribute("href")) {
+            event.preventDefault();
+            window.location.href = prevLink.getAttribute("href");
+        }
+
+        if (nextKeys.includes(event.key) && nextLink && nextLink.getAttribute("href")) {
+            event.preventDefault();
+            window.location.href = nextLink.getAttribute("href");
+        }
+    });
+</script>

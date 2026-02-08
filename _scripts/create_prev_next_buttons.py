@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Proof of concept for prev/next generation.
 
-Current steps:
-1. Read sitemap.xml
-2. Keep only post URLs
-3. Sort alphabetically
-4. Print the result
+"""
+
+Generation of prev/next buttons.
+
 """
 
 from __future__ import annotations
