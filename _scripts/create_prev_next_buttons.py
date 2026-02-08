@@ -71,13 +71,13 @@ def get_prev_next_links(post_names: list[str]) -> dict[str, dict[str, str]]:
         current_dir = posixpath.dirname(current_full)
 
         if i == 0:
-            prev_link = "/"
+            prev_link = "../../"
         else:
             prev_target = f"posts/{post_names[i - 1]}"
             prev_link = posixpath.relpath(prev_target, current_dir)
 
         if i == total - 1:
-            next_link = "/"
+            next_link = "../../"
         else:
             next_target = f"posts/{post_names[i + 1]}"
             next_link = posixpath.relpath(next_target, current_dir)
