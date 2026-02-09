@@ -147,3 +147,14 @@ main a {
     overflow-wrap: anywhere;
     word-break: break-word;
 }
+
+code {
+    background-color: initial; // rgba(90, 91, 90, 0.65);
+}
+
+h1,
+.h1,
+h2,
+.h2 {
+    color: mix(white, bisque, 80%);
+}
