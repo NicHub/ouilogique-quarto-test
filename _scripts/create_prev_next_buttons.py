@@ -41,9 +41,19 @@ def get_post_names() -> list[str]:
     rows: list[str] = []
     for url in post_urls:
         parsed = urlparse(url)
-        rel_path = parsed.path.lstrip("/")
-        if rel_path.startswith("posts/"):
-            rows.append(rel_path[len("posts/") :])
+        path_parts = [p for p in parsed.path.split("/") if p]
+        if "posts" not in path_parts:
+            continue
+        posts_idx = path_parts.index("posts")
+        post_parts = path_parts[posts_idx + 1 :]
+        if not post_parts:
+            continue
+        rel_post_path = "/".join(post_parts)
+        if rel_post_path.endswith("/"):
+            rel_post_path += "index.html"
+        elif "." not in Path(rel_post_path).name:
+            rel_post_path = f"{rel_post_path}/index.html"
+        rows.append(rel_post_path)
 
     return rows
 
