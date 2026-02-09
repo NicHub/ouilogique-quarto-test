@@ -5,6 +5,5 @@ navbar: false
 ---
 
 ::: {.text-center}
-[![](/images/404.svg)](/)
+[![](./images/404.svg)](./)
 :::
-
