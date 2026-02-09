@@ -23,11 +23,11 @@ title: Mise en route d’une carte <em>WeMos-LoLin</em> avec le firmware NodeMCU
 
 ## Firmware NodeMCU
 
--   <http://nodemcu.com/index_en.html>{rel="nofollow"}
+-   <https://www.nodemcu.com/index_en.html>
 
 ## Référence de la carte chez Banggood
 
--   <http://www.banggood.com/V3-NodeMcu-Lua-WIFI-Development-Board-p-992733.html?p=0431091025639201412F>
+-   <https://www.banggood.com/V3-NodeMcu-Lua-WIFI-Development-Board-p-992733.html?p=0431091025639201412F>
 
 > AliExpress propose des versions moins chères avec un chip `silabs cp2102` au lieu du `CH340G` pour la communication USB.
 >
@@ -123,9 +123,9 @@ L’ESP8266 peut être programmé de plusieurs façons :
 -   En C, avec le SDK d’Espressif <http://bbs.espressif.com>{rel="nofollow"}
 -   En C, avec [Sming](https://github.com/SmingHub/Sming)
 -   [En Lua (voir ci-dessous)](#programmation-de-lesp8266-en-lua)
--   En JavaScript, avec le firmware [Espruino](http://www.espruino.com/){rel="nofollow"}
+-   En JavaScript, avec le firmware [Espruino](https://www.espruino.com/)
 -   En [MicroPython](https://micropython.org)
--   En [BASIC](http://www.esp8266basic.com)
+-   En [BASIC](https://www.esp8266basic.com/)
 
 ## Programmation de l’ESP8266 en Arduino C
 

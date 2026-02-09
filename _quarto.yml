@@ -17,8 +17,9 @@ execute:
   enabled: false
 
 website:
-  title: "ouilogique"
+  title: "ouilogique.com"
   site-url: "https://ouilogique.com"
+  favicon: images/favicon.ico
   search: false
   navbar:
     title: false
