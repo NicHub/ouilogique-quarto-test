@@ -13,60 +13,40 @@ title-block-banner: true
 date-format: long
 lang: fr
 body-classes: no-navbar-home
-# license: "CC BY"
 ---
 
 [![][img_1]]{.cls-site-logo}
 
 [img_1]: ./images/site-logo.png
 
-## Bienvenue sur ouilogique.com
+<style>
+.home-welcome-card {
+  width: min(50%, 48rem);
+  min-width: min(92vw, 22rem);
+  margin: 100px auto;
+  padding: 2rem 2.25rem;
+  background: linear-gradient(160deg, #15171c 0%, #0f1116 100%);
+  color: #e8ecf3;
+  border: 1px solid #2a3040;
+  border-radius: 16px;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.4);
+}
 
-*Ce blog me sert d’aide-mémoire pour mes projets IoT sur Arduino et Raspberry Pi.*
+@media (max-width: 768px) {
+  .home-welcome-card {
+    width: auto;
+    min-width: 0;
+    margin: 48px 0;
+  }
+}
+</style>
 
-*Bonne visite.*
+<div class="home-welcome-card">
 
-<!--
-  Séparateur
- -->
-<div style="margin-top: 100px;"></div>
+## Bienvenue sur ouilogique.com
 
-<!--
+*Ce blog me sert d’aide-mémoire pour mes projets IoT sur Arduino, ESP, Raspberry Pi et quelques autres.*
 
-# PENSE-BÊTE #
+*Bonne visite !*
 
-- [radios](/radios/)
-- [enum](/enum/)
-- [scratchpad](/scratchpad/)
-- [cours-html-embarque](/cours-html-embarque/)
-
-Redirection a créer
-https://ouilogique.com/cours-html-embarque.html
-https://ouilogique.com/files/2018-02-17-html-embarque/microclub-atelier-html-embarque.pdf
-https://ouilogique.com/accueil/
-
-
-CNAME !
-
-robots.txt
-
-images look
-
-<title>
-
-https://groups.google.com/g/pandoc-discuss/c/x9SDcHJ5vMI
-
-https://quarto.org/docs/extensions/starter-templates.html
-
-https://github.com/quarto-dev/quarto-cli/tree/main/src/resources/formats/html/pandoc
-
-Is it possible to specify render source files to have a custom output path / url? #6561
-https://github.com/quarto-dev/quarto-cli/discussions/6561
-
-Largeur à fixer sur mobiles.
-
-date en français dans les posts.
-
-Vérifier les liens
-
--->
+</div>

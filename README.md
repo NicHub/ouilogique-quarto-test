@@ -1,5 +1,3 @@
-# OUILOGIQUE.COM – QUARTO
+# OUILOGIQUE.COM
 
-<https://nichub.github.io/ouilogique-quarto-test/>
-
-<https://github.com/NicHub/ouilogique-quarto-test/actions>
+Fichers du blog <https://ouilogique.com/>.

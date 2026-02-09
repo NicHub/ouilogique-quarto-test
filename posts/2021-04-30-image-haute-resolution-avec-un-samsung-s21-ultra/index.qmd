@@ -13,18 +13,11 @@ Voici une photo haute résolution que j’ai prise avec un téléphone Samsung 
 
 Je me tenais à environ 1.5 m de la machine que l’on voit sur la photo.
 
-L’image a une dimension de 12 000 × 9 000 = 108 Mpx.
+La résolution de l’image est de 12 000 × 9 000 = 108 Mpx.
 
-La taille du fichier est de 27 386 678 octets (~26.1 [Mio][Préfixe binaire]).
+La taille du fichier est de 27 386 678 octets = ~26.1 [Mio][Préfixe binaire] = ~26.1 [Mo][Préfixe binaire].
 
 [Préfixe binaire]: https://fr.wikipedia.org/wiki/Pr%C3%A9fixe_binaire#Tableaux_des_préfixes_binaires_et_décimaux
-
-```{python}
-size_bytes = 27_386_678
-size_mio = size_bytes / 2**20
-size_mo = size_bytes / 10**6
-print(f"{size_bytes:_d} o = {size_mio:.1f} Mio = {size_mo:.1f} Mo")
-```
 
 Au centre, le PCB fait environ 30 cm de large et ce qui est absolument bluffant, c’est que si on zoome sur lui, on découvre que les textes minuscules sont lisibles.
 
@@ -35,3 +28,18 @@ Au centre, le PCB fait environ 30 cm de large et ce qui est absolument bluffant
 ![Détail de l’image haute résolution avec un Samsung S21 Ultra][img_2]
 
 [img_2]: ./images/20210430_095254_detail_1.jpg
+
+<hr>
+
+## Note de calcul
+
+Cette note en Python est évaluée lors de la génération par [Quarto] :
+
+[Quarto]: https://quarto.org/
+
+```{python}
+size_bytes = 27_386_678
+size_mio = size_bytes / 2**20
+size_mo = size_bytes / 10**6
+print(f"{size_bytes:_d} o = {size_mio:.1f} Mio = {size_mo:.1f} Mo")
+```
