@@ -9,8 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Test de vitesse entre les fonctions de manipulation de ports et les fonctions
-    Arduino
+title: Test de vitesse entre les fonctions de manipulation de ports et les fonctions Arduino
 ---
 
 Les fonctionnalités offertes par l’écosystème Arduino sont forts pratiques, particulièrement pour les débutants, mais ne sont pas toujours des plus efficaces en terme d’utilisation des ressources, particulièrement en ce qui concerne l’utilisation des temps de cycles. Voici un petit comparatifs avec les fonctions de manipulation de port.

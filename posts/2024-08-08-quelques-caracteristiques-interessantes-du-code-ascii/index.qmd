@@ -8,9 +8,8 @@ draft: true
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}}'
-title: Quelques caractéristiques intéressantes du code ASCII <small>(La dernière va
-    vous perforer 🤪)</small>
+pagetitle: Quelques caractéristiques intéressantes du code ASCII (La dernière va vous perforer 🤪)
+title: Quelques caractéristiques intéressantes du code ASCII <small>(La dernière va vous perforer 🤪)</small>
 ---
 
 <style>

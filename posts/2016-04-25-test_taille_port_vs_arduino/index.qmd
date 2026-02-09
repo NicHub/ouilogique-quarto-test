@@ -9,8 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Test de taille entre les fonctions de manipulation de ports et les fonctions
-    Arduino
+title: Test de taille entre les fonctions de manipulation de ports et les fonctions Arduino
 ---
 
 Voici un comparatif de la taille mémoire du programme `blink` lorsqu’on utilise les fonctions de port ou les fonctions Arduino.
