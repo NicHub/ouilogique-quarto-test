@@ -13,6 +13,9 @@ title-block-banner: true
 date-format: long
 lang: fr
 body-classes: no-navbar-home
+format:
+  html:
+    include-after-body: _includes/prev-next-footer.html
 ---
 
 [![][img_1]]{.cls-site-logo}

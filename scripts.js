@@ -40,6 +40,25 @@ targetBlank();
 // Navigation au clavier entre pages.
 let isNavigating = false;
 
+function isHomePage() {
+    const p = window.location.pathname;
+    return p === "/" || p === "/index.html";
+}
+
+function replayLogoAnimation() {
+    const logoTargets = document.querySelectorAll(".cls-site-logo img, .spin");
+    logoTargets.forEach((el) => {
+        el.style.animation = "none";
+        // Force reflow to restart CSS animation.
+        void el.offsetWidth;
+        el.style.animation = "";
+    });
+}
+
+function smoothScrollToTop() {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
 document.addEventListener("keydown", (event) => {
     if (isNavigating) return;
 
@@ -50,11 +69,23 @@ document.addEventListener("keydown", (event) => {
     // Otherwise assign keyboard shortcuts to prev-next buttons.
     const prevKeys = ["ArrowLeft"];
     const nextKeys = ["ArrowRight"];
+    const homeKeys = ["Escape"];
 
     const prevLink = document.querySelector(".nav-page-home .pagination-link");
     const nextLink = document.querySelector(".nav-page-next .pagination-link");
 
-    if (prevKeys.includes(event.key) && prevLink && prevLink.getAttribute("href")) {
+    if (homeKeys.includes(event.key)) {
+        event.preventDefault();
+        if (isHomePage()) {
+            smoothScrollToTop();
+            replayLogoAnimation();
+            return;
+        }
+        isNavigating = true;
+        window.location.href = "/";
+        return;
+    }
+    else if (prevKeys.includes(event.key) && prevLink && prevLink.getAttribute("href")) {
         event.preventDefault();
         isNavigating = true;
         window.location.href = prevLink.getAttribute("href");

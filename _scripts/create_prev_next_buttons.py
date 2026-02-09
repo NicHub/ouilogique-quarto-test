@@ -97,7 +97,7 @@ def get_prev_next_links(post_names: list[str]) -> dict[str, dict[str, str]]:
     return links
 
 
-def inject_prev_next_into_site(prev_next_links: dict[str, dict[str, str]]) -> None:
+def inject_prev_next_into_posts(prev_next_links: dict[str, dict[str, str]]) -> None:
     """Inject prev/next links directly in rendered _site post files."""
     for post_path, links in prev_next_links.items():
         html_path = Path("_site/posts") / post_path
@@ -109,10 +109,40 @@ def inject_prev_next_into_site(prev_next_links: dict[str, dict[str, str]]) -> No
         html_path.write_text(content, encoding="utf-8")
 
 
+def inject_prev_next_into_home_page(post_names: list[str]) -> None:
+    """Inject prev/next links in _site/index.html only.
+
+    Home page behavior:
+      - prev -> most recent post
+      - next -> oldest post
+    """
+    if not post_names:
+        return
+
+    home_path = Path("_site/index.html")
+    if not home_path.exists():
+        return
+
+    oldest_target = f"posts/{post_names[0]}"
+    newest_target = f"posts/{post_names[-1]}"
+    home_dir = posixpath.dirname("index.html")
+
+    prev_link = posixpath.relpath(newest_target, home_dir or ".")
+    next_link = posixpath.relpath(oldest_target, home_dir or ".")
+
+    content = home_path.read_text(encoding="utf-8")
+    content = re.sub(r'href="#"', f'href="{prev_link}"', content, count=1)
+    content = re.sub(r'href="#"', f'href="{next_link}"', content, count=1)
+    content = re.sub(r">Précédent<", ">Dernier billet<", content, count=1)
+    content = re.sub(r">Suivant<", ">Premier billet<", content, count=1)
+    home_path.write_text(content, encoding="utf-8")
+
+
 def main() -> dict[str, dict[str, str]]:
     post_names = get_post_names()
     prev_next_links = get_prev_next_links(post_names)
-    inject_prev_next_into_site(prev_next_links)
+    inject_prev_next_into_posts(prev_next_links)
+    inject_prev_next_into_home_page(post_names)
     return prev_next_links
 
 
