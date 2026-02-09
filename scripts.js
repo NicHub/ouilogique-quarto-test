@@ -57,7 +57,7 @@ function isHomePage() {
 }
 
 function replayLogoAnimation() {
-    const logoTargets = document.querySelectorAll(".cls-site-logo img, .spin");
+    const logoTargets = document.querySelectorAll(".cls-site-logo, .spin");
     logoTargets.forEach((el) => {
         el.style.animation = "none";
         // Force reflow to restart CSS animation.

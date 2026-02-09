@@ -14,7 +14,7 @@ blockquote {
 }
 
 /*
- * NOM DE L’AUTEUR ET DATE DES BILLETS
+ * NOM DE L’AUTEUR ET DATE DES BILLETS DE BLOG
  */
 
 .quarto-title-meta-heading {
@@ -25,68 +25,67 @@ blockquote {
     font-style: italic;
 }
 
-/**
+/*
  * ANIMATION DU LOGO
  */
 
-.cls-site-logo {
-    display: block;
-    margin: 50px auto 100px;
-    text-align: center;
-
-    img {
-        border-radius: 200px;
-        width: 200px;
-        height: 200px;
-        border: 5px solid rgba(80, 80, 80, 0.75);
-    }
+:root {
+    --nb-tours: 1;
 }
 
-span.spin {
+.spin {
     display: inline-block;
+    transform: rotate(90deg);
+    animation: spin-double-turn 1.2s ease-out 1;
+    transition: transform 220ms ease-out;
 }
 
-.cls-site-logo img:hover,
 .spin:hover {
-    transform: translateZ(0) rotate(180deg);
+    transform: rotate(180deg);
     cursor: none;
 }
 
-$final_angle: 90deg;
+.cls-site-logo {
+    animation: logo-double-turn 1.2s ease-out 1;
+    border-radius: 200px;
+    display: block;
+    height: 200px;
+    margin: 50px auto 100px;
+    text-align: center;
+    transform: rotate(0deg);
+    transition: transform 220ms ease-out;
+    width: 200px;
 
-.spin {
-    animation: rotateImageOnPageLoad 1.1s cubic-bezier(0.22, 1, 0.36, 1) 1 both;
-    transition: transform 1.1s cubic-bezier(0.22, 1, 0.36, 1);
-    will-change: transform;
-    backface-visibility: hidden;
-    transform: translateZ(0) rotate($final_angle);
+    img {
+        border-radius: 200px;
+        border: 5px solid rgba(80, 80, 80, 0.75);
+        height:100%;
+        width: 100%;
+    }
 }
 
-@keyframes rotateImageOnPageLoad {
-    0% {
-        transform: translateZ(0) rotate(-180deg);
+.cls-site-logo:hover {
+    transform: rotate(180deg);
+    cursor: none;
+}
+
+@keyframes spin-double-turn {
+    from {
+        transform: rotate(90deg);
     }
 
-    100% {
-        transform: translateZ(0) rotate($final_angle);
+    to {
+        transform: rotate(calc(90deg + var(--nb-tours) * 1turn));
     }
 }
 
-.cls-site-logo img {
-    animation: rotateImageOnPageLoadImg 1.1s cubic-bezier(0.22, 1, 0.36, 1) 1 both;
-    transition: transform 1.1s cubic-bezier(0.22, 1, 0.36, 1);
-    will-change: transform;
-    backface-visibility: hidden;
-    transform: translateZ(0) rotate(0deg);
-}
-
-@keyframes rotateImageOnPageLoadImg {
-    0% {
-        transform: translateZ(0) rotate(-360deg);
+@keyframes logo-double-turn {
+    from {
+        transform: rotate(0deg);
     }
 
-    100% {
-        transform: translateZ(0) rotate(0deg);
+    to {
+        transform: rotate(calc(var(--nb-tours) * 1turn));
     }
 }
 
