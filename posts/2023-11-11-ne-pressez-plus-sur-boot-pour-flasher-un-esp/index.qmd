@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Ne pressez plus sur BOOT pour flasher un ESP
+title: Ne pressez plus sur BOOT pour flasher un ESP
 ---
 
 Vous aimeriez flasher vos ESP sans devoir presser sur le bouton BOOT ?
