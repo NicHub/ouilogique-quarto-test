@@ -14,6 +14,8 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.parse import urlparse
 
+HREF_PLACEHOLDER_RE = re.compile(r'href="#"')
+
 
 def get_post_names() -> list[str]:
     sitemap_path = Path("_site/sitemap.xml")
@@ -103,10 +105,13 @@ def inject_prev_next_into_posts(prev_next_links: dict[str, dict[str, str]]) -> N
         html_path = Path("_site/posts") / post_path
         if not html_path.exists():
             continue
-        content = html_path.read_text(encoding="utf-8")
-        content = re.sub(r'href="#"', f'href="{links["prev"]}"', content, count=1)
-        content = re.sub(r'href="#"', f'href="{links["next"]}"', content, count=1)
-        html_path.write_text(content, encoding="utf-8")
+        original = html_path.read_text(encoding="utf-8")
+        if 'href="#"' not in original:
+            continue
+        updated = HREF_PLACEHOLDER_RE.sub(f'href="{links["prev"]}"', original, count=1)
+        updated = HREF_PLACEHOLDER_RE.sub(f'href="{links["next"]}"', updated, count=1)
+        if updated != original:
+            html_path.write_text(updated, encoding="utf-8")
 
 
 def inject_prev_next_into_home_page(post_names: list[str]) -> None:
@@ -130,12 +135,13 @@ def inject_prev_next_into_home_page(post_names: list[str]) -> None:
     prev_link = posixpath.relpath(newest_target, home_dir or ".")
     next_link = posixpath.relpath(oldest_target, home_dir or ".")
 
-    content = home_path.read_text(encoding="utf-8")
-    content = re.sub(r'href="#"', f'href="{prev_link}"', content, count=1)
-    content = re.sub(r'href="#"', f'href="{next_link}"', content, count=1)
-    content = re.sub(r">Précédent<", ">Dernier billet<", content, count=1)
-    content = re.sub(r">Suivant<", ">Premier billet<", content, count=1)
-    home_path.write_text(content, encoding="utf-8")
+    original = home_path.read_text(encoding="utf-8")
+    updated = HREF_PLACEHOLDER_RE.sub(f'href="{prev_link}"', original, count=1)
+    updated = HREF_PLACEHOLDER_RE.sub(f'href="{next_link}"', updated, count=1)
+    updated = re.sub(r">Précédent<", ">Dernier billet<", updated, count=1)
+    updated = re.sub(r">Suivant<", ">Premier billet<", updated, count=1)
+    if updated != original:
+        home_path.write_text(updated, encoding="utf-8")
 
 
 def main() -> dict[str, dict[str, str]]:
@@ -147,4 +153,5 @@ def main() -> dict[str, dict[str, str]]:
 
 
 if __name__ == "__main__":
-    print(main())
+    links = main()
+    print(f"prev/next links generated for {len(links)} posts")
