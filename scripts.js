@@ -40,9 +40,20 @@ targetBlank();
 // Navigation au clavier entre pages.
 let isNavigating = false;
 
+function getHomeHref() {
+    const footerHomeLink = document.querySelector(".nav-footer-center a.nav-link[href]");
+    if (footerHomeLink) return footerHomeLink.getAttribute("href");
+    return "/";
+}
+
+function normalizePath(pathname) {
+    return pathname.replace(/\/index\.html$/, "/");
+}
+
 function isHomePage() {
-    const p = window.location.pathname;
-    return p === "/" || p === "/index.html";
+    const currentPath = normalizePath(window.location.pathname);
+    const homePath = normalizePath(new URL(getHomeHref(), window.location.href).pathname);
+    return currentPath === homePath;
 }
 
 function replayLogoAnimation() {
@@ -82,7 +93,7 @@ document.addEventListener("keydown", (event) => {
             return;
         }
         isNavigating = true;
-        window.location.href = "/";
+        window.location.href = getHomeHref();
         return;
     }
     else if (prevKeys.includes(event.key) && prevLink && prevLink.getAttribute("href")) {
