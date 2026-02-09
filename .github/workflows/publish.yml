@@ -39,7 +39,7 @@ jobs:
           python -m pip install jupyter nbformat ipykernel
 
       - name: Render site
-        run: quarto render
+        run: quarto render --profile github
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
