@@ -8,7 +8,7 @@ draft: false
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Température et humidité avec un capteur DHT22 sur ESP8266
 ---
 

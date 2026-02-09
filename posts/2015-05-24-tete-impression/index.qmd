@@ -11,7 +11,7 @@ image: ./images/banner_2015-05-24-tete-impression.jpg
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Tête d’impression chinoise pour µDelta
 ---
 

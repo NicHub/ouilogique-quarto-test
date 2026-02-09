@@ -8,7 +8,7 @@ draft: true
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Comment quadrupler la taille d’une chaine en lui ajoutant un seul caractère ?
 ---
 

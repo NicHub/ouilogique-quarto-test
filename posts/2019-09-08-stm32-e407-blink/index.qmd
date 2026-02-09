@@ -8,7 +8,7 @@ draft: false
 lang: en
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Mise en route d’une carte <em>STM32&#8209;E407</em> sur <em>PlatformIO</em>
     avec le framework <em>Arduino</em>
 ---

@@ -10,7 +10,7 @@ image: ./images/banner_2015-08-14-2-4-in_TFT_Touch_screen.jpg
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Test d’un écran TFT 2.4"
 ---
 

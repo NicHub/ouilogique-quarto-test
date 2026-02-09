@@ -9,7 +9,7 @@ image: ./images/banner_2017-04-14-relai-bistable-commande-tension.jpg
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Commande d’un relai bistable 240 V avec un Arduino Pro Mini
 ---
 

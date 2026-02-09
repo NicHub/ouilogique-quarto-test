@@ -10,7 +10,7 @@ image: ./images/banner_2015-09-11-commande_matrice_32x32_avec_msp430.jpg
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Commande d’une matrice 32×32 avec un MSP430
 ---
 

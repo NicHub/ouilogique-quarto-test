@@ -9,7 +9,7 @@ image: ./images/banner_2015-11-01-Strinity_Sensors_Cobber.jpg
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Mise en route d’un capteur de pression, température et humidité <em>Strinity
     Sensors Cobber</em> I²C
 ---

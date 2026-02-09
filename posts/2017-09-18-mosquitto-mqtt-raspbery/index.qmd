@@ -8,7 +8,7 @@ draft: false
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Installer Mosquitto MQTT avec WebSocket sur un Raspberry Pi
 ---
 

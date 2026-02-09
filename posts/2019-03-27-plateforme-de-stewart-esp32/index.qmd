@@ -9,7 +9,7 @@ image: ./images/banner_2019-03-27-plateforme-de-stewart-esp32.jpg
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}} &#8211; ouilogique.com'
+pagetitle: '{{< meta title >}}'
 title: Plateforme de Stewart pilotée avec un ESP32
 ---
 
