@@ -36,3 +36,27 @@ function targetBlank() {
     }
 }
 targetBlank();
+
+// Navigation au clavier entre pages.
+document.addEventListener("keydown", (event) => {
+
+    // Leave if user is typing in an editable area.
+    const tag = (event.target.tagName || "").toLowerCase();
+    if (tag === "input" || tag === "textarea" || event.target.isContentEditable) return;
+
+    // Otherwise assign keyboard shortcuts to prev-next buttons.
+    const prevKeys = ["ArrowLeft"];
+    const nextKeys = ["ArrowRight"];
+
+    const prevLink = document.querySelector(".nav-page-home .pagination-link");
+    const nextLink = document.querySelector(".nav-page-next .pagination-link");
+
+    if (prevKeys.includes(event.key) && prevLink && prevLink.getAttribute("href")) {
+        event.preventDefault();
+        window.location.href = prevLink.getAttribute("href");
+    }
+    else if (nextKeys.includes(event.key) && nextLink && nextLink.getAttribute("href")) {
+        event.preventDefault();
+        window.location.href = nextLink.getAttribute("href");
+    }
+});

@@ -15,7 +15,7 @@ Je me tenais à environ 1.5 m de la machine que l’on voit sur la photo.
 
 La résolution de l’image est de 12 000 × 9 000 = 108 Mpx.
 
-La taille du fichier est de 27 386 678 octets = ~26.1 [Mio][Préfixe binaire] = ~26.1 [Mo][Préfixe binaire].
+La taille du fichier est de 27 386 678 octets = ~26.1 [Mio][Préfixe binaire] = ~27.4 [Mo][Préfixe binaire].
 
 [Préfixe binaire]: https://fr.wikipedia.org/wiki/Pr%C3%A9fixe_binaire#Tableaux_des_préfixes_binaires_et_décimaux
 
