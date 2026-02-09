@@ -53,4 +53,6 @@ title-block-banner: true
 
 *Bonne visite !*
 
+<pre style="font-size:70%; text-align:center; margin:40px 0 0;">Astuce : naviguez rapidement dans le site avec <kbd>→</kbd> <kbd>←</kbd> <kbd>esc</kbd></pre>
+
 </div>
