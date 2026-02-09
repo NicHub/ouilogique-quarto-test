@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2019-09-08 11:00:00+02:00
 draft: false
+image: https://github.com/NicHub/STM32-E407-BLINK/raw/master/images/STM32-E407-9_1.jpg
 lang: en
 layout: page
 lightbox: auto
