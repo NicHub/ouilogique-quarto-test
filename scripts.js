@@ -38,7 +38,10 @@ function targetBlank() {
 targetBlank();
 
 // Navigation au clavier entre pages.
+let isNavigating = false;
+
 document.addEventListener("keydown", (event) => {
+    if (isNavigating) return;
 
     // Leave if user is typing in an editable area.
     const tag = (event.target.tagName || "").toLowerCase();
@@ -53,10 +56,14 @@ document.addEventListener("keydown", (event) => {
 
     if (prevKeys.includes(event.key) && prevLink && prevLink.getAttribute("href")) {
         event.preventDefault();
+        isNavigating = true;
         window.location.href = prevLink.getAttribute("href");
+        return;
     }
     else if (nextKeys.includes(event.key) && nextLink && nextLink.getAttribute("href")) {
         event.preventDefault();
+        isNavigating = true;
         window.location.href = nextLink.getAttribute("href");
+        return;
     }
 });
