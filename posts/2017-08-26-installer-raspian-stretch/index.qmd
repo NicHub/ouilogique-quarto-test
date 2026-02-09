@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Installer Raspian Stretch sur Raspberry Pi
+title: Installer Raspian Stretch sur Raspberry Pi
 ---
 
 ## Matériel utilisé pour cette procédure

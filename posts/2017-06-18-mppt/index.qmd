@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: MPPT — Maximum Power Point Tracking
+title: MPPT — Maximum Power Point Tracking
 ---
 
 <iframe width="799px" height="639px"  scrolling="no" title="The Effects of Luminosity and Temperature on the Electrical Parameters of Solar Cells." src="https://www.geogebra.org/material/iframe/id/xeA3xZfH/width/698/height/558/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" style="border:0px;"></iframe>

@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Afficheur à LED 128×16
+title: Afficheur à LED 128×16
 ---
 
 ![ouilogique.com][img_1]

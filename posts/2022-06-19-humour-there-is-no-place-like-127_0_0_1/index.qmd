@@ -8,8 +8,8 @@ draft: false
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}}'
-title: Humour There is no place like 127.0.0.1
+pagetitle: Humour “There is no place like 127.0.0.1”
+title: Humour *“There is no place like 127.0.0.1”*
 ---
 
 Trop bien la pub [init7](https://www.init7.net/)

@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Programme basique pour commander un servomoteur
+title: Programme basique pour commander un servomoteur
 ---
 
 ## À voir aussi

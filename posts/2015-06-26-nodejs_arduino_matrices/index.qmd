@@ -10,10 +10,10 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Commander des Arduino avec Node.js
+title: Commander des Arduino avec Node.js
 ---
 
-Le système est géré avec un Raspberry Pi B+ avec :
+Le système est géré avec un Raspberry Pi B+ avec :
 
 -   Un serveur [Node.js](https://nodejs.org)
 -   [Un hotspot WiFi](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point?view=all)

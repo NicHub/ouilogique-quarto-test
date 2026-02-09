@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Flasher un bootloader
+title: Flasher un bootloader
 ---
 
 Un de mes Arduino Nano refusait de se faire flasher et retournait systématiquement une erreur du genre `not in sync`.

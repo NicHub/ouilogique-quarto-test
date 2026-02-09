@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: Débuggage sur ESP32 avec un ESP‑Prog et PIO Unified Debugger
-title: Débuggage sur ESP32 avec un <em>ESP&#8209;Prog</em> et <em>PIO Unified Debugger</em>
+title: Débuggage sur ESP32 avec un <em>ESP&#8209;Prog</em> et <em>PIO Unified Debugger</em>
 ---
 
 ![ESP-Prog — ouilogique.com][img_3]

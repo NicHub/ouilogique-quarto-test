@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Générateur de nombres polygonaux centrés
+title: Générateur de nombres polygonaux centrés
 ---
 
 Cliquez sur l’image pour accéder au générateur de nombres polygonaux centrés :

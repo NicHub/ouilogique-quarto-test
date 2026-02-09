@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Tests de modules nRF24L01+
+title: Tests de modules nRF24L01+
 ---
 
 ## Matériel

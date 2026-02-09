@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Test de hubs USB
+title: Test de hubs USB
 ---
 
 -   [Test du hub _Anne LXL4072201A_](#test-du-hub-anne-lxl4072201a)

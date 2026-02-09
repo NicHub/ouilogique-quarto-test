@@ -11,7 +11,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Utiliser un chip CH340G au lieu d’un FTDI
+title: Utiliser un chip CH340G au lieu d’un FTDI
 ---
 
 _Édit du 15 juillet 2017_

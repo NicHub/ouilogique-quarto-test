@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Test d’une horloge temps réel DS1307 I²C
+title: Test d’une horloge temps réel DS1307 I²C
 ---
 
 ![ouilogique.com][img_1]

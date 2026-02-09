@@ -6,11 +6,11 @@ categories: []
 date: 2019-09-08 11:00:00+02:00
 draft: false
 image: https://github.com/NicHub/STM32-E407-BLINK/raw/master/images/STM32-E407-9_1.jpg
-lang: en
+lang: fr
 layout: page
 lightbox: auto
 pagetitle: Mise en route d’une carte STM32&#8209;E407 sur PlatformIO avec le framework Arduino
-title: Mise en route d’une carte <em>STM32&#8209;E407</em> sur <em>PlatformIO</em> avec le framework <em>Arduino</em>
+title: Mise en route d’une carte <em>STM32&#8209;E407</em> sur <em>PlatformIO</em> avec le framework <em>Arduino</em>
 ---
 
 Cet article montre comment mettre en route une carte _STM32&#8209;E407_ sur _PlatformIO_ avec le framework _Arduino_.

@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Test d’un écran OLED 128×64 I²C
+title: Test d’un écran OLED 128×64 I²C
 ---
 
 ![ouilogique.com][img_1]

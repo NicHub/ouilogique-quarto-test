@@ -14,7 +14,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Programmer un ATtiny25V avec un Arduino UNO comme programmateur
+title: Programmer un ATtiny25V avec un Arduino UNO comme programmateur
 ---
 
 ## Matériel requis

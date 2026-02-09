@@ -8,8 +8,8 @@ draft: false
 lang: fr
 layout: page
 lightbox: auto
-pagetitle: '{{< meta title >}}'
-title: Humour Magic Word
+pagetitle: Humour “Magic Word”
+title: Humour *“Magic Word”*
 ---
 
 ![sudo is the magic word][img_1]

@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Trucs et astuces en Python
+title: Trucs et astuces en Python
 ---
 
 ## Python 2 vs 3

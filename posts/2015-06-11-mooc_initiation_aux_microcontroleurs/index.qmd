@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: MOOC — Initiation aux microcontrôleurs
+title: MOOC — Initiation aux microcontrôleurs
 ---
 
 Un peu de pub pour le cours de microcontrôleurs en ligne de l’EPFL :

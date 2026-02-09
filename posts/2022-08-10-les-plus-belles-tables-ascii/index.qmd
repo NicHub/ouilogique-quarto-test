@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Les plus belles tables ASCII
+title: Les plus belles tables ASCII
 ---
 
 Hier (9 août 2022), je suis tombé sur une table de caractères ASCII de toute beauté. Du coup, j’ai décidé de créer une page pour répertorier les plus belles tables que je trouverai sur mon chemin.

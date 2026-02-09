@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Test du capteur de température DS18B20 avec le protocole OneWire
+title: Test du capteur de température DS18B20 avec le protocole OneWire
 ---
 
 ![ouilogique.com][img_1]

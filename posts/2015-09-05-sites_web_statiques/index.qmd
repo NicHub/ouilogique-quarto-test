@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Générateurs de sites web statiques
+title: Générateurs de sites web statiques
 ---
 
 > Ouilogique.com est généré avec Jekyll.

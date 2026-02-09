@@ -11,7 +11,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Test d’un écran TFT 2.4"
+title: Test d’un écran TFT 2.4"
 ---
 
 J’ai acheté un écran TFT 2.4" chez Banggood :

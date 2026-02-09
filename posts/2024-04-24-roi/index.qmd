@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Sélection de régions d’intérêt sur une image avec D3.js
+title: Sélection de régions d’intérêt sur une image avec D3.js
 ---
 
 Cliquez sur l’image pour accéder à la démo :

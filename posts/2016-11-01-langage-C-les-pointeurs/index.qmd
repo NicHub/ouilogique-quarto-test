@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Les pointeurs en C
+title: Les pointeurs en C
 ---
 
 Je suis en train de suivre [le très bon cours sur la programmation en C d’Open Classrooms][1] et le deuxième exercice consiste à expliquer les pointeurs à quelqu’un qui n’y connait rien mais qui a des bases en C.

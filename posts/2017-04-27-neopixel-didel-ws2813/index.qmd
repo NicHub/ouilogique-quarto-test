@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Neopixel Didel WS2813
+title: Neopixel Didel WS2813
 ---
 
 ## Projet

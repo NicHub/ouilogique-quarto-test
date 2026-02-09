@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Analyseur logique Scanalogic-2
+title: Analyseur logique Scanalogic-2
 ---
 
 Mise en route de l’analyseur logique Scanalogic-2

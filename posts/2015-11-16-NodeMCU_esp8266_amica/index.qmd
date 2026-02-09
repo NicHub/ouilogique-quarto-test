@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: Mise en route d’une carte Amica avec le firmware NodeMCU et un module WiFi ESP8266
-title: Mise en route d’une carte <em>Amica</em> avec le firmware NodeMCU et un module WiFi ESP8266
+title: Mise en route d’une carte <em>Amica</em> avec le firmware NodeMCU et un module WiFi ESP8266
 ---
 
 > Voir aussi [l’article sur l’ESP8266 LoLin](/NodeMCU_esp8266/)

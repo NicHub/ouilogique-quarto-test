@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Un analyseur logique Arduino
+title: Un analyseur logique Arduino
 ---
 
 > Les informations ci-dessous viennent à l’origine d’un tuto qui n’est malheureusement plus en ligne <https://letsmakerobots.com/node/31422>{rel="nofollow"}.

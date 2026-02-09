@@ -16,7 +16,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Pinouts de quelques cartes
+title: Pinouts de quelques cartes
 ---
 
 ## DEFINES

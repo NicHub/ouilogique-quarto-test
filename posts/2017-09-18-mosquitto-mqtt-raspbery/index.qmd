@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Installer Mosquitto MQTT avec WebSocket sur un Raspberry Pi
+title: Installer Mosquitto MQTT avec WebSocket sur un Raspberry Pi
 ---
 
 Sur Raspbian Stretch, la version de `mosquitto` est assez vieille, donc cette procédure permet d’installer la dernière version disponible dans le dépôt.

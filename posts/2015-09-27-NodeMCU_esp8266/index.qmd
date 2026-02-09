@@ -11,7 +11,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: Mise en route d’une carte WeMos-LoLin avec le firmware NodeMCU et un module WiFi ESP8266
-title: Mise en route d’une carte <em>WeMos-LoLin</em> avec le firmware NodeMCU et un module WiFi ESP8266
+title: Mise en route d’une carte <em>WeMos-LoLin</em> avec le firmware NodeMCU et un module WiFi ESP8266
 ---
 
 > Voir aussi [l’article sur l’ESP8266 Amica](/NodeMCU_esp8266_amica/)

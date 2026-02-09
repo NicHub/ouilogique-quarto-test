@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Test du deep sleep de l’ESP8266
+title: Test du deep sleep de l’ESP8266
 ---
 
 ## Matériel

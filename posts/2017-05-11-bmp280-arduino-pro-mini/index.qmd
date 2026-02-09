@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: BMP280 avec Arduino Pro Mini
+title: BMP280 avec Arduino Pro Mini
 ---
 
 ## Matériel

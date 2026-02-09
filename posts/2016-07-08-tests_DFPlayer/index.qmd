@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Tests de modules DFPlayer
+title: Tests de modules DFPlayer
 ---
 
 Voici un petit module fort pratique pour lire des fichiers MP3.

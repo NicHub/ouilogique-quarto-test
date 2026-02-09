@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: Mise en route d’un capteur de pression, température et humidité Strinity Sensors Cobber I²C
-title: Mise en route d’un capteur de pression, température et humidité <em>Strinity Sensors Cobber</em> I²C
+title: Mise en route d’un capteur de pression, température et humidité <em>Strinity Sensors Cobber</em> I²C
 ---
 
 J’ai acheté une carte chez Banggood pour me faire une mini station météo :

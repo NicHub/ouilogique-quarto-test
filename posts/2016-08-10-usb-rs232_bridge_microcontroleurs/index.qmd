@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Utiliser des cartes à microcontrôleurs comme bridge USB&#8209;RS232
+title: Utiliser des cartes à microcontrôleurs comme bridge USB&#8209;RS232
 ---
 
 L’idée est de déterminer s’il est possible de remplacer un bridge USB-RS232 ([UART][1]) par une carte à microcontrôleur comme le Launchpad, l’Arduino Nano ou l’ESP8266.

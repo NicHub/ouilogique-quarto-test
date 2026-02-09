@@ -14,7 +14,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: La manipulation des entrées-sorties à l’aide des registres de port
+title: La manipulation des entrées-sorties à l’aide des registres de port
 ---
 
 ## Description des registres AVR & MSP

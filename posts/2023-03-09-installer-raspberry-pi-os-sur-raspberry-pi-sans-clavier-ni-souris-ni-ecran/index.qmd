@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Installer Raspberry Pi OS sur Raspberry Pi sans clavier, ni souris, ni écran
+title: Installer Raspberry Pi OS sur Raspberry Pi sans clavier, ni souris, ni écran
 ---
 
 Cet article montre comment configurer un Raspberry de A à Z à l’aide d’un ordinateur standard.

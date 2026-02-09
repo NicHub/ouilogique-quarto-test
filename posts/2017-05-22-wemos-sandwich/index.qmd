@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Sandwich de WEMOS
+title: Sandwich de WEMOS
 ---
 
 ## Matériel

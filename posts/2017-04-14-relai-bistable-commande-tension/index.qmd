@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Commande d’un relai bistable 240 V avec un Arduino Pro Mini
+title: Commande d’un relai bistable 240 V avec un Arduino Pro Mini
 ---
 
 ## Projet

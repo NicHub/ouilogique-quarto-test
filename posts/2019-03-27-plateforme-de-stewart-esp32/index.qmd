@@ -10,7 +10,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Plateforme de Stewart pilotée avec un ESP32
+title: Plateforme de Stewart pilotée avec un ESP32
 ---
 
 ![Plateforme de Stewart — ouilogique.com][i1]

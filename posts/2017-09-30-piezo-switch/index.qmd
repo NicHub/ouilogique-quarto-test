@@ -9,7 +9,7 @@ lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
-title: Bouton piézoélectrique sur Arduino
+title: Bouton piézoélectrique sur Arduino
 ---
 
 ## Matériel
