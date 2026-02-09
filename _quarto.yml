@@ -14,7 +14,7 @@ project:
     - scripts.js
 
 execute:
-  enabled: false
+  enabled: true
 
 website:
   title: "ouilogique.com"

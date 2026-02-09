@@ -1,0 +1,37 @@
+---
+author: Nico
+date: 2021-04-30 09:52:54+01:00
+draft: false
+lang: fr
+layout: page
+lightbox: auto
+pagetitle: '{{< meta title >}}'
+title: Une image haute résolution avec un Samsung S21 Ultra
+---
+
+Voici une photo haute résolution que j’ai prise avec un téléphone Samsung S21 Ultra.
+
+Je me tenais à environ 1.5 m de la machine que l’on voit sur la photo.
+
+L’image a une dimension de 12 000 × 9 000 = 108 Mpx.
+
+La taille du fichier est de 27 386 678 octets (~26.1 [Mio][Préfixe binaire]).
+
+[Préfixe binaire]: https://fr.wikipedia.org/wiki/Pr%C3%A9fixe_binaire#Tableaux_des_préfixes_binaires_et_décimaux
+
+```{python}
+size_bytes = 27_386_678
+size_mio = size_bytes / 2**20
+size_mo = size_bytes / 10**6
+print(f"{size_bytes:_d} o = {size_mio:.1f} Mio = {size_mo:.1f} Mo")
+```
+
+Au centre, le PCB fait environ 30 cm de large et ce qui est absolument bluffant, c’est que si on zoome sur lui, on découvre que les textes minuscules sont lisibles.
+
+![Une image haute résolution avec un Samsung S21 Ultra][img_1]
+
+[img_1]: ./images/20210430_095254.jpg
+
+![Détail de l’image haute résolution avec un Samsung S21 Ultra][img_2]
+
+[img_2]: ./images/20210430_095254_detail_1.jpg
