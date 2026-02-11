@@ -97,10 +97,32 @@ show_preview_url_and_qr() {
 run_quarto_preview() {
     local host_ip="${1}"
     local host_port="${2}"
+    local quarto_pid
+    local sig
 
     quarto preview \
         --host "${host_ip}" \
-        --port "${host_port}"
+        --port "${host_port}" &
+    quarto_pid=$!
+
+    # Handle Ctrl+C/termination by forwarding the signal to Quarto so it can
+    # shut down cleanly and avoid leaving a background preview process running.
+    cleanup() {
+        sig="${1:-TERM}"
+
+        if kill -0 "${quarto_pid}" >/dev/null 2>&1; then
+            echo
+            echo "Stopping Quarto preview (${sig})..."
+            kill -"${sig}" "${quarto_pid}" >/dev/null 2>&1 || true
+        fi
+    }
+
+    trap 'cleanup INT' INT
+    trap 'cleanup TERM' TERM
+    trap 'cleanup TERM' EXIT
+
+    # Propagate the preview server exit code.
+    wait "${quarto_pid}"
 }
 
 main() {
