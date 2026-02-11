@@ -101,6 +101,11 @@ blockquote {
     vertical-align: -3px;
 }
 
+.page-navigation .material-symbols-outlined {
+    font-size: 1.05em;
+    vertical-align: -2px;
+}
+
 /* Masquer la navbar uniquement sur la page d'accueil */
 .no-navbar-home #quarto-header {
     display: none !important;

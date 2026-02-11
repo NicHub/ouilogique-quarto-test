@@ -1,3 +1,4 @@
 format:
   html:
-    include-after-body: ../../_includes/prev-next-footer.html
+    include-before-body: ../../_includes/prev-next-include.html
+    include-after-body: ../../_includes/prev-next-include.html

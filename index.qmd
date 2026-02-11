@@ -3,7 +3,7 @@ body-classes: no-navbar-home
 date-format: long
 format:
   html:
-    include-after-body: _includes/prev-next-footer.html
+    include-after-body: _includes/prev-next-include.html
 lang: fr
 listing:
   contents: posts
