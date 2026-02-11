@@ -3,14 +3,18 @@
 <head>
     <meta name=”robots” content=”noindex”>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<title>&Eacute;num&eacute;ration</title>
+	<title>enum</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+
 	<style type="text/css">
 		body {
-			font-family: monaco, Consolas, monospace;
+			font-family: "Fira Code", cursive;
 			width: 100%;
 			margin: 0;
 			padding: 0;
-			background-color: #f2f2f2;
+			text-align: center;
 		}
 
 		ol {
@@ -31,22 +35,61 @@
 			content: " ";
 		}
 
-		li:nth-child(2n+1) {
-			background-color: #CCC;
+		/* Theme sombre */
+		.theme-dark {
+			background-color: #111;
+			color: #eee;
 		}
 
-		li:nth-child(2n+1):hover {
+		.theme-dark li:nth-child(2n+1) {
+			background-color: #222;
+			color: #eee;
+		}
+
+		.theme-dark li:nth-child(2n) {
+			background-color: #1a1a1a;
+			color: #eee;
+		}
+
+		.theme-dark li:nth-child(2n+1):hover {
+			background-color: #f0f0f0;
+			color: #111;
+		}
+
+		.theme-dark li:nth-child(2n):hover {
+			background-color: #ddd;
+			color: #111;
+		}
+
+		/* Theme clair */
+		.theme-light {
+			background-color: #f2f2f2;
+			color: #111;
+		}
+
+		.theme-light li:nth-child(2n+1) {
+			background-color: #d0d0d0;
+			color: #111;
+		}
+
+		.theme-light li:nth-child(2n) {
+			background-color: #e7e7e7;
+			color: #111;
+		}
+
+		.theme-light li:nth-child(2n+1):hover {
 			background-color: #333;
-			color: white;
+			color: #fff;
 		}
 
-		li:nth-child(2n):hover {
-			background-color: black;
-			color: white;
+		.theme-light li:nth-child(2n):hover {
+			background-color: #000;
+			color: #fff;
 		}
 </style>
 </head>
-<body>
+<body class="theme-dark">
+<h1>ENUM</h1>
 <ol>
 <li>a</li>
 <li>b</li>
