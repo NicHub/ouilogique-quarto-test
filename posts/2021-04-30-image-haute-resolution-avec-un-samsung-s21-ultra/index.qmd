@@ -7,6 +7,7 @@ execute:
 lang: fr
 layout: page
 lightbox: auto
+image: ./images/20210430_095254_lowres.jpg
 pagetitle: '{{< meta title >}}'
 title: Une image haute résolution avec un Samsung S21 Ultra
 ---
