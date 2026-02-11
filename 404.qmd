@@ -5,5 +5,5 @@ navbar: false
 ---
 
 ::: {.text-center}
-[![](./images/404.svg)](./)
+[![](https://ouilogique.com/images/404.svg)](./)
 :::

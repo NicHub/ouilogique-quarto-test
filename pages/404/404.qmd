@@ -1,9 +1,0 @@
----
-title: ""
-pagetitle: '🤭 404'
-navbar: false
----
-
-::: {.text-center}
-[![](./images/404.svg)](./)
-:::
