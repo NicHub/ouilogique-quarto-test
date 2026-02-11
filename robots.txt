@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /scratchpad/
-Disallow: /pages/scratchpad/
 Sitemap: /sitemap.xml
