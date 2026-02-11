@@ -15,5 +15,9 @@ title: Sélection de régions d’intérêt sur une image avec D3.js
 Cliquez sur l’image pour accéder à la démo :
 
 <a href="https://ouilogique.alwaysdata.net/RoI/" target="_blank" rel="noopener noreferrer">
-  <img src="./images/2024-04-24-roi-001.jpg" alt="Sélection de régions d’intérêt sur une image avec D3.js">
+  <img
+    src="./images/2024-04-24-roi-001.jpg"
+    alt="Sélection de régions d’intérêt sur une image avec D3.js"
+    style="max-width: 100%; height: auto;"
+  >
 </a>
