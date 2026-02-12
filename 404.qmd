@@ -8,4 +8,4 @@ format: html
     figcaption {display:none;}
 </style>
 
-[![404](https://ouilogique.com/images/404.svg)](https://ouilogique.com/){.text-center}
+[![404](images/404.svg)](/)
