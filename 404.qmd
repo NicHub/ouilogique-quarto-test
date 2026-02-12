@@ -1,7 +1,7 @@
 ---
-title: ""
-pagetitle: '🤭 404'
+pagetitle: "🤭 404"
 navbar: false
+format: html
 ---
 
 <style>
