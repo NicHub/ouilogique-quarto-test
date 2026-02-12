@@ -20,6 +20,18 @@ title-block-banner: true
 ---
 
 <style>
+kbd {
+    border: 1px solid #AAA;
+    border-radius: 10%;
+    padding: 1px;
+    margin: 0.5em 0 0;
+    min-width: 40px;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.0em;
+    font-weight: bold;
+}
+
 .home-welcome-card {
   background: linear-gradient(160deg, #15171c 0%, #0f1116 100%);
   border-radius: 16px;
@@ -36,9 +48,10 @@ title-block-banner: true
 .astuce {
   font-size: 70%;
   font-family: "Fira Code", cursive;
-  line-height: 3em;
-  margin: 40px 0 0;
+  line-height: 2em;
+  margin: 40px auto 0;
   text-align: center;
+  width: 50%;
 }
 
 @media (max-width: 768px) {
@@ -67,6 +80,6 @@ title-block-banner: true
 
 *Bonne visite !*
 
-<p class="astuce">Astuce : naviguez rapidement sur le site avec <kbd>→</kbd> <kbd>←</kbd> <kbd>esc</kbd></p>
+<p class="astuce">Astuce : naviguez rapidement sur le site avec les touches<br><kbd>→</kbd> <kbd>←</kbd> <kbd>esc</kbd></p>
 
 </div>
