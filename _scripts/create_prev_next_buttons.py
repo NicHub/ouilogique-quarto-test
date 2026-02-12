@@ -99,6 +99,19 @@ def get_prev_next_links(post_names: list[str]) -> dict[str, dict[str, str]]:
     return links
 
 
+def replace_href_placeholders(text: str, prev_link: str, next_link: str) -> str:
+    """Replace all href placeholders by alternating prev/next links."""
+    i = 0
+
+    def repl(_: re.Match[str]) -> str:
+        nonlocal i
+        link = prev_link if i % 2 == 0 else next_link
+        i += 1
+        return f'href="{link}"'
+
+    return HREF_PLACEHOLDER_RE.sub(repl, text)
+
+
 def inject_prev_next_into_posts(prev_next_links: dict[str, dict[str, str]]) -> None:
     """Inject prev/next links directly in rendered _site post files."""
     for post_path, links in prev_next_links.items():
@@ -108,8 +121,7 @@ def inject_prev_next_into_posts(prev_next_links: dict[str, dict[str, str]]) -> N
         original = html_path.read_text(encoding="utf-8")
         if 'href="#"' not in original:
             continue
-        updated = HREF_PLACEHOLDER_RE.sub(f'href="{links["prev"]}"', original, count=1)
-        updated = HREF_PLACEHOLDER_RE.sub(f'href="{links["next"]}"', updated, count=1)
+        updated = replace_href_placeholders(original, links["prev"], links["next"])
         if updated != original:
             html_path.write_text(updated, encoding="utf-8")
 
@@ -136,10 +148,9 @@ def inject_prev_next_into_home_page(post_names: list[str]) -> None:
     next_link = posixpath.relpath(oldest_target, home_dir or ".")
 
     original = home_path.read_text(encoding="utf-8")
-    updated = HREF_PLACEHOLDER_RE.sub(f'href="{prev_link}"', original, count=1)
-    updated = HREF_PLACEHOLDER_RE.sub(f'href="{next_link}"', updated, count=1)
-    updated = re.sub(r">Précédent<", ">Dernier billet<", updated, count=1)
-    updated = re.sub(r">Suivant<", ">Premier billet<", updated, count=1)
+    updated = replace_href_placeholders(original, prev_link, next_link)
+    updated = re.sub(r">Précédent<", ">Dernier billet<", updated)
+    updated = re.sub(r">Suivant<", ">Premier billet<", updated)
     if updated != original:
         home_path.write_text(updated, encoding="utf-8")
 
