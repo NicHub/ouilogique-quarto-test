@@ -19,7 +19,7 @@ execute:
 
 website:
   title: "ouilogique.com"
-  site-url: https://ouilogique.com/
+  site-url: &site_url https://ouilogique.com/
   favicon: images/favicon.ico
   search: false
   navbar:
@@ -38,9 +38,7 @@ website:
   page-footer:
     center:
       - text: '<p>© 2026 ouilogique.com</p><p><span class="material-symbols-outlined">home</span></p>'
-        file: /
-      # - icon: github
-      #   href: https://github.com/NicHub
+        href: *site_url
 
 format:
   html:

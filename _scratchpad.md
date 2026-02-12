@@ -52,3 +52,7 @@ Vérifier les liens.
 Copier les scripts de la première version avec Quarto.
 
 Vérifier les fichiers dans `files` sur le site original.
+
+## Problème 404
+
+https://github.com/quarto-dev/quarto-cli/issues/5284

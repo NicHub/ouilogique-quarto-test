@@ -4,6 +4,8 @@ pagetitle: '🤭 404'
 navbar: false
 ---
 
-::: {.text-center}
-[![404](https://ouilogique.com/images/404.svg)](https://ouilogique.com/)
-:::
+<style>
+    figcaption {display:none;}
+</style>
+
+[![404](https://ouilogique.com/images/404.svg)](https://ouilogique.com/){.text-center}
