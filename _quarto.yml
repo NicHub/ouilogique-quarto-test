@@ -19,7 +19,7 @@ execute:
 
 website:
   title: "ouilogique.com"
-  site-url: "https://ouilogique.com"
+  site-url: https://ouilogique.com/
   favicon: images/favicon.ico
   search: false
   navbar:
