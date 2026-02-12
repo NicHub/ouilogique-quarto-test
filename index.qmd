@@ -28,19 +28,21 @@ title-block-banner: true
   color: #e8ecf3;
   margin: 100px auto;
   min-width: min(92vw, 22rem);
+  text-align: center;
   padding: 2rem 2.25rem;
   width: min(50%, 48rem);
 }
 
 .astuce {
   font-size: 70%;
+  font-family: "Fira Code", cursive;
+  line-height: 3em;
   margin: 40px 0 0;
   text-align: center;
 }
 
 @media (max-width: 768px) {
   .home-welcome-card {
-    font-family: monospace;
     margin: 48px 0;
     min-width: 0;
     text-align: center;
@@ -59,12 +61,12 @@ title-block-banner: true
 
 <div class="home-welcome-card">
 
-## Bienvenue sur ouilogique.com
+<p class="h2">Bienvenue sur ouilogique.com</p>
 
 *Ce blog me sert d’aide-mémoire pour mes projets IoT sur Arduino, ESP, Raspberry Pi et quelques autres.*
 
 *Bonne visite !*
 
-<p class="astuce">Astuce : naviguez rapidement dans le site avec <kbd>→</kbd> <kbd>←</kbd> <kbd>esc</kbd></p>
+<p class="astuce">Astuce : naviguez rapidement sur le site avec <kbd>→</kbd> <kbd>←</kbd> <kbd>esc</kbd></p>
 
 </div>
