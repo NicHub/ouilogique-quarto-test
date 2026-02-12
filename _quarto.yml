@@ -17,6 +17,8 @@ project:
 execute:
   enabled: false
 
+image: images/site-logo.png
+
 website:
   title: "ouilogique.com"
   site-url: https://ouilogique.com/
@@ -42,6 +44,8 @@ website:
 
 format:
   html:
+    open-graph: true
+    twitter-card: true
     include-in-header:
       - _includes/fonts.html
     include-after-body:
