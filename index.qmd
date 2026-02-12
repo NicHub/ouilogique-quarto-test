@@ -21,28 +21,30 @@ title-block-banner: true
 
 <style>
 .home-welcome-card {
-  width: min(50%, 48rem);
-  min-width: min(92vw, 22rem);
-  margin: 100px auto;
-  padding: 2rem 2.25rem;
   background: linear-gradient(160deg, #15171c 0%, #0f1116 100%);
-  color: #e8ecf3;
-  border: 1px solid #2a3040;
   border-radius: 16px;
+  border: 1px solid #2a3040;
   box-shadow: 0 20px 45px rgba(0, 0, 0, 0.4);
+  color: #e8ecf3;
+  margin: 100px auto;
+  min-width: min(92vw, 22rem);
+  padding: 2rem 2.25rem;
+  width: min(50%, 48rem);
 }
 
 .astuce {
   font-size: 70%;
-  text-align: center;
   margin: 40px 0 0;
+  text-align: center;
 }
 
 @media (max-width: 768px) {
   .home-welcome-card {
-    width: auto;
-    min-width: 0;
+    font-family: monospace;
     margin: 48px 0;
+    min-width: 0;
+    text-align: center;
+    width: auto;
   }
 
   .astuce {
@@ -63,6 +65,6 @@ title-block-banner: true
 
 *Bonne visite !*
 
-<pre class="astuce">Astuce : naviguez rapidement dans le site avec <kbd>→</kbd> <kbd>←</kbd> <kbd>esc</kbd></pre>
+<p class="astuce">Astuce : naviguez rapidement dans le site avec <kbd>→</kbd> <kbd>←</kbd> <kbd>esc</kbd></p>
 
 </div>
