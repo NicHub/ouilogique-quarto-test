@@ -39,7 +39,7 @@ jobs:
           python -m pip install -r _requirements.txt
 
       - name: Render site
-        run: quarto render --profile github
+        run: quarto render
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
