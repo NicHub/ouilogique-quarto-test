@@ -1,5 +1,5 @@
 # python3 -m pip install --upgrade pip && python3 -m pip install --upgrade -r _requirements.txt
-jupyter
-nbformat
-ipykernel
-pyyaml
+jupyter==1.1.1
+nbformat==5.9.0
+ipykernel==6.28.0
+pyyaml==6.0

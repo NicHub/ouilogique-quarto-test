@@ -19,10 +19,6 @@ title: <span class="spin">OUI</span>LOGIQUE.COM
 title-block-banner: true
 ---
 
-[![][img_1]]{.cls-site-logo}
-
-[img_1]: ./images/site-logo.png
-
 <style>
 .home-welcome-card {
   width: min(50%, 48rem);
@@ -36,14 +32,28 @@ title-block-banner: true
   box-shadow: 0 20px 45px rgba(0, 0, 0, 0.4);
 }
 
+.astuce {
+  font-size: 70%;
+  text-align: center;
+  margin: 40px 0 0;
+}
+
 @media (max-width: 768px) {
   .home-welcome-card {
     width: auto;
     min-width: 0;
     margin: 48px 0;
   }
+
+  .astuce {
+    display: none;
+  }
 }
 </style>
+
+[![][img_1]]{.cls-site-logo}
+
+[img_1]: ./images/site-logo.png
 
 <div class="home-welcome-card">
 
@@ -53,6 +63,6 @@ title-block-banner: true
 
 *Bonne visite !*
 
-<pre style="font-size:70%; text-align:center; margin:40px 0 0;">Astuce : naviguez rapidement dans le site avec <kbd>→</kbd> <kbd>←</kbd> <kbd>esc</kbd></pre>
+<pre class="astuce">Astuce : naviguez rapidement dans le site avec <kbd>→</kbd> <kbd>←</kbd> <kbd>esc</kbd></pre>
 
 </div>

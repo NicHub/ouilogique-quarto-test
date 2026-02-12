@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import posixpath
 import re
+import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.parse import urlparse
@@ -17,20 +18,28 @@ from urllib.parse import urlparse
 HREF_PLACEHOLDER_RE = re.compile(r'href="#"')
 
 
+def log(msg: str, level: str = "INFO") -> None:
+    """Log a message to stderr."""
+    print(f"[prev-next] {level}: {msg}", file=sys.stderr)
+
+
 def get_post_names() -> list[str]:
     sitemap_path = Path("_site/sitemap.xml")
     if not sitemap_path.exists():
+        log(f"Sitemap not found at {sitemap_path}", "ERROR")
         return []
 
     try:
         root = ET.parse(sitemap_path).getroot()
-    except ET.ParseError:
+    except ET.ParseError as e:
+        log(f"Failed to parse sitemap XML: {e}", "ERROR")
         return []
 
     ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
     loc_nodes = root.findall(".//sm:url/sm:loc", ns)
 
     if not loc_nodes:
+        log("No URL nodes found in sitemap", "WARNING")
         return []
 
     urls = [node.text.strip() for node in loc_nodes if node.text]
@@ -38,7 +47,10 @@ def get_post_names() -> list[str]:
     post_urls.sort()
 
     if not post_urls:
+        log("No post URLs found in sitemap", "WARNING")
         return []
+
+    log(f"Found {len(post_urls)} posts in sitemap")
 
     rows: list[str] = []
     for url in post_urls:
@@ -112,33 +124,58 @@ def replace_href_placeholders(text: str, prev_link: str, next_link: str) -> str:
     return HREF_PLACEHOLDER_RE.sub(repl, text)
 
 
-def inject_prev_next_into_posts(prev_next_links: dict[str, dict[str, str]]) -> None:
-    """Inject prev/next links directly in rendered _site post files."""
+def inject_prev_next_into_posts(prev_next_links: dict[str, dict[str, str]]) -> int:
+    """Inject prev/next links directly in rendered _site post files.
+
+    Returns:
+        Number of files updated.
+    """
+    updated_count = 0
+    missing_count = 0
+    no_placeholder_count = 0
+
     for post_path, links in prev_next_links.items():
         html_path = Path("_site/posts") / post_path
         if not html_path.exists():
+            log(f"File not found: {post_path}", "WARNING")
+            missing_count += 1
             continue
         original = html_path.read_text(encoding="utf-8")
         if 'href="#"' not in original:
+            log(f"No placeholders found in {post_path}", "WARNING")
+            no_placeholder_count += 1
             continue
         updated = replace_href_placeholders(original, links["prev"], links["next"])
         if updated != original:
             html_path.write_text(updated, encoding="utf-8")
+            updated_count += 1
+
+    if missing_count > 0:
+        log(f"Skipped {missing_count} missing files")
+    if no_placeholder_count > 0:
+        log(f"Skipped {no_placeholder_count} files without placeholders")
+
+    return updated_count
 
 
-def inject_prev_next_into_home_page(post_names: list[str]) -> None:
+def inject_prev_next_into_home_page(post_names: list[str]) -> bool:
     """Inject prev/next links in _site/index.html only.
 
     Home page behavior:
       - prev -> most recent post
       - next -> oldest post
+
+    Returns:
+        True if home page was updated, False otherwise.
     """
     if not post_names:
-        return
+        log("No posts available for home page navigation", "WARNING")
+        return False
 
     home_path = Path("_site/index.html")
     if not home_path.exists():
-        return
+        log("Home page not found at _site/index.html", "WARNING")
+        return False
 
     oldest_target = f"posts/{post_names[0]}"
     newest_target = f"posts/{post_names[-1]}"
@@ -153,16 +190,28 @@ def inject_prev_next_into_home_page(post_names: list[str]) -> None:
     updated = re.sub(r">Suivant<", ">Premier billet<", updated)
     if updated != original:
         home_path.write_text(updated, encoding="utf-8")
+        log("Updated home page navigation")
+        return True
+
+    log("Home page already up to date")
+    return False
 
 
 def main() -> dict[str, dict[str, str]]:
+    log("Starting prev/next navigation generation")
     post_names = get_post_names()
     prev_next_links = get_prev_next_links(post_names)
-    inject_prev_next_into_posts(prev_next_links)
-    inject_prev_next_into_home_page(post_names)
+
+    posts_updated = inject_prev_next_into_posts(prev_next_links)
+    home_updated = inject_prev_next_into_home_page(post_names)
+
+    log(f"✓ Updated {posts_updated} post files with navigation links")
+    if home_updated:
+        log("✓ Updated home page with navigation links")
+
     return prev_next_links
 
 
 if __name__ == "__main__":
     links = main()
-    print(f"prev/next links generated for {len(links)} posts")
+    log(f"✓ Successfully generated prev/next links for {len(links)} posts")
