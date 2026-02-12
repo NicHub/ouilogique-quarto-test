@@ -58,7 +58,7 @@ Pour la quatrième version, je ne génère plus le PWM des servos avec l’ESP32
 
 > Changement de bande adhésive pour tenir le câble du Nunshunk et ajout d’un condensateur de 10 µF entre la broches RST et GND qui permet de [ne plus être obligé de presser sur BOOT lorsqu’on flashe l’ESP].
 
-[ne plus être obligé de presser sur BOOT lorsqu’on flashe l’ESP]: ../ne-pressez-plus-sur-boot-pour-flasher-un-esp/
+[ne plus être obligé de presser sur BOOT lorsqu’on flashe l’ESP]: ../2023-11-11-ne-pressez-plus-sur-boot-pour-flasher-un-esp/
 
 ![Plateforme de Stewart — ouilogique.com][i10]
 
