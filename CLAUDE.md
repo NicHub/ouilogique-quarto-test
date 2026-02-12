@@ -47,7 +47,7 @@ After `quarto render` completes, two post-render scripts run automatically (conf
 
   - `prev-next-include.html`: Navigation template with `href="#"` placeholders
   - `scripts.html`: Global scripts
-  - `material-symbols.html`: Material Symbols icon font
+  - `fonts.html`: Material Symbols icon font
 
 - `_scripts/`: Build-time processing scripts
 - `custom.scss`: Site-wide styling overrides

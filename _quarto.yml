@@ -43,7 +43,7 @@ website:
 format:
   html:
     include-in-header:
-      - _includes/material-symbols.html
+      - _includes/fonts.html
     include-after-body:
       - _includes/scripts.html
     theme:
