@@ -17,8 +17,6 @@ project:
 execute:
   enabled: false
 
-image: images/site-logo.png
-
 website:
   title: "ouilogique.com"
   site-url: https://ouilogique.com/
