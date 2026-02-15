@@ -11,7 +11,8 @@ FILENAMES=(
     # ../posts/2020-12-25-installer-pi-hole-sur-un-raspberry/images/Vortex_with_Wordmark-thumb
     # ../posts/2023-03-09-installer-raspberry-pi-os-sur-raspberry-pi-sans-clavier-ni-souris-ni-ecran/images/Raspberry_Pi_Logo-thumb
     # ../posts/2018-02-15-introduction-html/images/HTML5_Logo-thumb
-    ../posts/2018-02-16-introduction-css/images/CSS3_logo_and_wordmark-thumb
+    # ../posts/2018-02-16-introduction-css/images/CSS3_logo_and_wordmark-thumb
+    ../posts/2018-02-17-introduction-javascript/images/Javascript-shield-thumb
 )
 
 for filename in "${FILENAMES[@]}"; do
