@@ -12,6 +12,10 @@ pagetitle: '{{< meta title >}}'
 title: Introduction au langage HTML
 ---
 
+<p class="text-center" style="margin: 40px 0;">
+    <img src="./images/HTML5_Logo-thumb.png" alt="HTML5 Logo" style="width:500px;">
+</p>
+
 Ce document fait partie du [cours sur le HTML embarqué][Wiki du cours HTML embarqué] que j’ai donné au [Microclub][Microclub]{rel="nofollow"} en janvier et février 2018 à l’EPFL.
 
 ## Les documents du cours
