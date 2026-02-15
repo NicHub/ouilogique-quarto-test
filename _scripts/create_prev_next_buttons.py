@@ -133,6 +133,8 @@ def inject_prev_next_into_posts(prev_next_links: dict[str, dict[str, str]]) -> i
     updated_count = 0
     missing_count = 0
     no_placeholder_count = 0
+    already_linked_count = 0
+    no_nav_block_count = 0
 
     for post_path, links in prev_next_links.items():
         html_path = Path("_site/posts") / post_path
@@ -142,8 +144,12 @@ def inject_prev_next_into_posts(prev_next_links: dict[str, dict[str, str]]) -> i
             continue
         original = html_path.read_text(encoding="utf-8")
         if 'href="#"' not in original:
-            log(f"No placeholders found in {post_path}", "WARNING")
             no_placeholder_count += 1
+            if 'class="page-navigation"' in original and 'class="pagination-link"' in original:
+                already_linked_count += 1
+            else:
+                no_nav_block_count += 1
+                log(f"No navigation block found in {post_path}", "WARNING")
             continue
         updated = replace_href_placeholders(original, links["prev"], links["next"])
         if updated != original:
@@ -152,7 +158,11 @@ def inject_prev_next_into_posts(prev_next_links: dict[str, dict[str, str]]) -> i
 
     if missing_count > 0:
         log(f"Skipped {missing_count} missing files")
-    if no_placeholder_count > 0:
+    if already_linked_count > 0:
+        log(f"Skipped {already_linked_count} files already containing navigation links")
+    if no_nav_block_count > 0:
+        log(f"Skipped {no_nav_block_count} files without navigation block", "WARNING")
+    elif no_placeholder_count > 0 and already_linked_count == 0:
         log(f"Skipped {no_placeholder_count} files without placeholders")
 
     return updated_count
