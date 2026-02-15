@@ -18,7 +18,8 @@ FILENAMES=(
     # ../posts/2016-04-25-test_taille_port_vs_arduino/images/test_taille_port_vs_arduino-thumb
     # ../posts/2016-04-25-test_vitesse_port_vs_arduino/images/test_vitesse_port_vs_arduino-thumb
     # ../posts/2014-12-03-manipulation_des_ports/images/manipulation_des_ports-thumb
-    ../posts/2015-05-28-melodie/images/melodie-thumb
+    # ../posts/2015-05-28-melodie/images/melodie-thumb
+    ../posts/2015-09-05-sites_web_statiques/images/sites_web_statiques-thumb
 )
 
 for filename in "${FILENAMES[@]}"; do

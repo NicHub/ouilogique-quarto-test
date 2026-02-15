@@ -13,8 +13,11 @@ pagetitle: '{{< meta title >}}'
 title: Générateurs de sites web statiques
 ---
 
-> Ouilogique.com est généré avec Jekyll.
+<p class="text-center" style="margin: 40px 0;">
+    <img src="./images/sites_web_statiques-thumb.png" alt="Générateurs de sites web statiques Logo" style="width:600px;">
+</p>
 
+> Ouilogique.com est généré avec Jekyll.
 
 ## Simon Wood — Future Insights
 <!--
