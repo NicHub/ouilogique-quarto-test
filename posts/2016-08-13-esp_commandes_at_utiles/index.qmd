@@ -12,6 +12,10 @@ pagetitle: '{{< meta title >}}'
 title: ESP8266 — Commandes AT utiles
 ---
 
+<p class="text-center" style="margin: 40px 0;">
+    <img src="./images/esp_commandes_at_utiles-thumb.png" alt="ESP8266 — Commandes AT utiles Logo" style="width:600px;">
+</p>
+
 Les commandes présentées télégraphiquement ici sont tirées des pages :
 
 -   <https://alselectro.wordpress.com/2015/05/05/wifi-module-esp8266-1-getting-started-with-at-commands/>

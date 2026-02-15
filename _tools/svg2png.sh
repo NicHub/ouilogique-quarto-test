@@ -12,7 +12,9 @@ FILENAMES=(
     # ../posts/2023-03-09-installer-raspberry-pi-os-sur-raspberry-pi-sans-clavier-ni-souris-ni-ecran/images/Raspberry_Pi_Logo-thumb
     # ../posts/2018-02-16-introduction-css/images/CSS3_logo_and_wordmark-thumb
     # ../posts/2018-02-17-introduction-javascript/images/Javascript-shield-thumb
-    ../posts/2018-02-15-introduction-html/images/HTML5_logo_and_wordmark-thumb
+    # ../posts/2018-02-15-introduction-html/images/HTML5_logo_and_wordmark-thumb
+    # ../posts/2016-11-01-langage-C-les-pointeurs/images/pointeurs-c-thumb
+    ../posts/2016-08-13-esp_commandes_at_utiles/images/esp_commandes_at_utiles-thumb
 )
 
 for filename in "${FILENAMES[@]}"; do
@@ -28,10 +30,10 @@ for filename in "${FILENAMES[@]}"; do
     #     "$FILENAME_IN"            \
     #     -o "$FILENAME_OUT"
 
-    inkscape                      \
-        --export-area-page        \
-        "$FILENAME_IN"            \
-        -o "$FILENAME_OUT"
+    # inkscape                      \
+    #     --export-area-page        \
+    #     "$FILENAME_IN"            \
+    #     -o "$FILENAME_OUT"
 
     source png_web_audit.sh $FILENAME_OUT
 
@@ -42,7 +44,7 @@ for filename in "${FILENAMES[@]}"; do
         --force                   \
         --skip-if-larger          \
         --quality 0-2             \
-        10                        \
+        256                        \
         --output "$FILENAME_OUT" \
         "$FILENAME_OUT"
 

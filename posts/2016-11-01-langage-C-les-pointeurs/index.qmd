@@ -12,6 +12,10 @@ pagetitle: '{{< meta title >}}'
 title: Les pointeurs en C
 ---
 
+<p class="text-center" style="margin: 40px 0;">
+    <img src="./images/pointeurs-c-thumb.png" alt="Pointeurs en C Logo" style="width:200px;">
+</p>
+
 Je suis en train de suivre [le très bon cours sur la programmation en C d’Open Classrooms][1] et le deuxième exercice consiste à expliquer les pointeurs à quelqu’un qui n’y connait rien mais qui a des bases en C.
 Or donc, c’est une bonne occasion de créer une page sur mon blog à ce sujet histoire de faire d’une pierre deux coups, puisque d’après [Mathieu Nebra][2], le prof de ce cours, les programmeurs sont des gros fainéants qui n’aiment pas répéter deux fois les mêmes choses, et... je crois qu’il a raison.
 

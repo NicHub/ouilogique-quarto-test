@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="900" viewBox="0 0 1900 900" role="img" aria-label="Vignette: ESP8266 — Commandes AT utiles">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061a33"/>
+      <stop offset="0.55" stop-color="#0a2f5e"/>
+      <stop offset="1" stop-color="#0a5a6a"/>
+    </linearGradient>
+
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b2244" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#07162c" stop-opacity="0.92"/>
+    </linearGradient>
+
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f7aa2"/>
+      <stop offset="1" stop-color="#0b2d55"/>
+    </linearGradient>
+
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 800; letter-spacing: -0.02em; }
+      .subtitle { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing: -0.01em; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+      .muted { fill: #b7c8e8; opacity: 0.9; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1900" height="900" rx="48" fill="url(#bg)"/>
+
+  <!-- Subtle circuit grid -->
+  <g opacity="0.16">
+    <path d="M120 210H1780" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M120 320H1780" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M120 430H1780" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M120 540H1780" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M120 650H1780" stroke="#9ad7ff" stroke-width="2"/>
+
+    <path d="M330 140V820" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M560 140V820" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M790 140V820" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M1020 140V820" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M1250 140V820" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M1480 140V820" stroke="#9ad7ff" stroke-width="2"/>
+    <path d="M1710 140V820" stroke="#9ad7ff" stroke-width="2"/>
+  </g>
+
+  <!-- Decorative traces -->
+  <g opacity="0.22" filter="url(#glow)">
+    <path d="M220 740 C380 610, 430 610, 570 520 S860 380, 1030 420 S1330 560, 1510 410 S1730 250, 1760 220"
+          fill="none" stroke="#62e6ff" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="570" cy="520" r="10" fill="#62e6ff"/>
+    <circle cx="1030" cy="420" r="10" fill="#62e6ff"/>
+    <circle cx="1510" cy="410" r="10" fill="#62e6ff"/>
+  </g>
+
+  <!-- Top title band -->
+  <g filter="url(#softShadow)">
+    <rect x="110" y="85" width="1680" height="200" rx="40" fill="#07162c" opacity="0.72"/>
+  </g>
+
+  <text x="170" y="170" class="title" font-size="92" fill="#ffffff">ESP8266</text>
+  <text x="610" y="170" class="title" font-size="92" fill="#ffd84a">— Commandes AT</text>
+  <text x="170" y="235" class="subtitle" font-size="46" fill="#cfe2ff" opacity="0.95">utiles (télégraphique, pratique, sans blabla)</text>
+
+  <!-- Code panel -->
+  <g filter="url(#softShadow)">
+    <rect x="120" y="320" width="980" height="480" rx="38" fill="url(#panel)"/>
+    <!-- “window dots” -->
+    <g opacity="0.9">
+      <circle cx="170" cy="365" r="10" fill="#ff5f57"/>
+      <circle cx="205" cy="365" r="10" fill="#febc2e"/>
+      <circle cx="240" cy="365" r="10" fill="#28c840"/>
+    </g>
+    <rect x="150" y="395" width="920" height="1.8" fill="#16345f" opacity="0.9"/>
+
+    <text x="170" y="455" class="mono" font-size="40" fill="#d7e7ff">AT</text>
+    <text x="245" y="455" class="mono muted" font-size="34">→ OK</text>
+
+    <text x="170" y="520" class="mono" font-size="40" fill="#d7e7ff">AT+GMR</text>
+    <text x="370" y="520" class="mono muted" font-size="34">→ version firmware</text>
+
+    <text x="170" y="585" class="mono" font-size="40" fill="#d7e7ff">AT+CWLAP</text>
+    <text x="430" y="585" class="mono muted" font-size="34">→ scan WiFi</text>
+
+    <text x="170" y="650" class="mono" font-size="40" fill="#d7e7ff">AT+CWJAP="SSID","PASS"</text>
+    <text x="760" y="650" class="mono muted" font-size="34">→ join AP</text>
+
+    <text x="170" y="715" class="mono" font-size="40" fill="#d7e7ff">AT+RST</text>
+    <text x="345" y="715" class="mono muted" font-size="34">→ reset</text>
+
+    <!-- Highlight caret / prompt -->
+    <rect x="170" y="752" width="18" height="44" rx="6" fill="#62e6ff" opacity="0.95"/>
+    <text x="200" y="785" class="mono" font-size="36" fill="#9fefff">_</text>
+  </g>
+
+  <!-- Chip / ESP icon block -->
+  <g transform="translate(1180, 330)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="610" height="470" rx="42" fill="#07162c" opacity="0.62"/>
+
+    <!-- Chip body -->
+    <g transform="translate(140, 90)">
+      <!-- pins -->
+      <g opacity="0.85">
+        <!-- left pins -->
+        <g fill="#9ad7ff" opacity="0.65">
+          <rect x="-38" y="20" width="30" height="14" rx="6"/>
+          <rect x="-38" y="58" width="30" height="14" rx="6"/>
+          <rect x="-38" y="96" width="30" height="14" rx="6"/>
+          <rect x="-38" y="134" width="30" height="14" rx="6"/>
+          <rect x="-38" y="172" width="30" height="14" rx="6"/>
+          <rect x="-38" y="210" width="30" height="14" rx="6"/>
+        </g>
+        <!-- right pins -->
+        <g fill="#9ad7ff" opacity="0.65">
+          <rect x="338" y="20" width="30" height="14" rx="6"/>
+          <rect x="338" y="58" width="30" height="14" rx="6"/>
+          <rect x="338" y="96" width="30" height="14" rx="6"/>
+          <rect x="338" y="134" width="30" height="14" rx="6"/>
+          <rect x="338" y="172" width="30" height="14" rx="6"/>
+          <rect x="338" y="210" width="30" height="14" rx="6"/>
+        </g>
+      </g>
+
+      <rect x="0" y="0" width="330" height="260" rx="34" fill="url(#chip)"/>
+      <rect x="18" y="18" width="294" height="224" rx="26" fill="#05162c" opacity="0.55"/>
+
+      <!-- ESP label -->
+      <text x="40" y="88" class="title" font-size="62" fill="#ffffff">ESP</text>
+      <text x="168" y="88" class="title" font-size="62" fill="#ffd84a">8266</text>
+      <text x="42" y="132" class="mono" font-size="28" fill="#cfe2ff" opacity="0.95">AT command set</text>
+
+      <!-- WiFi icon -->
+      <g transform="translate(226, 158)" filter="url(#glow)">
+        <path d="M-92 18 C-52 -18, 52 -18, 92 18" fill="none" stroke="#62e6ff" stroke-width="10" stroke-linecap="round"/>
+        <path d="M-66 44 C-38 20, 38 20, 66 44" fill="none" stroke="#62e6ff" stroke-width="10" stroke-linecap="round" opacity="0.9"/>
+        <path d="M-36 72 C-20 58, 20 58, 36 72" fill="none" stroke="#62e6ff" stroke-width="10" stroke-linecap="round" opacity="0.8"/>
+        <circle cx="0" cy="98" r="10" fill="#62e6ff"/>
+      </g>
+    </g>
+
+    <!-- Right-side small legend -->
+    <text x="40" y="420" class="mono" font-size="28" fill="#cfe2ff" opacity="0.95">• Rapide à tester</text>
+    <text x="40" y="455" class="mono" font-size="28" fill="#cfe2ff" opacity="0.95">• Utile en dépannage</text>
+  </g>
+
+  <!-- Footer tag (optional, discreet) -->
+  <g opacity="0.85">
+    <rect x="110" y="825" width="430" height="54" rx="20" fill="#07162c" opacity="0.55"/>
+    <text x="140" y="862" class="mono" font-size="30" fill="#cfe2ff">ouilogique.com</text>
+  </g>
+</svg>
