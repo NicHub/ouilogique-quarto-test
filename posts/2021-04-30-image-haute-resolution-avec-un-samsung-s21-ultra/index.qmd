@@ -4,10 +4,10 @@ date: 2021-04-30 09:52:54+01:00
 draft: false
 execute:
   enabled: true
+image: ./images/20210430_095254_lowres.jpg
 lang: fr
 layout: page
 lightbox: auto
-image: ./images/20210430_095254_lowres.jpg
 pagetitle: '{{< meta title >}}'
 title: Une image haute résolution avec un Samsung S21 Ultra
 ---
