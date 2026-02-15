@@ -15,7 +15,7 @@ listing:
   page-size: 100000
   fields: [image, date, title, description]
 page-layout: full
-pagetitle: "Page d’accueil"
+pagetitle: "Blog IoT"
 title: <span class="spin">OUI</span>LOGIQUE.COM
 title-block-banner: true
 ---
