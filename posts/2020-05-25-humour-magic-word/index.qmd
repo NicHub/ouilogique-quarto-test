@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2020-05-25 06:33:00+02:00
 draft: false
+image: ./images/magic-word.jpg
 lang: fr
 layout: page
 lightbox: auto

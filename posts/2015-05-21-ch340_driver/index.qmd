@@ -7,6 +7,7 @@ categories:
 - CH340
 date: 2015-05-21 10:50:00+02:00
 draft: false
+image: ./images/CH430G_001.jpg
 lang: fr
 layout: page
 lightbox: auto

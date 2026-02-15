@@ -6,6 +6,7 @@ author: Nico
 categories: []
 date: 2015-07-02 09:47:00+01:00
 draft: false
+image: ./images/test_usb_hub_003.svg
 lang: fr
 layout: page
 lightbox: auto

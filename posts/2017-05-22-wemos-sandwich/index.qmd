@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2017-05-22 11:57:00+02:00
 draft: false
+image: ./images/wemos-sandwich-001.jpg
 lang: fr
 layout: page
 lightbox: auto

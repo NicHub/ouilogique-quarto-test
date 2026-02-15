@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2017-10-22 17:54:00+02:00
 draft: false
+image: ./images/effet-des-pizzas-sur-ma-sante.png
 lang: fr
 layout: page
 lightbox: auto

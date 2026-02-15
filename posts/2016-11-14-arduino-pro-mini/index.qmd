@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2016-11-14 16:00:00+01:00
 draft: false
+image: ./images/config_MiniCore.png
 lang: fr
 layout: page
 lightbox: auto

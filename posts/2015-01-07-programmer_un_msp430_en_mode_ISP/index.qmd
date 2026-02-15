@@ -8,6 +8,7 @@ categories:
 - ISP
 date: 2015-01-07 12:00:00+01:00
 draft: false
+image: ./images/P1030387.JPG
 lang: fr
 layout: page
 lightbox: auto

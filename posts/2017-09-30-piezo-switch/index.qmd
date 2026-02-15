@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2017-09-30 12:54:00+02:00
 draft: false
+image: ./images/2017-09-30-piezo-switch-001-lowres.jpg
 lang: fr
 layout: page
 lightbox: auto

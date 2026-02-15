@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2017-05-11 16:12:00+02:00
 draft: false
+image: ./images/2017-05-11-bmp280-arduino-pro-mini-001.jpg
 lang: fr
 layout: page
 lightbox: auto

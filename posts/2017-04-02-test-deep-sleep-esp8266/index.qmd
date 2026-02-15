@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2017-04-02 18:30:00+02:00
 draft: false
+image: ./images/2017-04-02-test-deep-sleep-esp8266-montage-1.jpg
 lang: fr
 layout: page
 lightbox: auto

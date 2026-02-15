@@ -10,6 +10,7 @@ categories:
 - Flashage
 date: 2015-05-21 12:00:00+02:00
 draft: false
+image: ./images/programmer_un_attiny25v.svg
 lang: fr
 layout: page
 lightbox: auto

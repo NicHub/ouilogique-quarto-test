@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2016-11-01 20:17:00+01:00
 draft: false
+image: ./images/pointeurs-c-thumb.png
 lang: fr
 layout: page
 lightbox: auto

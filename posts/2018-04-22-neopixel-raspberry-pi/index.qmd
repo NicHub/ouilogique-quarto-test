@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2018-04-22 12:33:00+02:00
 draft: false
+image: ./images/2018-04-22-neopixel-raspberry-pi-001_lowres.jpg
 lang: fr
 layout: page
 lightbox: auto

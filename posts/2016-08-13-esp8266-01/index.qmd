@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2016-08-13 09:23:00+02:00
 draft: false
+image: ./images/esp8266-01.jpg
 lang: fr
 layout: page
 lightbox: auto

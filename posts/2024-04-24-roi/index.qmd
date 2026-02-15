@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2024-04-24 09:00:00+02:00
 draft: false
+image: ./images/2024-04-24-roi-001.jpg
 lang: fr
 layout: page
 lightbox: auto

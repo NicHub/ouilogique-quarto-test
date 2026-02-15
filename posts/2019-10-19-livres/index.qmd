@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2019-10-19 12:00:00+02:00
 draft: false
+image: ./images/2018_Book_ElementsOfRobotics.jpg
 lang: fr
 layout: page
 lightbox: auto

@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2016-05-25 17:22:00+02:00
 draft: false
+image: ./images/test_ecran_oled_i2c_128x64_001_lowres.jpg
 lang: fr
 layout: page
 lightbox: auto

@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2016-10-21 12:31:00+02:00
 draft: false
+image: ./images/ATmega328-INTx.jpg
 lang: en
 layout: page
 lightbox: auto

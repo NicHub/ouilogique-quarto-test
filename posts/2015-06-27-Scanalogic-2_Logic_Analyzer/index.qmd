@@ -6,6 +6,7 @@ author: Nico
 categories: []
 date: 2015-06-27 20:44:00+01:00
 draft: false
+image: ./images/Scanalogic-2_Logic_Analyzer_001.jpg
 lang: fr
 layout: page
 lightbox: auto

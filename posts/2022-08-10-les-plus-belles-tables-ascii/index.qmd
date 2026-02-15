@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2022-08-10 12:00:00+02:00
 draft: false
+image: ./images/ascii-table-1.1-tom-gibara.svg
 lang: fr
 layout: page
 lightbox: auto

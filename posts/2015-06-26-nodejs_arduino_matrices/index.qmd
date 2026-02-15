@@ -6,6 +6,7 @@ author: Nico
 categories: []
 date: 2015-06-26 17:15:00+01:00
 draft: false
+image: ./images/2015-05-29_platine.jpg
 lang: fr
 layout: page
 lightbox: auto

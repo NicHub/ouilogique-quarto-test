@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2016-08-10 10:34:00+02:00
 draft: false
+image: ./images/branchement_launchpad_lowres.jpg
 lang: fr
 layout: page
 lightbox: auto

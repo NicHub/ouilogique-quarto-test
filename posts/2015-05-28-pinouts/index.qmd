@@ -12,6 +12,7 @@ categories:
 - nRF51
 date: 2015-05-28 12:00:00+02:00
 draft: false
+image: ./images/arduino_mega_2560.png
 lang: fr
 layout: page
 lightbox: auto

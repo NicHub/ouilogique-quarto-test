@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2022-06-19 12:00:00+02:00
 draft: false
+image: ./images/there-is-no-place-like-127_0_0_1.jpg
 lang: fr
 layout: page
 lightbox: auto

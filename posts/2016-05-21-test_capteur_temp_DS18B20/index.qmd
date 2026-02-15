@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2016-05-21 19:00:00+02:00
 draft: false
+image: ./images/2016-05-21-test_capteur_temp_DS18B20_003_lowres.jpg
 lang: fr
 layout: page
 lightbox: auto

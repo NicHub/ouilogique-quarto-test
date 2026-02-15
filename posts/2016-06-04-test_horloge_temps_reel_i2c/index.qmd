@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2016-06-04 14:29:00+02:00
 draft: false
+image: ./images/2016-06-04-test_horloge_temps_reel_i2c_001_lowres.jpg
 lang: fr
 layout: page
 lightbox: auto

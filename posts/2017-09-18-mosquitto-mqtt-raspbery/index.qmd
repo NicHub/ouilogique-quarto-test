@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2017-09-18 18:43:00+02:00
 draft: false
+image: ./images/mosquitto-mono.png
 lang: fr
 layout: page
 lightbox: auto

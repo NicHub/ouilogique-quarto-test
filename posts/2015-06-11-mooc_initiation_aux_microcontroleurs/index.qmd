@@ -6,6 +6,7 @@ author: Nico
 categories: []
 date: 2015-06-11 12:00:00+01:00
 draft: false
+image: ./images/Microcontroleurs-v1.0.jpg
 lang: fr
 layout: page
 lightbox: auto

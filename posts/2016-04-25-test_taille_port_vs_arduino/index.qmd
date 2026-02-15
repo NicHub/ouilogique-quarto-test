@@ -5,6 +5,7 @@ author: Nico
 categories: []
 date: 2016-04-25 19:35:00+02:00
 draft: false
+image: ./images/test_taille_port_vs_arduino-thumb.png
 lang: fr
 layout: page
 lightbox: auto
