@@ -13,7 +13,7 @@ title: ESP8266 — Commandes AT utiles
 ---
 
 <p class="text-center" style="margin: 40px 0;">
-    <img src="./images/esp_commandes_at_utiles-thumb.png" alt="ESP8266 — Commandes AT utiles Logo" style="width:600px;">
+    <img src="./images/esp_commandes_at_utiles-thumb.png" alt="ESP8266 — Commandes AT utiles — Thumb" class="thumb">
 </p>
 
 Les commandes présentées télégraphiquement ici sont tirées des pages :

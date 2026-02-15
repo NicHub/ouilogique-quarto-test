@@ -14,7 +14,7 @@ title: Générateurs de sites web statiques
 ---
 
 <p class="text-center" style="margin: 40px 0;">
-    <img src="./images/sites_web_statiques-thumb.png" alt="Générateurs de sites web statiques Logo" style="width:600px;">
+    <img src="./images/sites_web_statiques-thumb.png" alt="Générateurs de sites web statiques — Thumb" class="thumb">
 </p>
 
 > Ouilogique.com est généré avec Jekyll.

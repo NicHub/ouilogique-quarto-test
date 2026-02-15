@@ -13,7 +13,7 @@ title: Installer Pi-hole sur un Raspberry
 ---
 
 <p class="text-center" style="margin: 40px 0;">
-    <img src="./images/Vortex_with_Wordmark-thumb.png" alt="Pi Hole" style="width:500px;">
+    <img src="./images/Vortex_with_Wordmark-thumb.png" alt="Pi Hole — Thumb" class="thumb">
 </p>
 
 ## Source

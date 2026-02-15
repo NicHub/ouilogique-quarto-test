@@ -13,7 +13,7 @@ title: Introduction au langage JavaScript
 ---
 
 <p class="text-center" style="margin: 40px 0;">
-    <img src="./images/Javascript-shield-thumb.png" alt="JS Logo" style="width:500px;">
+    <img src="./images/Javascript-shield-thumb.png" alt="JS — Thumb" class="thumb">
 </p>
 
 Ce document fait partie du [cours sur le HTML embarqué][Wiki du cours HTML embarqué] que j’ai donné au [Microclub][Microclub]{rel="nofollow"} en janvier et février 2018 à l’EPFL.

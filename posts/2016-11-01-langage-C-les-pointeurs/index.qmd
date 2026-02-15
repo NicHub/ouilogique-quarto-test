@@ -13,7 +13,7 @@ title: Les pointeurs en C
 ---
 
 <p class="text-center" style="margin: 40px 0;">
-    <img src="./images/pointeurs-c-thumb.png" alt="Pointeurs en C Logo" style="width:200px;">
+    <img src="./images/pointeurs-c-thumb.png" alt="Pointeurs en C — Thumb" class="thumb">
 </p>
 
 Je suis en train de suivre [le très bon cours sur la programmation en C d’Open Classrooms][1] et le deuxième exercice consiste à expliquer les pointeurs à quelqu’un qui n’y connait rien mais qui a des bases en C.
