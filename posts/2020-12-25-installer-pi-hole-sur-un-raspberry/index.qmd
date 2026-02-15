@@ -5,13 +5,16 @@ author: Nico
 categories: []
 date: 2020-12-25 13:19:00+01:00
 draft: false
-image: images/Vortex_with_Wordmark-thumb.png
 lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
 title: Installer Pi-hole sur un Raspberry
 ---
+
+<p class="text-center" style="margin: 40px 0;">
+<img src="./images/Vortex_with_Wordmark-thumb.png" alt="Pi Hole">
+</p>
 
 ## Source
 
