@@ -14,8 +14,8 @@ title: Bouton piézoélectrique sur Arduino
 
 ## Matériel
 
--   Un Arduino Nano
--   [Un bouton piézoélectrique (piezo-switch)][2]
+-   Un Arduino xNano
+-   [Un bouton piézoélectrique (piezo-switch)][2]{rel="nofollow"}
 
 ## Image
 

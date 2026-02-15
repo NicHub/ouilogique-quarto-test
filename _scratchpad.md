@@ -2,8 +2,8 @@
 
 ## URLS DE TEST
 
-- <https://nichub.github.io/ouilogique-quarto-test/>
-- <https://github.com/NicHub/ouilogique-quarto-test/actions>
+-   <https://nichub.github.io/ouilogique-quarto-test/>
+-   <https://github.com/NicHub/ouilogique-quarto-test/actions>
 
 ## COMMANDES UTILES
 
@@ -15,16 +15,16 @@ quarto render index.qmd
 
 ## DIVERS
 
-- [radios](/radios/)
-- [enum](/enum/)
-- [scratchpad](/scratchpad/)
-- [cours-html-embarque](/cours-html-embarque/)
+-   [radios](/radios/)
+-   [enum](/enum/)
+-   [scratchpad](/scratchpad/)
+-   [cours-html-embarque](/cours-html-embarque/)
 
 Redirection a créer
 
-- <https://ouilogique.com/cours-html-embarque.html>
-- <https://ouilogique.com/files/2018-02-17-html-embarque/microclub-atelier-html-embarque.pdf>
-- <https://ouilogique.com/accueil/>
+-   <https://ouilogique.com/cours-html-embarque.html>
+-   <https://ouilogique.com/files/2018-02-17-html-embarque/microclub-atelier-html-embarque.pdf>
+-   <https://ouilogique.com/accueil/>
 
 CNAME !
 
@@ -55,4 +55,4 @@ Vérifier les fichiers dans `files` sur le site original.
 
 ## Problème 404
 
-https://github.com/quarto-dev/quarto-cli/issues/5284
+<https://github.com/quarto-dev/quarto-cli/issues/5284>
