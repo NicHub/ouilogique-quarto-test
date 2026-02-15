@@ -17,6 +17,10 @@ pagetitle: '{{< meta title >}}'
 title: La manipulation des entrées-sorties à l’aide des registres de port
 ---
 
+<p class="text-center" style="margin: 40px 0;">
+    <img src="./images/manipulation_des_ports-thumb.png" alt="La manipulation des entrées-sorties à l’aide des registres de port Logo" style="width:600px;">
+</p>
+
 ## Description des registres AVR & MSP
 
 | R/W | MSP     | AVR     | USAGE                                                                                   |
