@@ -19,7 +19,8 @@ FILENAMES=(
     # ../posts/2016-04-25-test_vitesse_port_vs_arduino/images/test_vitesse_port_vs_arduino-thumb
     # ../posts/2014-12-03-manipulation_des_ports/images/manipulation_des_ports-thumb
     # ../posts/2015-05-28-melodie/images/melodie-thumb
-    ../posts/2015-09-05-sites_web_statiques/images/sites_web_statiques-thumb
+    # ../posts/2015-09-05-sites_web_statiques/images/sites_web_statiques-thumb
+    ../images/og-image-1
 )
 
 for filename in "${FILENAMES[@]}"; do
@@ -49,7 +50,7 @@ for filename in "${FILENAMES[@]}"; do
         --force                   \
         --skip-if-larger          \
         --quality 0-2             \
-        256                        \
+        40                        \
         --output "$FILENAME_OUT" \
         "$FILENAME_OUT"
 

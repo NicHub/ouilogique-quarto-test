@@ -29,7 +29,7 @@ website:
               file: index.qmd
         left:
             - text: ""
-        logo: ./images/site-logo.png
+        logo: ./images/og-image-1.png
         logo-alt: ouilogique.com
         logo-href: /
         pinned: true
