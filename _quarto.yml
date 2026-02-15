@@ -3,53 +3,54 @@
 ##
 
 project:
-  type: website
-  output-dir: _site
-  post-render:
-    - _scripts/flatten-pages-to-root.sh
-    - python3 _scripts/create_prev_next_buttons.py
-  resources:
-    - CNAME
-    - pages/*/**
-    - images/**/*
-    - scripts.js
+    type: website
+    output-dir: _site
+    post-render:
+        - _scripts/flatten-pages-to-root.sh
+        - python3 _scripts/create_prev_next_buttons.py
+    resources:
+        - CNAME
+        - pages/*/**
+        - images/**/*
+        - scripts.js
 
 execute:
-  enabled: false
+    enabled: false
 
 website:
-  title: "ouilogique.com"
-  site-url: https://ouilogique.com/
-  favicon: images/favicon.ico
-  search: false
-  navbar:
-    title: false
-    right:
-      - text: '<span class="material-symbols-outlined">home</span>'
-        file: index.qmd
-    left:
-      - text: ""
-    logo: ./images/site-logo.png
-    logo-alt: ouilogique.com
-    logo-href: /
-    pinned: true
-    background: "#1B1B1B"
-    collapse: false
-  page-footer:
-    center:
-      - text: '<p>© 2026 ouilogique.com</p><p><span class="material-symbols-outlined">home</span></p>'
-        href: /
+    title: "ouilogique.com"
+    site-url: https://ouilogique.com/
+    favicon: images/favicon.ico
+    search: false
+    navbar:
+        title: false
+        right:
+            - text: '<span class="material-symbols-outlined">home</span>'
+              file: index.qmd
+        left:
+            - text: ""
+        logo: ./images/site-logo.png
+        logo-alt: ouilogique.com
+        logo-href: /
+        pinned: true
+        background: "#1B1B1B"
+        collapse: false
+    page-footer:
+        center:
+            - text: '<p>© 2026 ouilogique.com</p><p><span class="material-symbols-outlined">home</span></p>'
+              href: /
 
 format:
-  html:
-    open-graph: true
-    twitter-card: true
-    include-in-header:
-      - _includes/fonts.html
-    include-after-body:
-      - _includes/scripts.html
-    theme:
-      - cyborg
-      - custom.scss
-    toc: false
-    smooth-scroll: false
+    html:
+        open-graph: true
+        twitter-card: true
+        include-in-header:
+            - _includes/fonts.html
+        include-after-body:
+            - _includes/scripts.html
+            - _includes/cloudflare-analytics.html
+        theme:
+            - cyborg
+            - custom.scss
+        toc: false
+        smooth-scroll: false
