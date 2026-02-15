@@ -5,13 +5,17 @@ author: Nico
 categories: []
 date: 2016-11-14 16:00:00+01:00
 draft: false
-image: ./images/config_MiniCore.png
+image: ./images/arduino-pro-mini-arduino-uno_lowres.jpg
 lang: fr
 layout: page
 lightbox: auto
 pagetitle: '{{< meta title >}}'
 title: Mise en route d’un Arduino Pro Mini 3.3 V
 ---
+
+![Programmation d’Arduino Pro Mini][img_2]
+
+[img_2]: ./images/arduino-pro-mini-arduino-uno_lowres.jpg
 
 L’Arduino Pro Mini n’a pas d’UART visible sur le port USB de l’ordinateur qui va le programmer. On doit donc utiliser un programmateur externe. Dans cet article, je présente deux solutions :
 
@@ -46,10 +50,6 @@ La configuration que j’ai utilisée est la suivante :
 ![Configuration MiniCore programmation d’Arduino Pro Mini][img_1]
 
 [img_1]: ./images/config_MiniCore.png
-
-![Programmation d’Arduino Pro Mini][img_2]
-
-[img_2]: ./images/arduino-pro-mini-arduino-uno_lowres.jpg
 
 L6_a programmation ISP fonctionne nickel, mais je n’arrive pas à [utiliser l’ESP8266 comme bridge USB‑RS232][6].
 
