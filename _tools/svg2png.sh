@@ -15,7 +15,8 @@ FILENAMES=(
     # ../posts/2018-02-15-introduction-html/images/HTML5_logo_and_wordmark-thumb
     # ../posts/2016-11-01-langage-C-les-pointeurs/images/pointeurs-c-thumb
     # ../posts/2016-08-13-esp_commandes_at_utiles/images/esp_commandes_at_utiles-thumb
-    ../posts/2016-04-25-test_taille_port_vs_arduino/images/test_taille_port_vs_arduino-thumb
+    # ../posts/2016-04-25-test_taille_port_vs_arduino/images/test_taille_port_vs_arduino-thumb
+    ../posts/2016-04-25-test_vitesse_port_vs_arduino/images/test_vitesse_port_vs_arduino-thumb
 )
 
 for filename in "${FILENAMES[@]}"; do
