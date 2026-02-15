@@ -13,6 +13,10 @@ pagetitle: '{{< meta title >}}'
 title: Installer Raspberry Pi OS sur Raspberry Pi sans clavier, ni souris, ni écran
 ---
 
+<p class="text-center" style="margin: 40px 0;">
+    <img src="./images/Raspberry_Pi_Logo-thumb.png" alt="Raspberry Pi Logo" style="width:500px;">
+</p>
+
 Cet article montre comment configurer un Raspberry de A à Z à l’aide d’un ordinateur standard.
 Le Raspberry sera donc en mode _headless_, c’est-à-dire sans clavier, ni souris, ni écran.
 

@@ -8,7 +8,8 @@ shopt -s expand_aliases
 alias inkscape='/Applications/Inkscape.app/Contents/MacOS/Inkscape'
 
 FILENAMES=(
-    ../posts/2020-12-25-installer-pi-hole-sur-un-raspberry/images/Vortex_with_Wordmark-thumb
+    # ../posts/2020-12-25-installer-pi-hole-sur-un-raspberry/images/Vortex_with_Wordmark-thumb
+    ../posts/2023-03-09-installer-raspberry-pi-os-sur-raspberry-pi-sans-clavier-ni-souris-ni-ecran/images/Raspberry_Pi_Logo-thumb
 )
 
 for filename in "${FILENAMES[@]}"; do
@@ -44,7 +45,7 @@ for filename in "${FILENAMES[@]}"; do
 
     source png_web_audit.sh $FILENAME_OUT
 
-    open -a ImageOptim.app "$FILENAME_OUT"
+    open -Wa ImageOptim.app "$FILENAME_OUT"
 
     source png_web_audit.sh $FILENAME_OUT
 
