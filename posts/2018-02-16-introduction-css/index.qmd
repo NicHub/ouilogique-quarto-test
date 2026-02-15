@@ -12,6 +12,10 @@ pagetitle: '{{< meta title >}}'
 title: Introduction au langage CSS
 ---
 
+<p class="text-center" style="margin: 40px 0;">
+    <img src="./images/CSS3_logo_and_wordmark-thumb.png" alt="CSS Logo" style="width:500px;">
+</p>
+
 Ce document fait partie du [cours sur le HTML embarqué][Wiki du cours HTML embarqué] que j’ai donné au [Microclub][Microclub]{rel="nofollow"} en janvier et février 2018 à l’EPFL.
 
 ## Les documents du cours
