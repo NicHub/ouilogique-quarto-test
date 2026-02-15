@@ -119,3 +119,7 @@ png_chunks: "$png_chunks"
 extra_metadata: "$extra_meta"
 
 REPORT
+
+if command -v imgcat >/dev/null 2>&1; then
+    imgcat -H 10 $file
+fi
