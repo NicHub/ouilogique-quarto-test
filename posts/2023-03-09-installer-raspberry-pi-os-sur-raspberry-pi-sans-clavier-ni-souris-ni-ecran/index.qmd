@@ -774,3 +774,7 @@ cat /sys/firmware/devicetree/base/model
 ```bash
 cat /etc/os_release
 ```
+
+## À voir aussi
+
+-   [Darkone Linux, Quel Linux pour quel usage ?](https://www.youtube.com/watch?v=rlNtyhGLA_Y&t=6s)
