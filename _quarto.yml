@@ -6,7 +6,7 @@ project:
     type: website
     output-dir: _site
     post-render:
-        - _scripts/flatten-pages-to-root.sh
+        - bash _scripts/flatten-pages-to-root.sh
         - python3 _scripts/create_prev_next_buttons.py
     resources:
         - CNAME
