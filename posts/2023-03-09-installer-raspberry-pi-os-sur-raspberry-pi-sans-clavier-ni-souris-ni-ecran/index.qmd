@@ -295,6 +295,7 @@ Change escape sequence
 Byobu currently does not launch at login (toggle on)
 ```
 
+::: {.content-hidden when-format="html"}
 <!--
 #### .bash_profile
 
@@ -304,6 +305,7 @@ Pour charger `.bash_profile`, ajouter la commande suivante dans `~/.bashrc` :
 _bash_profile_sourced=1 . ~/.bash_profile 2>/dev/null || true
 ```
 -->
+:::
 
 #### Raccourcis clavier
 
@@ -328,6 +330,7 @@ La liste de toutes les fonctions `F12` est disponible avec la commande `F12 ?`.
 
 Ci-dessous, la liste des raccourcis autres que `F12`.
 
+::: {.content-hidden when-format="html"}
 <!--
 | Label | Key     |
 | ----- | ------- |
@@ -335,6 +338,7 @@ Ci-dessous, la liste des raccourcis autres que `F12`.
 | S     | Shift   |
 | M     | Meta    |
 -->
+:::
 
 | Key    | Action                                |
 | ------ | ------------------------------------- |
@@ -718,6 +722,7 @@ udisksctl unmount --block-device /dev/sda2
 sudo udisksctl power-off --block-device /dev/sda
 ```
 
+::: {.content-hidden when-format="html"}
 <!--
 ### Monter un disque externe
 
@@ -736,6 +741,7 @@ Voici quelques explications sur ces informations.
 - Les stockages NVMe (Non-Volatile Memory Express) sont nommés avec le préfixe `nvm`.
 - Les stockages MMC (Multi Media Card) sont nommés avec le préfixe `nvm`.
  -->
+:::
 
 ### Pour aller plus loin
 

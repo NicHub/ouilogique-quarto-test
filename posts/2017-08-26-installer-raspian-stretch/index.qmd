@@ -519,6 +519,7 @@ udisksctl unmount --block-device /dev/sda2
 sudo udisksctl power-off --block-device /dev/sda
 ```
 
+::: {.content-hidden when-format="html"}
 <!--
 Voici quelques explications sur ces informations.
 
@@ -527,6 +528,7 @@ Voici quelques explications sur ces informations.
 - Les stockages NVMe (Non-Volatile Memory Express) sont nommés avec le préfix `nvm`.
 - Les stockages MMC (Multi Media Card) sont nommés avec le préfix `nvm`.
  -->
+:::
 
 ### Pour aller plus loin
 

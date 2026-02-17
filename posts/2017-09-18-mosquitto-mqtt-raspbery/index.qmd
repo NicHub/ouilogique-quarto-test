@@ -178,6 +178,7 @@ while true ; do mosquitto_pub --retain --host raspberrypi.local --topic "SUPERTE
 --message '{"DATE":"'"`gdate "+%Y-%m-%dT%H:%M:%6N+%Z"`"'"}' ; sleep 0.1 ; done
 ```
 
+::: {.content-hidden when-format="html"}
 <!--
 ## Installation de Mosquitto MQTT
 
@@ -252,3 +253,4 @@ mosquitto -c /usr/local/etc/mosquitto/mosquitto.conf
 [1]: https://www.raspberrypi.org/downloads/raspbian/
 [2]: https://etcher.io/
 -->
+:::

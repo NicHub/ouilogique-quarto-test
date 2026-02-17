@@ -210,7 +210,9 @@ Robots à chaînes exotiques, Jean-Pierre Merlet, INRIA Sophia-Antipolis
 
 ## Plateforme de Stewart avec 3 degrés de liberté
 
+::: {.content-hidden when-format="html"}
 <!-- - <https://www.instructables.com/id/Ball-Balancing-PID-System/> -->
+:::
 
 -   <https://www.instructables.com/id/3DOF-Ball-on-Plate-Using-Closed-Loop-Stepper-Motor/>
 -   <https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2017/psl58_aw698_eb645/psl58_aw698_eb645/index.html#HLD>
@@ -394,6 +396,7 @@ PDF à trouver :
 
 -   <https://fr.aliexpress.com/item/32957141466.html>{rel="nofollow"}
 
+::: {.content-hidden when-format="html"}
 <!--
 ## Pinout
 
@@ -404,6 +407,7 @@ STPA
 STPB
 28 DIRB GPIO25
 -->
+:::
 
 ## DELTA-ROBOT ONE — Robot Delta Arduino
 

@@ -343,6 +343,7 @@ file.close()
 -   [Freeboard](https://github.com/Freeboard/freeboard)
 -   <https://www.openhomeautomation.net/internet-of-things-dashboard/>{rel="nofollow"}
 
+::: {.content-hidden when-format="html"}
 <!--
 # ESPTOOL
 
@@ -369,6 +370,7 @@ cd esptool
 ```
 
 -->
+:::
 
 ## Liens
 

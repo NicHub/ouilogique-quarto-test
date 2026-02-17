@@ -102,6 +102,7 @@ J’ai également fait un test de programmation avec [un convertisseur USB-séri
 
 [img_6]: ./images/arduino-pro-mini-usb-serial_lowres.jpg
 
+::: {.content-hidden when-format="html"}
 <!--
 
 ## Programmation de l’Arduino Pro Mini avec un convertisseur USB-série Banggood
@@ -133,10 +134,13 @@ Par contre les fils ne sont pas branchés dans le bon ordre, donc il faut corrig
 [7]: https://www.banggood.com/6Pin-FTDI-FT232RL-USB-To-Serial-Adapter-Module-USB-TO-TTL-RS232-Arduino-Cable-p-1035802.html?p=0431091025639201412F
 
 -->
+:::
 
+::: {.content-hidden when-format="html"}
 <!--
 [2]: https://learn.sparkfun.com/tutorials/using-the-arduino-pro-mini-33v
 -->
+:::
 
 [1]: #programmation-de-larduino-pro-mini-avec-un-arduino-uno-mode-arduino-as-isp
 [2]: #programmation-de-larduino-pro-mini-avec-un-convertisseur-usb-série-miniinthebox

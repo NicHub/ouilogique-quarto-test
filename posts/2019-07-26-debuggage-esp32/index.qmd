@@ -121,18 +121,14 @@ debug_init_break = tbreak setup
 
 [img_2]: ./images/pio-unified-debugger-001.jpg
 
+::: {.content-hidden when-format="html"}
 <!--
 
 # ESP-Prog Board
 
-
 OpenOCD
 
 ESP-Prog
-
-
-
-
 
 ## Mise en route pour macOS
 
@@ -220,3 +216,4 @@ sudo kextunload /Library/Extensions/FTDIUSBSerialDriver.kext
 
 
 -->
+:::

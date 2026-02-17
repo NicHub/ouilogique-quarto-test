@@ -181,6 +181,7 @@ it.txt_part_0001_unicode_map.txt
 
 <https://rushter.com/blog/python-strings-and-memory/>
 
+::: {.content-hidden when-format="html"}
 <!--
 
 
@@ -195,15 +196,14 @@ print(sys.getsizeof(s1), sys.getsizeof(s2))
 # Python11 74 75
 # Python12 61 59
 
-
-
-
-
 Note that every string in Python takes additional 49-80 bytes of memory, where it stores supplementary information, such as hash, length, length in bytes, encoding type and string flags. That's why an empty string takes 49 bytes of memory.
  -->
+:::
 
+::: {.content-hidden when-format="html"}
 <!--
 http://hapax.qc.ca/pdf/Chapitre-3.pdf
 page 48 / note de bas de page no 10.
 Chaque valeur scalaire Unicode peut être représentée, selon le format de stockage, sous la forme d’une suite d’octets (UTF-8), d’un seizet normal ou de deux seizets d’indirection (UTF-16) ou d’une valeur de 32 bits (UTF-32).
 -->
+:::
