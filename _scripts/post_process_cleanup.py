@@ -10,18 +10,24 @@ new replacement rules in REPLACEMENTS.
 from __future__ import annotations
 
 import argparse
+import random
 from pathlib import Path
 from typing import Iterable
+
+from bs4 import BeautifulSoup
 
 # Add future cleanup rules here.
 REPLACEMENTS: list[tuple[str, str]] = [
     # ('const icon = "";', 'const icon = "😎";'),
-    ('', '😎'),
+    ("", "😎"),
     ('alt=""', 'alt="image"'),
 ]
 
 # Limit processing to text-oriented files.
 ALLOWED_SUFFIXES = {".html", ".js", ".css", ".xml", ".txt"}
+ALT_CHOICES = [
+    "image",
+]
 
 
 def iter_target_files(paths: list[Path]) -> Iterable[Path]:
@@ -37,10 +43,20 @@ def iter_target_files(paths: list[Path]) -> Iterable[Path]:
                     yield file_path
 
 
-def apply_cleanup(file_path: Path) -> int:
+def add_random_alt_to_images(soup: BeautifulSoup) -> int:
+    added = 0
+    for img in soup.find_all("img"):
+        if not img.has_attr("alt"):
+            img["alt"] = random.choice(ALT_CHOICES)
+            added += 1
+    return added
+
+
+def apply_cleanup(file_path: Path) -> tuple[int, int, bool]:
     content = file_path.read_text(encoding="utf-8")
     updated = content
     replacements_count = 0
+    alts_added = 0
 
     for source, target in REPLACEMENTS:
         occurrences = updated.count(source)
@@ -48,14 +64,22 @@ def apply_cleanup(file_path: Path) -> int:
             updated = updated.replace(source, target)
             replacements_count += occurrences
 
+    if file_path.suffix.lower() == ".html":
+        soup = BeautifulSoup(updated, "html.parser")
+        alts_added = add_random_alt_to_images(soup)
+        updated = soup.prettify(formatter="minimal")
+
+    changed = updated != content
     if updated != content:
         file_path.write_text(updated, encoding="utf-8")
 
-    return replacements_count
+    return replacements_count, alts_added, changed
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Run post-processing cleanup replacements.")
+    parser = argparse.ArgumentParser(
+        description="Run post-processing cleanup replacements."
+    )
     parser.add_argument(
         "paths",
         nargs="*",
@@ -67,16 +91,27 @@ def main() -> int:
     targets = [Path(p) for p in args.paths]
     files_changed = 0
     total_replacements = 0
+    total_alts_added = 0
 
     for file_path in iter_target_files(targets):
-        count = apply_cleanup(file_path)
-        if count > 0:
+        replacements_count, alts_added, changed = apply_cleanup(file_path)
+        total_replacements += replacements_count
+        total_alts_added += alts_added
+
+        if changed:
             files_changed += 1
-            total_replacements += count
-            print(f"updated: {file_path} ({count} replacement(s))")
+            print(
+                "updated: "
+                f"{file_path} "
+                f"(replacements={replacements_count}, alt_added={alts_added}, "
+                "pretty_print=bs4)"
+            )
 
     print(
-        f"cleanup done: {total_replacements} replacement(s) across {files_changed} file(s)"
+        "cleanup done: "
+        f"{total_replacements} replacement(s), "
+        f"{total_alts_added} alt attribute(s) added "
+        f"across {files_changed} file(s)"
     )
     return 0
 
