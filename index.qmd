@@ -26,7 +26,7 @@ title-block-banner: true
 
 <div class="home-welcome-card">
 
-<p class="h2">Bienvenue sur ouilogique.com</p>
+## Bienvenue sur ouilogique.com {.no-anchor}
 
 *Ce blog me sert d’aide-mémoire pour mes projets IoT sur Arduino, ESP, Raspberry Pi et quelques autres.*
 
