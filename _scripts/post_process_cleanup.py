@@ -82,12 +82,25 @@ def remove_optional_html5_attributes(soup: BeautifulSoup) -> int:
     return removed
 
 
-def apply_cleanup(file_path: Path) -> tuple[int, int, int, bool]:
+def remove_home_listing_descriptions(soup: BeautifulSoup, file_path: Path) -> int:
+    if file_path.as_posix() != "_site/index.html":
+        return 0
+
+    removed = 0
+    for node in soup.select(".listing-description"):
+        node.decompose()
+        removed += 1
+
+    return removed
+
+
+def apply_cleanup(file_path: Path) -> tuple[int, int, int, int, bool]:
     content = file_path.read_text(encoding="utf-8")
     updated = content
     replacements_count = 0
     alts_added = 0
     optional_attrs_removed = 0
+    home_listing_descriptions_removed = 0
 
     for source, target in REPLACEMENTS:
         occurrences = updated.count(source)
@@ -97,6 +110,7 @@ def apply_cleanup(file_path: Path) -> tuple[int, int, int, bool]:
 
     if file_path.suffix.lower() == ".html":
         soup = BeautifulSoup(updated, "html5lib")
+        home_listing_descriptions_removed = remove_home_listing_descriptions(soup, file_path)
         alts_added = add_random_alt_to_images(soup)
         optional_attrs_removed = remove_optional_html5_attributes(soup)
         updated = soup.decode(formatter="html5")
@@ -105,7 +119,13 @@ def apply_cleanup(file_path: Path) -> tuple[int, int, int, bool]:
     if updated != content:
         file_path.write_text(updated, encoding="utf-8")
 
-    return replacements_count, alts_added, optional_attrs_removed, changed
+    return (
+        replacements_count,
+        alts_added,
+        optional_attrs_removed,
+        home_listing_descriptions_removed,
+        changed,
+    )
 
 
 def main() -> int:
@@ -125,14 +145,22 @@ def main() -> int:
     total_replacements = 0
     total_alts_added = 0
     total_optional_attrs_removed = 0
+    total_home_listing_descriptions_removed = 0
 
     for file_path in iter_target_files(targets):
-        replacements_count, alts_added, optional_attrs_removed, changed = apply_cleanup(
+        (
+            replacements_count,
+            alts_added,
+            optional_attrs_removed,
+            home_listing_descriptions_removed,
+            changed,
+        ) = apply_cleanup(
             file_path
         )
         total_replacements += replacements_count
         total_alts_added += alts_added
         total_optional_attrs_removed += optional_attrs_removed
+        total_home_listing_descriptions_removed += home_listing_descriptions_removed
 
         if changed:
             files_changed += 1
@@ -141,6 +169,7 @@ def main() -> int:
                 f"{file_path} "
                 f"(replacements={replacements_count}, alt_added={alts_added}, "
                 f"optional_attrs_removed={optional_attrs_removed}, "
+                f"home_listing_descriptions_removed={home_listing_descriptions_removed}, "
                 "serialize=bs4+html5lib)"
             )
 
@@ -148,7 +177,8 @@ def main() -> int:
         "cleanup done: "
         f"{total_replacements} replacement(s), "
         f"{total_alts_added} alt attribute(s) added, "
-        f"{total_optional_attrs_removed} optional attribute(s) removed "
+        f"{total_optional_attrs_removed} optional attribute(s) removed, "
+        f"{total_home_listing_descriptions_removed} home listing description(s) removed "
         f"across {files_changed} file(s)"
     )
     return 0

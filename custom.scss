@@ -171,6 +171,11 @@ h2,
     margin-bottom: 1.9rem;
 }
 
+/* Garder la meta description sans l'afficher dans le title block */
+#title-block-header .description {
+    display: none;
+}
+
 /* Home page welcome card */
 .no-navbar-home kbd {
     border: 1px solid #aaa;
@@ -204,6 +209,11 @@ h2,
     margin: 40px auto 0;
     text-align: center;
     width: 50%;
+}
+
+/* Masquer les descriptions dans la liste des posts de la home */
+.no-navbar-home .quarto-listing .listing-description {
+    display: none;
 }
 
 @media (max-width: 768px) {

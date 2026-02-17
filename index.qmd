@@ -14,7 +14,7 @@ listing:
   sort-ui: false
   filter-ui: false
   page-size: 100000
-  fields: [image, date, title, description]
+  fields: [image, date, title]
 page-layout: full
 pagetitle: "Blog IoT"
 title: <span class="spin">OUI</span>LOGIQUE.COM
