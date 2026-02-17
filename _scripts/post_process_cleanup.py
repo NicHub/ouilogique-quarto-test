@@ -99,7 +99,7 @@ def apply_cleanup(file_path: Path) -> tuple[int, int, int, bool]:
         soup = BeautifulSoup(updated, "html5lib")
         alts_added = add_random_alt_to_images(soup)
         optional_attrs_removed = remove_optional_html5_attributes(soup)
-        updated = soup.prettify(formatter="html5")
+        updated = soup.decode(formatter="html5")
 
     changed = updated != content
     if updated != content:
@@ -141,7 +141,7 @@ def main() -> int:
                 f"{file_path} "
                 f"(replacements={replacements_count}, alt_added={alts_added}, "
                 f"optional_attrs_removed={optional_attrs_removed}, "
-                "pretty_print=bs4+html5lib)"
+                "serialize=bs4+html5lib)"
             )
 
     print(

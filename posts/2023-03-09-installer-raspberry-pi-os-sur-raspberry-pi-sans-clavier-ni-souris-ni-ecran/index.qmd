@@ -72,7 +72,7 @@ Donc voici quelques possibilités.
 -   Insérer une carte SD, cliquer sur “Choisir le stockage” et choisir la carte SD.
 -   **Important :** Cliquer sur la roue dentée et s’assurer que l’option “Activer SSH” est activée.
 
-    > Anciennement, l’activation de SSH se faisait en créant un fichier vide appelé `ssh`dans le répertoire `boot`, par exemple avec la commande `touch /Volumes/boot/ssh`.
+    > Anciennement, l’activation de SSH se faisait en créant un fichier vide appelé `ssh` dans le répertoire `boot`, par exemple avec la commande `touch /Volumes/boot/ssh`.
     > Ce n’est plus nécessaire aujourd’hui.
 
 -   Cliquer sur <kbd>ÉCRIRE</kbd>.
