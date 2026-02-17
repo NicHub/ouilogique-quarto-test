@@ -2,3 +2,4 @@ format:
   html:
     include-before-body: ../../_includes/prev-next-include.html
     include-after-body: ../../_includes/prev-next-include.html
+description: "Article du blog ouilogique.com sur l'IoT, Arduino, ESP, Raspberry Pi et l'électronique."

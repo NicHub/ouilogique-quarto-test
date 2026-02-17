@@ -6,6 +6,7 @@ format:
     include-after-body: _includes/prev-next-include.html
 lang: fr
 image: images/og-image-1.png
+description: "Blog personnel sur l'IoT, Arduino, ESP, Raspberry Pi et la programmation embarquée."
 listing:
   contents: posts
   sort: "date desc"
