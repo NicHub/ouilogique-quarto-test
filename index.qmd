@@ -20,55 +20,6 @@ title: <span class="spin">OUI</span>LOGIQUE.COM
 title-block-banner: true
 ---
 
-<style>
-kbd {
-    border: 1px solid #AAA;
-    border-radius: 10%;
-    padding: 1px;
-    margin: 0.5em 0 0;
-    min-width: 40px;
-    display: inline-block;
-    text-align: center;
-    font-size: 1.0em;
-    font-weight: bold;
-}
-
-.home-welcome-card {
-  background: linear-gradient(160deg, #15171c 0%, #0f1116 100%);
-  border-radius: 16px;
-  border: 1px solid #2a3040;
-  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.4);
-  color: #e8ecf3;
-  margin: 100px auto;
-  min-width: min(92vw, 22rem);
-  text-align: center;
-  padding: 2rem 2.25rem;
-  width: min(50%, 48rem);
-}
-
-.astuce {
-  font-size: 70%;
-  font-family: "Fira Code", cursive;
-  line-height: 2em;
-  margin: 40px auto 0;
-  text-align: center;
-  width: 50%;
-}
-
-@media (max-width: 768px) {
-  .home-welcome-card {
-    margin: 48px 0;
-    min-width: 0;
-    text-align: center;
-    width: auto;
-  }
-
-  .astuce {
-    display: none;
-  }
-}
-</style>
-
 [![][img_1]]{.cls-site-logo}
 
 [img_1]: ./images/site-logo.png

@@ -52,11 +52,42 @@ def add_random_alt_to_images(soup: BeautifulSoup) -> int:
     return added
 
 
-def apply_cleanup(file_path: Path) -> tuple[int, int, bool]:
+def remove_optional_html5_attributes(soup: BeautifulSoup) -> int:
+    removed = 0
+    optional_script_types = {"text/javascript", "application/javascript"}
+
+    for tag in soup.find_all(attrs={"append-hash": True}):
+        del tag["append-hash"]
+        removed += 1
+
+    for script in soup.find_all("script"):
+        script_type = script.get("type", "").strip().lower()
+        if script_type in optional_script_types:
+            del script["type"]
+            removed += 1
+
+    for style in soup.find_all("style"):
+        style_type = style.get("type", "").strip().lower()
+        if style_type == "text/css":
+            del style["type"]
+            removed += 1
+
+    for link in soup.find_all("link"):
+        link_type = link.get("type", "").strip().lower()
+        rel_values = [value.strip().lower() for value in link.get("rel", [])]
+        if link_type == "text/css" and "stylesheet" in rel_values:
+            del link["type"]
+            removed += 1
+
+    return removed
+
+
+def apply_cleanup(file_path: Path) -> tuple[int, int, int, bool]:
     content = file_path.read_text(encoding="utf-8")
     updated = content
     replacements_count = 0
     alts_added = 0
+    optional_attrs_removed = 0
 
     for source, target in REPLACEMENTS:
         occurrences = updated.count(source)
@@ -65,15 +96,16 @@ def apply_cleanup(file_path: Path) -> tuple[int, int, bool]:
             replacements_count += occurrences
 
     if file_path.suffix.lower() == ".html":
-        soup = BeautifulSoup(updated, "html.parser")
+        soup = BeautifulSoup(updated, "html5lib")
         alts_added = add_random_alt_to_images(soup)
-        updated = soup.prettify(formatter="minimal")
+        optional_attrs_removed = remove_optional_html5_attributes(soup)
+        updated = soup.prettify(formatter="html5")
 
     changed = updated != content
     if updated != content:
         file_path.write_text(updated, encoding="utf-8")
 
-    return replacements_count, alts_added, changed
+    return replacements_count, alts_added, optional_attrs_removed, changed
 
 
 def main() -> int:
@@ -92,11 +124,15 @@ def main() -> int:
     files_changed = 0
     total_replacements = 0
     total_alts_added = 0
+    total_optional_attrs_removed = 0
 
     for file_path in iter_target_files(targets):
-        replacements_count, alts_added, changed = apply_cleanup(file_path)
+        replacements_count, alts_added, optional_attrs_removed, changed = apply_cleanup(
+            file_path
+        )
         total_replacements += replacements_count
         total_alts_added += alts_added
+        total_optional_attrs_removed += optional_attrs_removed
 
         if changed:
             files_changed += 1
@@ -104,13 +140,15 @@ def main() -> int:
                 "updated: "
                 f"{file_path} "
                 f"(replacements={replacements_count}, alt_added={alts_added}, "
-                "pretty_print=bs4)"
+                f"optional_attrs_removed={optional_attrs_removed}, "
+                "pretty_print=bs4+html5lib)"
             )
 
     print(
         "cleanup done: "
         f"{total_replacements} replacement(s), "
-        f"{total_alts_added} alt attribute(s) added "
+        f"{total_alts_added} alt attribute(s) added, "
+        f"{total_optional_attrs_removed} optional attribute(s) removed "
         f"across {files_changed} file(s)"
     )
     return 0
