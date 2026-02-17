@@ -8,6 +8,7 @@ project:
     post-render:
         - bash _scripts/flatten-pages-to-root.sh
         - python3 _scripts/create_prev_next_buttons.py
+        - python3 _scripts/post_process_cleanup.py
     resources:
         - CNAME
         - pages/*/**
