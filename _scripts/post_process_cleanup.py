@@ -117,7 +117,11 @@ def apply_cleanup(file_path: Path) -> tuple[int, int, int, int, bool]:
 
     changed = updated != content
     if updated != content:
-        file_path.write_text(updated, encoding="utf-8")
+        try:
+            file_path.write_text(updated, encoding="utf-8")
+        except FileNotFoundError:
+            # Some files can disappear during post-render moves; skip safely.
+            changed = False
 
     return (
         replacements_count,

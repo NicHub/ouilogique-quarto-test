@@ -5,6 +5,9 @@
 project:
     type: website
     output-dir: _site
+    render:
+        - "*.qmd"
+        - "!CLAUDE.md"
     post-render:
         - bash _scripts/flatten-pages-to-root.sh
         - python3 _scripts/create_prev_next_buttons.py
