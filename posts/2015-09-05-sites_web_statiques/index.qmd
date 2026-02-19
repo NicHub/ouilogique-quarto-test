@@ -18,7 +18,10 @@ title: Générateurs de sites web statiques
     <img src="./images/sites_web_statiques-thumb.png" alt="Générateurs de sites web statiques — Thumb" class="thumb">
 </p>
 
-> Ouilogique.com est généré avec Jekyll.
+> Ouilogique.com était à l’origine généré avec [Jekyll]. Depuis février 2026, il est généré avec [Quarto].
+
+[Jekyll]: https://jekyllrb.com/
+[Quarto]: https://quarto.org/
 
 ## Simon Wood — Future Insights
 <!--
