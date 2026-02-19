@@ -62,8 +62,16 @@ La version pour l’ESP8266 synchronise l’heure de horloge temps réel DS1307 
 
 -   <https://github.com/NicHub/ouilogique-ESP8266-Arduino/tree/master/horloge-cycles-ultradiens-esp8266>
 
-## À lire aussi
+## À voir ou lire aussi
 
-[Présentation du 03.06.2022, « gestion d’interrupteurs, anti-rebonds & Cie, utilisation de touches click, double click, clik court, long etc. »,  Claude Balmer][balmer-debounce]
+-   [Présentation du 03.06.2022, « gestion d’interrupteurs, anti-rebonds & Cie, utilisation de touches click, double click, clik court, long etc. »,  Claude Balmer][balmer-debounce]
 
 [balmer-debounce]: ./docs/TouchesCB.pdf
+
+-   [Texas Instrument — Debounce a Switch]
+
+[Texas Instrument — Debounce a Switch]: https://www.youtube.com/watch?v=e1-kc04jSE4
+
+-   [What is Switch Bounce and How to Debounce – ATM | Digi-Key Electronics]
+
+[What is Switch Bounce and How to Debounce – ATM | Digi-Key Electronics]: https://www.youtube.com/watch?v=IvU8m_30iK0
