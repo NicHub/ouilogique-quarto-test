@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="440" d="3279" w="1"><s ac="0">salut</s><s t="479" ac="0"> quelle</s><s t="720" ac="0"> est</s><s t="879" ac="0"> la</s><s t="960" ac="0"> meilleure</s></p>
+<p t="1670" d="2049" w="1" a="1">
+</p>
+<p t="1680" d="3840" w="1"><s ac="0">distribution</s><s t="479" ac="0"> Linux</s><s t="1080" ac="0"> bonne</s><s t="1320" ac="0"> question</s><s t="1840" ac="0"> les</s></p>
+<p t="3709" d="1811" w="1" a="1">
+</p>
+<p t="3719" d="3720" w="1"><s ac="0">vidéos</s><s t="281" ac="0"> de</s><s t="441" ac="0"> tierl</s><s t="1120" ac="0"> sur</s><s t="1241" ac="0"> ce</s><s t="1361" ac="0"> sujet</s><s t="1681" ac="0"> se</s></p>
+<p t="5510" d="1929" w="1" a="1">
+</p>
+<p t="5520" d="4039" w="1"><s ac="0">multiplient</s><s t="799" ac="0"> on</s><s t="1000" ac="0"> y</s><s t="1200" ac="0"> voit</s><s t="1359" ac="0"> souvent</s><s t="1600" ac="0"> cinq</s></p>
+<p t="7429" d="2130" w="1" a="1">
+</p>
+<p t="7439" d="3841" w="1"><s ac="0">lignes</s><s t="281" ac="0"> de</s><s t="601" ac="0"> mauvais</s><s t="921" ac="0"> à</s><s t="1041" ac="0"> fantastique</s><s t="1761" ac="0"> et</s><s t="1961" ac="0"> des</s></p>
+<p t="9549" d="1731" w="1" a="1">
+</p>
+<p t="9559" d="3641" w="1"><s ac="0">icônes</s><s t="401" ac="0"> de</s><s t="481" ac="0"> distribution</s><s t="921" ac="0"> qui</s><s t="1080" ac="0"> viennent</s><s t="1521" ac="0"> s&#39;y</s></p>
+<p t="11270" d="1930" w="1" a="1">
+</p>
+<p t="11280" d="3599" w="1"><s ac="0">pluguer</s><s t="519" ac="0"> les</s><s t="760" ac="0"> notes</s><s t="1040" ac="0"> attribuées</s><s t="1560" ac="0"> dépendent</s></p>
+<p t="13190" d="1689" w="1" a="1">
+</p>
+<p t="13200" d="3440" w="1"><s ac="0">souvent</s><s t="200" ac="0"> de</s><s t="319" ac="0"> l&#39;expérience</s><s t="800" ac="0"> de</s><s t="920" ac="0"> l&#39;auteur</s><s t="1519" ac="0"> mais</s></p>
+<p t="14869" d="1771" w="1" a="1">
+</p>
+<p t="14879" d="3641" w="1"><s ac="0">aussi</s><s t="201" ac="0"> de</s><s t="321" ac="0"> la</s><s t="441" ac="0"> pertinence</s><s t="880" ac="0"> de</s><s t="1160" ac="0"> chaque</s><s t="1400" ac="0"> modèle</s></p>
+<p t="16630" d="1890" w="1" a="1">
+</p>
+<p t="16640" d="3479" w="1"><s ac="0">pour</s><s t="80" ac="0"> une</s><s t="280" ac="0"> utilisation</s><s t="680" ac="0"> donnée</s><s t="1479" ac="0"> ici</s><s t="1719" ac="0"> nous</s></p>
+<p t="18510" d="1609" w="1" a="1">
+</p>
+<p t="18520" d="3240" w="1"><s ac="0">allons</s><s t="240" ac="0"> voir</s><s t="400" ac="0"> les</s><s t="519" ac="0"> choses</s><s t="759" ac="0"> différemment</s></p>
+<p t="20109" d="1651" w="1" a="1">
+</p>
+<p t="20119" d="3320" w="1"><s ac="0">chaque</s><s t="240" ac="0"> distribution</s><s t="721" ac="0"> a</s><s t="881" ac="0"> été</s><s t="1080" ac="0"> créée</s><s t="1441" ac="0"> avec</s></p>
+<p t="21750" d="1689" w="1" a="1">
+</p>
+<p t="21760" d="3640" w="1"><s ac="0">pour</s><s t="160" ac="0"> objectif</s><s t="840" ac="0"> soit</s><s t="1080" ac="0"> de</s><s t="1200" ac="0"> proposer</s><s t="1560" ac="0"> un</s></p>
+<p t="23429" d="1971" w="1" a="1">
+</p>
+<p t="23439" d="3561" w="1"><s ac="0">système</s><s t="321" ac="0"> complet</s><s t="881" ac="0"> soit</s><s t="1121" ac="0"> d&#39;améliorer</s><s t="1680" ac="0"> quelque</s></p>
+<p t="25390" d="1610" w="1" a="1">
+</p>
+<p t="25400" d="3360" w="1"><s ac="0">chose</s><s t="320" ac="0"> comme</s><s t="520" ac="0"> par</s><s t="639" ac="0"> exemple</s><s t="1039" ac="0"> la</s><s t="1160" ac="0"> facilité</s></p>
+<p t="26990" d="1770" w="1" a="1">
+</p>
+<p t="27000" d="3679" w="1"><s ac="0">d&#39;utilisation</s><s t="1000" ac="0"> ou</s><s t="1160" ac="0"> encore</s><s t="1480" ac="0"> de</s><s t="1599" ac="0"> se</s></p>
+<p t="28750" d="1929" w="1" a="1">
+</p>
+<p t="28760" d="3600" w="1"><s ac="0">spécialiser</s><s t="480" ac="0"> pour</s><s t="599" ac="0"> un</s><s t="759" ac="0"> usage</s><s t="1240" ac="0"> données</s><s t="1759" ac="0"> nous</s></p>
+<p t="30669" d="1691" w="1" a="1">
+</p>
+<p t="30679" d="3200" w="1"><s ac="0">allons</s><s t="241" ac="0"> donc</s><s t="401" ac="0"> tenter</s><s t="641" ac="0"> de</s><s t="760" ac="0"> ranger</s><s t="1080" ac="0"> nos</s><s t="1241" ac="0"> Linux</s></p>
+<p t="32350" d="1529" w="1" a="1">
+</p>
+<p t="32360" d="3480" w="1"><s ac="0">en</s><s t="79" ac="0"> fonction</s><s t="359" ac="0"> de</s><s t="480" ac="0"> leurs</s><s t="680" ac="0"> caractéristiques</s><s t="1400" ac="0"> et</s></p>
+<p t="33869" d="1971" w="1" a="1">
+</p>
+<p t="33879" d="3520" w="1"><s ac="0">objectifs</s><s t="641" ac="0"> à</s><s t="801" ac="0"> toi</s><s t="961" ac="0"> de</s><s t="1041" ac="0"> sélectionner</s><s t="1481" ac="0"> là</s><s t="1840" ac="0"> ou</s></p>
+<p t="35830" d="1569" w="1" a="1">
+</p>
+<p t="35840" d="3760" w="1"><s ac="0">les</s><s t="160" ac="0"> distributions</s><s t="719" ac="0"> qui</s><s t="840" ac="0"> te</s><s t="920" ac="0"> conviennent</s><s t="1440" ac="0"> en</s></p>
+<p t="37389" d="2211" w="1" a="1">
+</p>
+<p t="37399" d="3401" w="1"><s ac="0">connaissance</s><s t="521" ac="0"> de</s><s t="641" ac="0"> cause</s><s t="1281" ac="0"> on</s><s t="1480" ac="0"> se</s><s t="1561" ac="0"> concentrera</s></p>
+<p t="39590" d="1210" w="1" a="1">
+</p>
+<p t="39600" d="2680" w="1"><s ac="0">ici</s><s t="200" ac="0"> sur</s><s t="360" ac="0"> quelques</s><s t="680" ac="0"> spécimennes</s></p>
+<p t="40790" d="1490" w="1" a="1">
+</p>
+<p t="40800" d="3120" w="1"><s ac="0">remarquables</s><s t="599" ac="0"> bien</s><s t="759" ac="0"> qu&#39;il</s><s t="1000" ac="0"> existe</s><s t="1360" ac="0"> des</s></p>
+<p t="42270" d="1650" w="1" a="1">
+</p>
+<p t="42280" d="3759" w="1"><s ac="0">centaines</s><s t="480" ac="0"> de</s><s t="560" ac="0"> distributions</s><s t="1279" ac="0"> que</s><s t="1360" ac="0"> tu</s><s t="1480" ac="0"> peux</s></p>
+<p t="43910" d="2129" w="1" a="1">
+</p>
+<p t="43920" d="4080" w="1"><s ac="0">découvrir</s><s t="360" ac="0"> sur</s><s t="440" ac="0"> distro</s><s t="1080" ac="0"> watch</s><s t="1479" ac="0"> parmi</s><s t="1760" ac="0"> cette</s></p>
+<p t="46029" d="1971" w="1" a="1">
+</p>
+<p t="46039" d="4160" w="1"><s ac="0">sélection</s><s t="520" ac="0"> je</s><s t="680" ac="0"> te</s><s t="761" ac="0"> réserve</s><s t="1160" ac="0"> en</s><s t="1281" ac="0"> fin</s><s t="1441" ac="0"> de</s><s t="1561" ac="0"> vidéo</s></p>
+<p t="47990" d="2209" w="1" a="1">
+</p>
+<p t="48000" d="4079" w="1"><s ac="0">quelques</s><s t="360" ac="0"> spécimenses</s><s t="920" ac="0"> bien</s><s t="1039" ac="0"> gratinés</s><s t="1920" ac="0"> sur</s></p>
+<p t="50189" d="1890" w="1" a="1">
+</p>
+<p t="50199" d="4241" w="1"><s ac="0">l&#39;axe</s><s t="520" ac="0"> vertical</s><s t="1000" ac="0"> nous</s><s t="1161" ac="0"> allons</s><s t="1401" ac="0"> y</s><s t="1641" ac="0"> mettre</s></p>
+<p t="52069" d="2371" w="1" a="1">
+</p>
+<p t="52079" d="3881" w="1"><s ac="0">l&#39;usage</s><s t="721" ac="0"> en</s><s t="921" ac="0"> bas</s><s t="1120" ac="0"> les</s><s t="1401" ac="0"> distribution</s><s t="1960" ac="0"> accxé</s></p>
+<p t="54430" d="1530" w="1" a="1">
+</p>
+<p t="54440" d="3880" w="1"><s ac="0">sur</s><s t="80" ac="0"> la</s><s t="200" ac="0"> bureautique</s><s t="799" ac="0"> le</s><s t="880" ac="0"> gaming</s><s t="1400" ac="0"> le</s></p>
+<p t="55950" d="2370" w="1" a="1">
+</p>
+<p t="55960" d="4680" w="1"><s ac="0">multimédia</s><s t="680" ac="0"> le</s><s t="840" ac="0"> loisir</s><s t="1439" ac="0"> et</s><s t="1599" ac="0"> les</s><s t="1800" ac="0"> utilisations</s></p>
+<p t="58310" d="2330" w="1" a="1">
+</p>
+<p t="58320" d="4120" w="1"><s ac="0">générales</s><s t="719" ac="0"> et</s><s t="960" ac="0"> en</s><s t="1120" ac="0"> haut</s><s t="1600" ac="0"> on</s><s t="1719" ac="0"> retrouvera</s><s t="2199" ac="0"> au</s></p>
+<p t="60630" d="1810" w="1" a="1">
+</p>
+<p t="60640" d="3919" w="1"><s ac="0">contraire</s><s t="360" ac="0"> les</s><s t="520" ac="0"> Linux</s><s t="1000" ac="0"> spécialisés</s><s t="1559" ac="0"> pour</s><s t="1680" ac="0"> les</s></p>
+<p t="62430" d="2129" w="1" a="1">
+</p>
+<p t="62440" d="3359" w="1"><s ac="0">serveurs</s><s t="480" ac="0"> machines</s><s t="880" ac="0"> virtuelles</s><s t="1560" ac="0"> et</s><s t="1759" ac="0"> autres</s></p>
+<p t="64549" d="1250" w="1" a="1">
+</p>
+<p t="64559" d="3481" w="1"><s ac="0">opérations</s><s t="481" ac="0"> qui</s><s t="600" ac="0"> nécessitent</s><s t="1121" ac="0"> des</s></p>
+<p t="65789" d="2251" w="1" a="1">
+</p>
+<p t="65799" d="4081" w="1"><s ac="0">compétences</s><s t="441" ac="0"> en</s><s t="601" ac="0"> administration</s><s t="1320" ac="0"> système</s></p>
+<p t="68030" d="1850" w="1" a="1">
+</p>
+<p t="68040" d="3680" w="1"><s ac="0">sur</s><s t="119" ac="0"> l&#39;axe</s><s t="520" ac="0"> horizontal</s><s t="1280" ac="0"> la</s><s t="1399" ac="0"> facilité</s></p>
+<p t="69870" d="1850" w="1" a="1">
+</p>
+<p t="69880" d="3520" w="1"><s ac="0">d&#39;installation</s><s t="480" ac="0"> et</s><s t="760" ac="0"> de</s><s t="840" ac="0"> maintenance</s><s t="1680" ac="0"> à</s></p>
+<p t="71710" d="1690" w="1" a="1">
+</p>
+<p t="71720" d="3439" w="1"><s ac="0">gauche</s><s t="280" ac="0"> les</s><s t="439" ac="0"> systèmes</s><s t="840" ac="0"> avec</s><s t="1039" ac="0"> des</s><s t="1160" ac="0"> installeurs</s></p>
+<p t="73390" d="1769" w="1" a="1">
+</p>
+<p t="73400" d="3880" w="1"><s ac="0">conviviaux</s><s t="600" ac="0"> et</s><s t="719" ac="0"> des</s><s t="840" ac="0"> logiciels</s><s t="1399" ac="0"> faciles</s></p>
+<p t="75149" d="2131" w="1" a="1">
+</p>
+<p t="75159" d="3521" w="1"><s ac="0">d&#39;utilisation</s><s t="761" ac="0"> à</s><s t="921" ac="0"> droite</s><s t="1201" ac="0"> ce</s><s t="1521" ac="0"> qui</s><s t="1640" ac="0"> nécessite</s></p>
+<p t="77270" d="1410" w="1" a="1">
+</p>
+<p t="77280" d="3600" w="1"><s ac="0">une</s><s t="199" ac="0"> solide</s><s t="519" ac="0"> connaissance</s><s t="920" ac="0"> des</s><s t="1040" ac="0"> systèmes</s></p>
+<p t="78670" d="2210" w="1" a="1">
+</p>
+<p t="78680" d="3680" w="1"><s ac="0">Unix</s><s t="479" ac="0"> et</s><s t="560" ac="0"> Linux</s><s t="1439" ac="0"> commençons</s><s t="1880" ac="0"> par</s><s t="2000" ac="0"> les</s></p>
+<p t="80870" d="1490" w="1" a="1">
+</p>
+<p t="80880" d="3199" w="1"><s ac="0">distributions</s><s t="480" ac="0"> mères</s><s t="879" ac="0"> qui</s><s t="960" ac="0"> ont</s><s t="1160" ac="0"> souvent</s><s t="1360" ac="0"> de</s></p>
+<p t="82350" d="1729" w="1" a="1">
+</p>
+<p t="82360" d="3480" w="1"><s ac="0">nombreuses</s><s t="480" ac="0"> filles</s><s t="759" ac="0"> à</s><s t="840" ac="0"> leur</s><s t="1000" ac="0"> actifs</s><s t="1600" ac="0"> en</s></p>
+<p t="84069" d="1771" w="1" a="1">
+</p>
+<p t="84079" d="3801" w="1"><s ac="0">premier</s><s t="281" ac="0"> lieu</s><s t="481" ac="0"> Slackware</s><s t="1241" ac="0"> qui</s><s t="1360" ac="0"> est</s><s t="1481" ac="0"> la</s><s t="1561" ac="0"> plus</s></p>
+<p t="85830" d="2050" w="1" a="1">
+</p>
+<p t="85840" d="3599" w="1"><s ac="0">ancienne</s><s t="319" ac="0"> distribution</s><s t="720" ac="0"> encore</s><s t="1040" ac="0"> en</s><s t="1200" ac="0"> activité</s></p>
+<p t="87870" d="1569" w="1" a="1">
+</p>
+<p t="87880" d="3320" w="1"><s ac="0">elle</s><s t="160" ac="0"> a</s><s t="279" ac="0"> pour</s><s t="640" ac="0"> particularité</s><s t="1040" ac="0"> d&#39;avoir</s><s t="1360" ac="0"> été</s></p>
+<p t="89429" d="1771" w="1" a="1">
+</p>
+<p t="89439" d="4000" w="1"><s ac="0">développé</s><s t="720" ac="0"> par</s><s t="841" ac="0"> une</s><s t="961" ac="0"> seule</s><s t="1201" ac="0"> personne</s><s t="1521" ac="0"> pendant</s></p>
+<p t="91190" d="2249" w="1" a="1">
+</p>
+<p t="91200" d="4640" w="1"><s ac="0">des</s><s t="120" ac="0"> années</s><s t="520" ac="0"> Patrick</s><s t="879" ac="0"> volkerling</s><s t="1840" ac="0"> qui</s><s t="2040" ac="0"> l&#39;a</s></p>
+<p t="93429" d="2411" w="1" a="1">
+</p>
+<p t="93439" d="5040" w="1"><s ac="0">créé</s><s t="281" ac="0"> en</s><s t="401" ac="0"> 1992</s><s t="1401" ac="0"> et</s><s t="1561" ac="0"> accepté</s><s t="1921" ac="0"> l&#39;aide</s><s t="2320" ac="0"> de</s></p>
+<p t="95830" d="2649" w="1" a="1">
+</p>
+<p t="95840" d="4440" w="1"><s ac="0">contributeur</s><s t="440" ac="0"> sur</s><s t="639" ac="0"> le</s><s t="840" ac="0"> tard</s><s t="1239" ac="0"> légère</s><s t="2239" ac="0"> rapide</s></p>
+<p t="98469" d="1811" w="1" a="1">
+</p>
+<p t="98479" d="3761" w="1"><s ac="0">sans</s><s t="201" ac="0"> furiture</s><s t="960" ac="0"> avec</s><s t="1201" ac="0"> une</s><s t="1320" ac="0"> installation</s></p>
+<p t="100270" d="1970" w="1" a="1">
+</p>
+<p t="100280" d="3720" w="1"><s ac="0">semigraphique</s><s t="720" ac="0"> à</s><s t="799" ac="0"> la</s><s t="879" ac="0"> BSD</s><s t="1640" ac="0"> elle</s><s t="1799" ac="0"> est</s></p>
+<p t="102230" d="1770" w="1" a="1">
+</p>
+<p t="102240" d="4280" w="1"><s ac="0">généraliste</s><s t="640" ac="0"> mais</s><s t="839" ac="0"> plutôt</s><s t="1120" ac="0"> réservée</s><s t="1519" ac="0"> à</s><s t="1600" ac="0"> des</s></p>
+<p t="103990" d="2530" w="1" a="1">
+</p>
+<p t="104000" d="4640" w="1"><s ac="0">initiés</s><s t="600" ac="0"> Debian</s><s t="1439" ac="0"> au</s><s t="1520" ac="0"> contraire</s><s t="1960" ac="0"> se</s><s t="2079" ac="0"> distingue</s></p>
+<p t="106510" d="2130" w="1" a="1">
+</p>
+<p t="106520" d="4599" w="1"><s ac="0">par</s><s t="80" ac="0"> son</s><s t="199" ac="0"> mode</s><s t="520" ac="0"> de</s><s t="599" ac="0"> gouvernance</s><s t="1120" ac="0"> coopératif</s></p>
+<p t="108630" d="2489" w="1" a="1">
+</p>
+<p t="108640" d="4040" w="1"><s ac="0">sorti</s><s t="320" ac="0"> en</s><s t="759" ac="0"> 1996</s><s t="1759" ac="0"> il</s><s t="1920" ac="0"> s&#39;agit</s><s t="2280" ac="0"> de</s><s t="2360" ac="0"> la</s></p>
+<p t="111109" d="1571" w="1" a="1">
+</p>
+<p t="111119" d="3481" w="1"><s ac="0">distribution</s><s t="441" ac="0"> ayant</s><s t="841" ac="0"> généré</s><s t="1201" ac="0"> le</s><s t="1280" ac="0"> plus</s><s t="1441" ac="0"> de</s></p>
+<p t="112670" d="1930" w="1" a="1">
+</p>
+<p t="112680" d="3320" w="1"><s ac="0">petits</s><s t="520" ac="0"> encore</s><s t="880" ac="0"> massivement</s><s t="1520" ac="0"> utilisée</s></p>
+<p t="114590" d="1410" w="1" a="1">
+</p>
+<p t="114600" d="3199" w="1"><s ac="0">aujourd&#39;hui</s><s t="640" ac="0"> elle</s><s t="760" ac="0"> est</s><s t="920" ac="0"> parfaite</s><s t="1320" ac="0"> pour</s></p>
+<p t="115990" d="1809" w="1" a="1">
+</p>
+<p t="116000" d="3680" w="1"><s ac="0">monter</s><s t="280" ac="0"> un</s><s t="399" ac="0"> serveur</s><s t="799" ac="0"> et</s><s t="1039" ac="0"> aussi</s><s t="1280" ac="0"> un</s><s t="1399" ac="0"> bon</s><s t="1560" ac="0"> choix</s></p>
+<p t="117789" d="1891" w="1" a="1">
+</p>
+<p t="117799" d="3721" w="1"><s ac="0">pour</s><s t="121" ac="0"> une</s><s t="320" ac="0"> utilisation</s><s t="801" ac="0"> bureau</s><s t="1441" ac="0"> elle</s><s t="1600" ac="0"> mise</s></p>
+<p t="119670" d="1850" w="1" a="1">
+</p>
+<p t="119680" d="3719" w="1"><s ac="0">sur</s><s t="160" ac="0"> sur</s><s t="280" ac="0"> la</s><s t="359" ac="0"> stabilité</s><s t="880" ac="0"> et</s><s t="1079" ac="0"> l&#39;utilisation</s><s t="1560" ac="0"> de</s></p>
+<p t="121510" d="1889" w="1" a="1">
+</p>
+<p t="121520" d="3919" w="1"><s ac="0">logiciel</s><s t="440" ac="0"> libre</s><s t="1080" ac="0"> pour</s><s t="1279" ac="0"> chaque</s><s t="1519" ac="0"> logiciel</s></p>
+<p t="123389" d="2050" w="1" a="1">
+</p>
+<p t="123399" d="3601" w="1"><s ac="0">Debian</s><s t="801" ac="0"> propose</s><s t="1121" ac="0"> une</s><s t="1281" ac="0"> version</s><s t="1561" ac="0"> testée</s><s t="1961" ac="0"> et</s></p>
+<p t="125429" d="1571" w="1" a="1">
+</p>
+<p t="125439" d="3800" w="1"><s ac="0">approuvée</s><s t="481" ac="0"> qui</s><s t="640" ac="0"> n&#39;est</s><s t="921" ac="0"> en</s><s t="1000" ac="0"> général</s><s t="1320" ac="0"> pas</s><s t="1441" ac="0"> la</s></p>
+<p t="126990" d="2249" w="1" a="1">
+</p>
+<p t="127000" d="3879" w="1"><s ac="0">toute</s><s t="240" ac="0"> dernière</s><s t="799" ac="0"> redat</s><s t="1560" ac="0"> est</s><s t="1679" ac="0"> liée</s><s t="1920" ac="0"> au</s><s t="2000" ac="0"> monde</s></p>
+<p t="129229" d="1650" w="1" a="1">
+</p>
+<p t="129239" d="3201" w="1"><s ac="0">de</s><s t="80" ac="0"> l&#39;entreprise</s><s t="681" ac="0"> depuis</s><s t="961" ac="0"> ses</s><s t="1160" ac="0"> débuts</s><s t="1520" ac="0"> en</s></p>
+<p t="130869" d="1571" w="1" a="1">
+</p>
+<p t="130879" d="3281" w="1"><s ac="0">1994</s></p>
+<p t="132430" d="1730" w="1" a="1">
+</p>
+<p t="132440" d="4000" w="1"><s ac="0">elle</s><s t="159" ac="0"> est</s><s t="280" ac="0"> aujourd&#39;hui</s><s t="760" ac="0"> un</s><s t="840" ac="0"> acteur</s><s t="1200" ac="0"> majeur</s><s t="1560" ac="0"> du</s></p>
+<p t="134150" d="2290" w="1" a="1">
+</p>
+<p t="134160" d="4079" w="1"><s ac="0">monde</s><s t="240" ac="0"> professionnel</s><s t="1000" ac="0"> on</s><s t="1560" ac="0"> utilise</s><s t="2000" ac="0"> surtout</s></p>
+<p t="136430" d="1809" w="1" a="1">
+</p>
+<p t="136440" d="4400" w="1"><s ac="0">cette</s><s t="240" ac="0"> distribution</s><s t="840" ac="0"> pour</s><s t="960" ac="0"> du</s><s t="1159" ac="0"> serveur</s><s t="1680" ac="0"> mais</s></p>
+<p t="138229" d="2611" w="1" a="1">
+</p>
+<p t="138239" d="4201" w="1"><s ac="0">aussi</s><s t="201" ac="0"> pour</s><s t="360" ac="0"> du</s><s t="521" ac="0"> bureau</s><s t="1041" ac="0"> je</s><s t="1720" ac="0"> tout</s><s t="2041" ac="0"> réservé</s><s t="2481" ac="0"> à</s></p>
+<p t="140830" d="1610" w="1" a="1">
+</p>
+<p t="140840" d="3440" w="1"><s ac="0">des</s><s t="160" ac="0"> utilisateurs</s><s t="720" ac="0"> avertis</s><s t="1240" ac="0"> est</s><s t="1440" ac="0"> une</s></p>
+<p t="142430" d="1850" w="1" a="1">
+</p>
+<p t="142440" d="3960" w="1"><s ac="0">distribution</s><s t="480" ac="0"> dite</s><s t="920" ac="0"> source</s><s t="1400" ac="0"> qu&#39;il</s><s t="1640" ac="0"> faut</s></p>
+<p t="144270" d="2130" w="1" a="1">
+</p>
+<p t="144280" d="4319" w="1"><s ac="0">avoir</s><s t="200" ac="0"> la</s><s t="319" ac="0"> patience</s><s t="679" ac="0"> de</s><s t="800" ac="0"> compiler</s><s t="1480" ac="0"> modulaire</s></p>
+<p t="146390" d="2209" w="1" a="1">
+</p>
+<p t="146400" d="4600" w="1"><s ac="0">et</s><s t="160" ac="0"> portable</s><s t="720" ac="0"> son</s><s t="880" ac="0"> créateur</s><s t="1280" ac="0"> Daniel</s><s t="1680" ac="0"> Robbins</s></p>
+<p t="148589" d="2411" w="1" a="1">
+</p>
+<p t="148599" d="4161" w="1"><s ac="0">voulait</s><s t="360" ac="0"> lors</s><s t="601" ac="0"> de</s><s t="640" ac="0"> sa</s><s t="761" ac="0"> création</s><s t="1360" ac="0"> en</s><s t="1441" ac="0"> 2002</s><s t="2201" ac="0"> une</s></p>
+<p t="150990" d="1770" w="1" a="1">
+</p>
+<p t="151000" d="4120" w="1"><s ac="0">solution</s><s t="400" ac="0"> optimisée</s><s t="920" ac="0"> pour</s><s t="1040" ac="0"> son</s><s t="1200" ac="0"> matériel</s></p>
+<p t="152750" d="2370" w="1" a="1">
+</p>
+<p t="152760" d="4360" w="1"><s ac="0">sans</s><s t="280" ac="0"> programme</s><s t="680" ac="0"> superflu</s><s t="1559" ac="0"> une</s><s t="1759" ac="0"> alternative</s></p>
+<p t="155110" d="2010" w="1" a="1">
+</p>
+<p t="155120" d="3880" w="1"><s ac="0">réservée</s><s t="440" ac="0"> aux</s><s t="560" ac="0"> informaticiens</s><s t="1440" ac="0"> dans</s><s t="1600" ac="0"> la</s><s t="1759" ac="0"> même</s></p>
+<p t="157110" d="1890" w="1" a="1">
+</p>
+<p t="157120" d="3960" w="1"><s ac="0">veine</s><s t="280" ac="0"> arche</s><s t="720" ac="0"> Linux</s><s t="1080" ac="0"> met</s><s t="1240" ac="0"> l&#39;accent</s><s t="1600" ac="0"> sur</s><s t="1720" ac="0"> la</s></p>
+<p t="158990" d="2090" w="1" a="1">
+</p>
+<p t="159000" d="3319" w="1"><s ac="0">simplicité</s><s t="560" ac="0"> selon</s><s t="760" ac="0"> le</s><s t="879" ac="0"> principe</s><s t="1280" ac="0"> Kiss</s></p>
+<p t="161070" d="1249" w="1" a="1">
+</p>
+<p t="161080" d="2720" w="1"><s ac="0">l&#39;installation</s><s t="560" ac="0"> se</s><s t="680" ac="0"> fait</s><s t="879" ac="0"> avec</s><s t="1040" ac="0"> des</s></p>
+<p t="162309" d="1491" w="1" a="1">
+</p>
+<p t="162319" d="3121" w="1"><s ac="0">pactetages</s><s t="401" ac="0"> précompilés</s><s t="1000" ac="0"> pour</s><s t="1081" ac="0"> gagner</s><s t="1361" ac="0"> du</s></p>
+<p t="163790" d="1650" w="1" a="1">
+</p>
+<p t="163800" d="3920" w="1"><s ac="0">temps</s><s t="359" ac="0"> souvent</s><s t="600" ac="0"> dans</s><s t="760" ac="0"> leur</s><s t="960" ac="0"> dernière</s><s t="1359" ac="0"> version</s></p>
+<p t="165430" d="2290" w="1" a="1">
+</p>
+<p t="165440" d="5120" w="1"><s ac="0">stable</s><s t="840" ac="0"> cette</s><s t="1120" ac="0"> distribution</s><s t="1680" ac="0"> se</s><s t="1799" ac="0"> concentre</s></p>
+<p t="167710" d="2850" w="1" a="1">
+</p>
+<p t="167720" d="4400" w="1"><s ac="0">exclusivement</s><s t="599" ac="0"> sur</s><s t="720" ac="0"> l&#39;architecture</s><s t="1840" ac="0"> x8664</s></p>
+<p t="170550" d="1570" w="1" a="1">
+</p>
+<p t="170560" d="2920" w="1"><s ac="0">arche</s><s t="679" ac="0"> est</s><s t="800" ac="0"> en</s><s t="880" ac="0"> rolling</s><s t="1240" ac="0"> release</s></p>
+<p t="172110" d="1370" w="1" a="1">
+</p>
+<p t="172120" d="3520" w="1"><s ac="0">c&#39;est-à-dire</s><s t="360" ac="0"> sans</s><s t="640" ac="0"> versions</s><s t="880" ac="0"> majeur</s><s t="1240" ac="0"> qui</s></p>
+<p t="173470" d="2170" w="1" a="1">
+</p>
+<p t="173480" d="3560" w="1"><s ac="0">nécessite</s><s t="479" ac="0"> des</s><s t="600" ac="0"> mises</s><s t="800" ac="0"> à</s><s t="920" ac="0"> niveau</s><s t="1479" ac="0"> importantes</s></p>
+<p t="175630" d="1410" w="1" a="1">
+</p>
+<p t="175640" d="2440" w="1"><s ac="0">une</s><s t="160" ac="0"> solution</s><s t="519" ac="0"> parfaite</s><s t="879" ac="0"> pour</s><s t="959" ac="0"> la</s><s t="1080" ac="0"> veille</s></p>
+<p t="177030" d="1050" w="1" a="1">
+</p>
+<p t="177040" d="2720" w="1"><s ac="0">technologique</s><s t="479" ac="0"> et</s><s t="600" ac="0"> les</s><s t="680" ac="0"> passionnés</s></p>
+<p t="178070" d="1690" w="1" a="1">
+</p>
+<p t="178080" d="3680" w="1"><s ac="0">d&#39;informatique</s><s t="760" ac="0"> dont</s><s t="879" ac="0"> vous</s><s t="1000" ac="0"> trouverez</s><s t="1439" ac="0"> quel</s></p>
+<p t="179750" d="2010" w="1" a="1">
+</p>
+<p t="179760" d="3640" w="1"><s ac="0">quelques</s><s t="240" ac="0"> vidéos</s><s t="520" ac="0"> sur</s><s t="600" ac="0"> cette</s><s t="800" ac="0"> chaîne</s><s t="1199" ac="0"> SX</s></p>
+<p t="181750" d="1650" w="1" a="1">
+</p>
+<p t="181760" d="3839" w="1"><s ac="0">qu&#39;AMB</s><s t="360" ac="0"> bon</s><s t="520" ac="0"> francophone</s><s t="1000" ac="0"> j&#39;avoue</s><s t="1399" ac="0"> plutôt</s></p>
+<p t="183390" d="2209" w="1" a="1">
+</p>
+<p t="183400" d="4960" w="1"><s ac="0">appelé</s><s t="320" ac="0"> Suze</s><s t="880" ac="0"> est</s><s t="1160" ac="0"> une</s><s t="1320" ac="0"> distribution</s><s t="1720" ac="0"> apparue</s></p>
+<p t="185589" d="2771" w="1" a="1">
+</p>
+<p t="185599" d="4401" w="1"><s ac="0">début</s><s t="441" ac="0"> 94</s><s t="1241" ac="0"> en</s><s t="1360" ac="0"> Allemagne</s><s t="2200" ac="0"> elle</s><s t="2280" ac="0"> est</s><s t="2360" ac="0"> destinée</s></p>
+<p t="188350" d="1650" w="1" a="1">
+</p>
+<p t="188360" d="3920" w="1"><s ac="0">aux</s><s t="200" ac="0"> entreprises</s><s t="560" ac="0"> dans</s><s t="720" ac="0"> un</s><s t="799" ac="0"> premier</s><s t="1080" ac="0"> temps</s><s t="1480" ac="0"> en</s></p>
+<p t="189990" d="2290" w="1" a="1">
+</p>
+<p t="190000" d="3959" w="1"><s ac="0">2005</s><s t="640" ac="0"> le</s><s t="720" ac="0"> projet</s><s t="1000" ac="0"> communautire</s><s t="1560" ac="0"> Open</s><s t="1840" ac="0"> sous</s><s t="2080" ac="0"> eu</s></p>
+<p t="192270" d="1689" w="1" a="1">
+</p>
+<p t="192280" d="3920" w="1"><s ac="0">fait</s><s t="160" ac="0"> son</s><s t="280" ac="0"> apparition</s><s t="879" ac="0"> et</s><s t="1000" ac="0"> aujourd&#39;hui</s><s t="1560" ac="0"> il</s></p>
+<p t="193949" d="2251" w="1" a="1">
+</p>
+<p t="193959" d="3840" w="1"><s ac="0">s&#39;agit</s><s t="360" ac="0"> d&#39;une</s><s t="601" ac="0"> distribution</s><s t="1081" ac="0"> majeure</s><s t="1881" ac="0"> facile</s></p>
+<p t="196190" d="1609" w="1" a="1">
+</p>
+<p t="196200" d="3840" w="1"><s ac="0">à</s><s t="119" ac="0"> installer</s><s t="520" ac="0"> et</s><s t="640" ac="0"> à</s><s t="759" ac="0"> gérer</s><s t="1080" ac="0"> grâce</s><s t="1360" ac="0"> à</s><s t="1440" ac="0"> son</s></p>
+<p t="197789" d="2251" w="1" a="1">
+</p>
+<p t="197799" d="3761" w="1"><s ac="0">configurateur</s><s t="681" ac="0"> YaST</s><s t="1321" ac="0"> elle</s><s t="1440" ac="0"> a</s><s t="1561" ac="0"> été</s><s t="1761" ac="0"> très</s><s t="1961" ac="0"> tôt</s></p>
+<p t="200030" d="1530" w="1" a="1">
+</p>
+<p t="200040" d="3400" w="1"><s ac="0">une</s><s t="160" ac="0"> solution</s><s t="520" ac="0"> conviviale</s><s t="1040" ac="0"> de</s><s t="1119" ac="0"> choix</s><s t="1360" ac="0"> dans</s><s t="1440" ac="0"> le</s></p>
+<p t="201550" d="1890" w="1" a="1">
+</p>
+<p t="201560" d="3759" w="1"><s ac="0">monde</s><s t="160" ac="0"> des</s><s t="360" ac="0"> Linux</s><s t="1200" ac="0"> revenons</s><s t="1679" ac="0"> à</s><s t="1800" ac="0"> la</s></p>
+<p t="203430" d="1889" w="1" a="1">
+</p>
+<p t="203440" d="4040" w="1"><s ac="0">distribution</s><s t="439" ac="0"> d&#39;bian</s><s t="1120" ac="0"> et</s><s t="1240" ac="0"> concentrons-nous</s></p>
+<p t="205309" d="2171" w="1" a="1">
+</p>
+<p t="205319" d="3840" w="1"><s ac="0">sur</s><s t="121" ac="0"> ces</s><s t="361" ac="0"> filles</s><s t="801" ac="0"> MX</s><s t="1441" ac="0"> Linux</s><s t="1840" ac="0"> est</s><s t="2000" ac="0"> une</s></p>
+<p t="207470" d="1689" w="1" a="1">
+</p>
+<p t="207480" d="3160" w="1"><s ac="0">distribution</s><s t="399" ac="0"> qui</s><s t="520" ac="0"> a</s><s t="679" ac="0"> le</s><s t="759" ac="0"> vent</s><s t="959" ac="0"> en</s><s t="1080" ac="0"> poupe</s></p>
+<p t="209149" d="1491" w="1" a="1">
+</p>
+<p t="209159" d="3681" w="1"><s ac="0">basée</s><s t="360" ac="0"> sur</s><s t="561" ac="0"> sur</s><s t="640" ac="0"> des</s><s t="800" ac="0"> bien</s><s t="1080" ac="0"> stables</s><s t="1360" ac="0"> et</s></p>
+<p t="210630" d="2210" w="1" a="1">
+</p>
+<p t="210640" d="3879" w="1"><s ac="0">inspirés</s><s t="400" ac="0"> d&#39;anti</s><s t="920" ac="0"> qu&#39;on</s><s t="1120" ac="0"> abordera</s><s t="1560" ac="0"> plus</s><s t="1720" ac="0"> tard</s></p>
+<p t="212830" d="1689" w="1" a="1">
+</p>
+<p t="212840" d="3200" w="1"><s ac="0">son</s><s t="200" ac="0"> objectif</s><s t="640" ac="0"> est</s><s t="800" ac="0"> de</s><s t="880" ac="0"> combiner</s><s t="1280" ac="0"> un</s><s t="1399" ac="0"> bureau</s></p>
+<p t="214509" d="1531" w="1" a="1">
+</p>
+<p t="214519" d="3360" w="1"><s ac="0">élégant</s><s t="401" ac="0"> et</s><s t="521" ac="0"> efficace</s><s t="1121" ac="0"> avec</s><s t="1360" ac="0"> une</s></p>
+<p t="216030" d="1849" w="1" a="1">
+</p>
+<p t="216040" d="3960" w="1"><s ac="0">configuration</s><s t="680" ac="0"> simple</s><s t="1080" ac="0"> et</s><s t="1199" ac="0"> une</s><s t="1440" ac="0"> grande</s></p>
+<p t="217869" d="2131" w="1" a="1">
+</p>
+<p t="217879" d="3761" w="1"><s ac="0">stabilité</s><s t="681" ac="0"> MX</s><s t="1241" ac="0"> Linux</s><s t="1601" ac="0"> est</s><s t="1761" ac="0"> une</s><s t="1881" ac="0"> bonne</s></p>
+<p t="219990" d="1650" w="1" a="1">
+</p>
+<p t="220000" d="4360" w="1"><s ac="0">alternative</s><s t="599" ac="0"> si</s><s t="720" ac="0"> tu</s><s t="840" ac="0"> veux</s><s t="1040" ac="0"> rapidement</s><s t="1519" ac="0"> un</s></p>
+<p t="221630" d="2730" w="1" a="1">
+</p>
+<p t="221640" d="4120" w="1"><s ac="0">système</s><s t="400" ac="0"> fonctionnel</s><s t="920" ac="0"> préconfiguré</s><s t="1840" ac="0"> devua</s><s t="2640" ac="0"> a</s></p>
+<p t="224350" d="1410" w="1" a="1">
+</p>
+<p t="224360" d="3480" w="1"><s ac="0">vu</s><s t="159" ac="0"> le</s><s t="239" ac="0"> jour</s><s t="480" ac="0"> suite</s><s t="720" ac="0"> au</s><s t="840" ac="0"> remplacement</s><s t="1280" ac="0"> du</s></p>
+<p t="225750" d="2090" w="1" a="1">
+</p>
+<p t="225760" d="4000" w="1"><s ac="0">démon</s><s t="320" ac="0"> d&#39;initialisation</s><s t="880" ac="0"> init</s><s t="1559" ac="0"> par</s><s t="1679" ac="0"> système</s></p>
+<p t="227830" d="1930" w="1" a="1">
+</p>
+<p t="227840" d="3880" w="1"><s ac="0">D</s><s t="119" ac="0"> dans</s><s t="240" ac="0"> Debian</s><s t="959" ac="0"> il</s><s t="1080" ac="0"> s&#39;agit</s><s t="1440" ac="0"> d&#39;un</s><s t="1560" ac="0"> for</s><s t="1840" ac="0"> de</s></p>
+<p t="229750" d="1970" w="1" a="1">
+</p>
+<p t="229760" d="3800" w="1"><s ac="0">Debian</s><s t="399" ac="0"> sans</s><s t="559" ac="0"> système</s><s t="920" ac="0"> D</s><s t="1280" ac="0"> qui</s><s t="1399" ac="0"> intéressera</s></p>
+<p t="231710" d="1850" w="1" a="1">
+</p>
+<p t="231720" d="4320" w="1"><s ac="0">surtout</s><s t="320" ac="0"> les</s><s t="439" ac="0"> initiés</s><s t="1000" ac="0"> habitués</s><s t="1439" ac="0"> au</s><s t="1519" ac="0"> système</s></p>
+<p t="233550" d="2490" w="1" a="1">
+</p>
+<p t="233560" d="4519" w="1"><s ac="0">d&#39;initialisation</s><s t="800" ac="0"> historique</s><s t="1440" ac="0"> Cali</s><s t="2080" ac="0"> Linux</s></p>
+<p t="236030" d="2049" w="1" a="1">
+</p>
+<p t="236040" d="4119" w="1"><s ac="0">est</s><s t="360" ac="0"> depuis</s><s t="680" ac="0"> 2013</s><s t="1399" ac="0"> le</s><s t="1520" ac="0"> successeur</s><s t="1960" ac="0"> de</s></p>
+<p t="238069" d="2090" w="1" a="1">
+</p>
+<p t="238079" d="4000" w="1"><s ac="0">Backtrack</s><s t="761" ac="0"> une</s><s t="921" ac="0"> distribution</s><s t="1601" ac="0"> comportant</s><s t="1961" ac="0"> de</s></p>
+<p t="240149" d="1930" w="1" a="1">
+</p>
+<p t="240159" d="3920" w="1"><s ac="0">nombreux</s><s t="401" ac="0"> outils</s><s t="681" ac="0"> de</s><s t="800" ac="0"> sécurité</s><s t="1321" ac="0"> et</s><s t="1440" ac="0"> de</s><s t="1561" ac="0"> tests</s></p>
+<p t="242069" d="2010" w="1" a="1">
+</p>
+<p t="242079" d="3880" w="1"><s ac="0">d&#39;intrusion</s><s t="481" ac="0"> pré-installés</s><s t="1360" ac="0"> mais</s><s t="1641" ac="0"> aussi</s><s t="1841" ac="0"> un</s></p>
+<p t="244069" d="1890" w="1" a="1">
+</p>
+<p t="244079" d="3561" w="1"><s ac="0">noyau</s><s t="360" ac="0"> modifié</s><s t="761" ac="0"> pour</s><s t="921" ac="0"> être</s><s t="1121" ac="0"> moins</s><s t="1401" ac="0"> vulnérable</s></p>
+<p t="245949" d="1691" w="1" a="1">
+</p>
+<p t="245959" d="3961" w="1"><s ac="0">aux</s><s t="120" ac="0"> attaques</s><s t="480" ac="0"> et</s><s t="640" ac="0"> des</s><s t="761" ac="0"> paquets</s><s t="1081" ac="0"> Pen</s><s t="1321" ac="0"> test</s></p>
+<p t="247630" d="2290" w="1" a="1">
+</p>
+<p t="247640" d="4599" w="1"><s ac="0">tuné</s><s t="480" ac="0"> à</s><s t="799" ac="0"> réserver</s><s t="1239" ac="0"> donc</s><s t="1400" ac="0"> aux</s><s t="1640" ac="0"> amateurs</s><s t="2080" ac="0"> de</s><s t="2159" ac="0"> ce</s></p>
+<p t="249910" d="2329" w="1" a="1">
+</p>
+<p t="249920" d="4120" w="1"><s ac="0">type</s><s t="200" ac="0"> d&#39;activité</s><s t="959" ac="0"> raspberry</s><s t="1760" ac="0"> posos</s></p>
+<p t="252229" d="1811" w="1" a="1">
+</p>
+<p t="252239" d="3640" w="1"><s ac="0">anciennement</s><s t="481" ac="0"> nommé</s><s t="761" ac="0"> raspbian</s><s t="1401" ac="0"> est</s><s t="1601" ac="0"> une</s></p>
+<p t="254030" d="1849" w="1" a="1">
+</p>
+<p t="254040" d="3439" w="1"><s ac="0">desbian</s><s t="520" ac="0"> modifiée</s><s t="919" ac="0"> pour</s><s t="1039" ac="0"> être</s><s t="1199" ac="0"> 100%</s></p>
+<p t="255869" d="1610" w="1" a="1">
+</p>
+<p t="255879" d="3640" w="1"><s ac="0">compatible</s><s t="441" ac="0"> avec</s><s t="600" ac="0"> les</s><s t="721" ac="0"> puces</s><s t="1001" ac="0"> ARM</s><s t="1441" ac="0"> qu&#39;on</s></p>
+<p t="257469" d="2050" w="1" a="1">
+</p>
+<p t="257479" d="4000" w="1"><s ac="0">retrouve</s><s t="280" ac="0"> dans</s><s t="361" ac="0"> les</s><s t="480" ac="0"> Raspberry</s><s t="961" ac="0"> P</s><s t="1401" ac="0"> il</s><s t="1681" ac="0"> propose</s></p>
+<p t="259509" d="1970" w="1" a="1">
+</p>
+<p t="259519" d="3881" w="1"><s ac="0">entre</s><s t="161" ac="0"> autres</s><s t="400" ac="0"> l&#39;outil</s><s t="720" ac="0"> raspp</s><s t="1161" ac="0"> config</s><s t="1601" ac="0"> dédié</s></p>
+<p t="261469" d="1931" w="1" a="1">
+</p>
+<p t="261479" d="3961" w="1"><s ac="0">à</s><s t="81" ac="0"> ce</s><s t="160" ac="0"> type</s><s t="361" ac="0"> d&#39;ordinateur</s><s t="1280" ac="0"> un</s><s t="1481" ac="0"> excellent</s></p>
+<p t="263390" d="2050" w="1" a="1">
+</p>
+<p t="263400" d="3760" w="1"><s ac="0">choix</s><s t="359" ac="0"> pour</s><s t="440" ac="0"> commencer</s><s t="760" ac="0"> avec</s><s t="1040" ac="0"> raspberry</s><s t="1920" ac="0"> que</s></p>
+<p t="265430" d="1730" w="1" a="1">
+</p>
+<p t="265440" d="4560" w="1"><s ac="0">ce</s><s t="80" ac="0"> soit</s><s t="280" ac="0"> pour</s><s t="440" ac="0"> une</s><s t="600" ac="0"> utilisation</s><s t="1080" ac="0"> serveur</s><s t="1560" ac="0"> ou</s></p>
+<p t="267150" d="2850" w="1" a="1">
+</p>
+<p t="267160" d="4759" w="1"><s ac="0">bureau</s><s t="759" ac="0"> etemabunus</s><s t="1759" ac="0"> à</s><s t="1920" ac="0"> l&#39;origine</s><s t="2440" ac="0"> basé</s><s t="2680" ac="0"> sur</s></p>
+<p t="269990" d="1929" w="1" a="1">
+</p>
+<p t="270000" d="3160" w="1"><s ac="0">Ubuntu</s><s t="440" ac="0"> et</s><s t="520" ac="0"> maintenant</s><s t="759" ac="0"> sur</s><s t="840" ac="0"> Debian</s><s t="1560" ac="0"> a</s><s t="1759" ac="0"> pour</s></p>
+<p t="271909" d="1251" w="1" a="1">
+</p>
+<p t="271919" d="2840" w="1"><s ac="0">objectif</s><s t="481" ac="0"> le</s><s t="560" ac="0"> reconditionnement</s></p>
+<p t="273150" d="1609" w="1" a="1">
+</p>
+<p t="273160" d="3479" w="1"><s ac="0">d&#39;ordinateur</s><s t="920" ac="0"> cette</s><s t="1200" ac="0"> distribution</s></p>
+<p t="274749" d="1890" w="1" a="1">
+</p>
+<p t="274759" d="3921" w="1"><s ac="0">d&#39;initiative</s><s t="841" ac="0"> française</s><s t="1321" ac="0"> peut</s><s t="1440" ac="0"> s&#39;installer</s></p>
+<p t="276629" d="2051" w="1" a="1">
+</p>
+<p t="276639" d="4000" w="1"><s ac="0">sans</s><s t="161" ac="0"> accès</s><s t="560" ac="0"> internet</s><s t="1241" ac="0"> sur</s><s t="1400" ac="0"> du</s><s t="1560" ac="0"> matériel</s></p>
+<p t="278670" d="1969" w="1" a="1">
+</p>
+<p t="278680" d="3840" w="1"><s ac="0">ancien</s><s t="600" ac="0"> avec</s><s t="840" ac="0"> des</s><s t="1000" ac="0"> configurations</s><s t="1600" ac="0"> pour</s><s t="1720" ac="0"> des</s></p>
+<p t="280629" d="1891" w="1" a="1">
+</p>
+<p t="280639" d="4280" w="1"><s ac="0">types</s><s t="280" ac="0"> d&#39;utilisateur</s><s t="840" ac="0"> prédéfinis</s><s t="1560" ac="0"> dont</s></p>
+<p t="282510" d="2409" w="1" a="1">
+</p>
+<p t="282520" d="4280" w="1"><s ac="0">enfant</s><s t="560" ac="0"> ou</s><s t="679" ac="0"> grand</s><s t="1040" ac="0"> débutants</s><s t="1840" ac="0"> un</s><s t="2000" ac="0"> bon</s><s t="2200" ac="0"> choix</s></p>
+<p t="284909" d="1891" w="1" a="1">
+</p>
+<p t="284919" d="4120" w="1"><s ac="0">pour</s><s t="120" ac="0"> découvrir</s><s t="681" ac="0"> Linux</s><s t="1000" ac="0"> en</s><s t="1120" ac="0"> douceur</s><s t="1560" ac="0"> sur</s><s t="1720" ac="0"> une</s></p>
+<p t="286790" d="2249" w="1" a="1">
+</p>
+<p t="286800" d="3920" w="1"><s ac="0">machine</s><s t="280" ac="0"> secondaire</s><s t="1280" ac="0"> steam</s><s t="1640" ac="0"> OS</s><s t="1880" ac="0"> est</s><s t="2119" ac="0"> la</s></p>
+<p t="289029" d="1691" w="1" a="1">
+</p>
+<p t="289039" d="3281" w="1"><s ac="0">distribution</s><s t="481" ac="0"> de</s><s t="561" ac="0"> la</s><s t="681" ac="0"> société</s><s t="1041" ac="0"> valve</s><s t="1600" ac="0"> à</s></p>
+<p t="290710" d="1610" w="1" a="1">
+</p>
+<p t="290720" d="3400" w="1"><s ac="0">l&#39;origine</s><s t="479" ac="0"> de</s><s t="560" ac="0"> la</s><s t="640" ac="0"> plateforme</s><s t="1039" ac="0"> de</s><s t="1120" ac="0"> jeux</s><s t="1319" ac="0"> vidéo</s></p>
+<p t="292310" d="1810" w="1" a="1">
+</p>
+<p t="292320" d="3439" w="1"><s ac="0">steam</s><s t="640" ac="0"> une</s><s t="879" ac="0"> initiative</s><s t="1439" ac="0"> plutôt</s><s t="1719" ac="0"> bien</s></p>
+<p t="294110" d="1649" w="1" a="1">
+</p>
+<p t="294120" d="4120" w="1"><s ac="0">accueillie</s><s t="480" ac="0"> par</s><s t="560" ac="0"> les</s><s t="680" ac="0"> adeptes</s><s t="1120" ac="0"> du</s><s t="1200" ac="0"> jeu</s><s t="1400" ac="0"> vidéo</s></p>
+<p t="295749" d="2491" w="1" a="1">
+</p>
+<p t="295759" d="3841" w="1"><s ac="0">sous</s><s t="201" ac="0"> Linux</s><s t="921" ac="0"> cependant</s><s t="1361" ac="0"> depuis</s><s t="1641" ac="0"> la</s><s t="1720" ac="0"> version</s><s t="1921" ac="0"> 3</s></p>
+<p t="298230" d="1370" w="1" a="1">
+</p>
+<p t="298240" d="3120" w="1"><s ac="0">la</s><s t="120" ac="0"> distribution</s><s t="560" ac="0"> est</s><s t="799" ac="0"> uniquement</s></p>
+<p t="299590" d="1770" w="1" a="1">
+</p>
+<p t="299600" d="4319" w="1"><s ac="0">disponible</s><s t="480" ac="0"> sur</s><s t="560" ac="0"> la</s><s t="640" ac="0"> console</s><s t="960" ac="0"> steam</s><s t="1319" ac="0"> Deck</s><s t="1640" ac="0"> et</s></p>
+<p t="301350" d="2569" w="1" a="1">
+</p>
+<p t="301360" d="3800" w="1"><s ac="0">se</s><s t="80" ac="0"> base</s><s t="320" ac="0"> désormais</s><s t="679" ac="0"> sur</s><s t="720" ac="0"> Arch</s><s t="1200" ac="0"> Linux</s><s t="1760" ac="0"> Antix</s></p>
+<p t="303909" d="1251" w="1" a="1">
+</p>
+<p t="303919" d="3361" w="1"><s ac="0">est</s><s t="201" ac="0"> aussi</s><s t="401" ac="0"> une</s><s t="481" ac="0"> distribution</s><s t="881" ac="0"> basée</s><s t="1161" ac="0"> sur</s></p>
+<p t="305150" d="2130" w="1" a="1">
+</p>
+<p t="305160" d="4160" w="1"><s ac="0">Debian</s><s t="759" ac="0"> peu</s><s t="1000" ac="0"> consommatrice</s><s t="1560" ac="0"> en</s><s t="1759" ac="0"> ressources</s></p>
+<p t="307270" d="2050" w="1" a="1">
+</p>
+<p t="307280" d="3479" w="1"><s ac="0">et</s><s t="240" ac="0"> adapté</s><s t="600" ac="0"> aux</s><s t="720" ac="0"> vieux</s><s t="1040" ac="0"> ordinateurs</s><s t="1840" ac="0"> les</s></p>
+<p t="309310" d="1449" w="1" a="1">
+</p>
+<p t="309320" d="3439" w="1"><s ac="0">logiciels</s><s t="480" ac="0"> par</s><s t="560" ac="0"> défaut</s><s t="879" ac="0"> sont</s><s t="1040" ac="0"> choisis</s><s t="1360" ac="0"> pour</s></p>
+<p t="310749" d="2010" w="1" a="1">
+</p>
+<p t="310759" d="3521" w="1"><s ac="0">leur</s><s t="160" ac="0"> faible</s><s t="521" ac="0"> consommation</s><s t="880" ac="0"> de</s><s t="1041" ac="0"> RAM</s><s t="1681" ac="0"> un</s><s t="1801" ac="0"> bon</s></p>
+<p t="312749" d="1531" w="1" a="1">
+</p>
+<p t="312759" d="3841" w="1"><s ac="0">choix</s><s t="241" ac="0"> pour</s><s t="321" ac="0"> une</s><s t="521" ac="0"> utilisation</s><s t="1000" ac="0"> bureau</s><s t="1440" ac="0"> ou</s></p>
+<p t="314270" d="2330" w="1" a="1">
+</p>
+<p t="314280" d="4320" w="1"><s ac="0">dans</s><s t="120" ac="0"> une</s><s t="320" ac="0"> moindre</s><s t="680" ac="0"> mesure</s><s t="960" ac="0"> serveur</s><s t="1600" ac="0"> tiles</s></p>
+<p t="316590" d="2010" w="1" a="1">
+</p>
+<p t="316600" d="3640" w="1"><s ac="0">est</s><s t="159" ac="0"> une</s><s t="319" ac="0"> initiative</s><s t="840" ac="0"> intéressante</s><s t="1760" ac="0"> petit</s></p>
+<p t="318590" d="1650" w="1" a="1">
+</p>
+<p t="318600" d="3240" w="1"><s ac="0">système</s><s t="360" ac="0"> portable</s><s t="719" ac="0"> à</s><s t="840" ac="0"> promener</s><s t="1200" ac="0"> sur</s><s t="1280" ac="0"> un</s><s t="1400" ac="0"> média</s></p>
+<p t="320230" d="1610" w="1" a="1">
+</p>
+<p t="320240" d="3600" w="1"><s ac="0">amovible</s><s t="600" ac="0"> il</s><s t="920" ac="0"> protège</s><s t="1320" ac="0"> contre</s><s t="1519" ac="0"> la</s></p>
+<p t="321830" d="2010" w="1" a="1">
+</p>
+<p t="321840" d="3479" w="1"><s ac="0">surveillance</s><s t="520" ac="0"> et</s><s t="600" ac="0"> la</s><s t="720" ac="0"> censure</s><s t="1280" ac="0"> cette</s><s t="1680" ac="0"> boîte</s><s t="1880" ac="0"> à</s></p>
+<p t="323830" d="1489" w="1" a="1">
+</p>
+<p t="323840" d="3440" w="1"><s ac="0">outils</s><s t="240" ac="0"> numérique</s><s t="600" ac="0"> est</s><s t="760" ac="0"> à</s><s t="880" ac="0"> destination</s><s t="1320" ac="0"> des</s></p>
+<p t="325309" d="1971" w="1" a="1">
+</p>
+<p t="325319" d="4320" w="1"><s ac="0">journalistes</s><s t="561" ac="0"> et</s><s t="641" ac="0"> des</s><s t="761" ac="0"> voyageurs</s><s t="1561" ac="0"> mais</s><s t="1720" ac="0"> aussi</s></p>
+<p t="327270" d="2369" w="1" a="1">
+</p>
+<p t="327280" d="3600" w="1"><s ac="0">des</s><s t="160" ac="0"> activistes</s><s t="680" ac="0"> et</s><s t="800" ac="0"> personnes</s><s t="1160" ac="0"> en</s><s t="1240" ac="0"> danger</s></p>
+<p t="329629" d="1251" w="1" a="1">
+</p>
+<p t="329639" d="3081" w="1"><s ac="0">est</s><s t="120" ac="0"> conçu</s><s t="400" ac="0"> pour</s><s t="481" ac="0"> fonctionner</s><s t="921" ac="0"> facilement</s></p>
+<p t="330870" d="1850" w="1" a="1">
+</p>
+<p t="330880" d="4759" w="1"><s ac="0">sur</s><s t="200" ac="0"> n&#39;importe</s><s t="640" ac="0"> quel</s><s t="840" ac="0"> ordinateur</s><s t="1280" ac="0"> moderne</s></p>
+<p t="332710" d="2929" w="1" a="1">
+</p>
+<p t="332720" d="5280" w="1"><s ac="0">sans</s><s t="199" ac="0"> toucher</s><s t="440" ac="0"> au</s><s t="599" ac="0"> disque</s><s t="880" ac="0"> dur</s><s t="1520" ac="0"> grml</s><s t="2520" ac="0"> ce</s><s t="2680" ac="0"> petit</s></p>
+<p t="335629" d="2371" w="1" a="1">
+</p>
+<p t="335639" d="3961" w="1"><s ac="0">outsider</s><s t="761" ac="0"> est</s><s t="1041" ac="0"> aussi</s><s t="1241" ac="0"> un</s><s t="1361" ac="0"> système</s><s t="1881" ac="0"> live</s><s t="2201" ac="0"> qui</s></p>
+<p t="337990" d="1610" w="1" a="1">
+</p>
+<p t="338000" d="2720" w="1"><s ac="0">inclut</s><s t="360" ac="0"> des</s><s t="479" ac="0"> outils</s><s t="800" ac="0"> spécifiques</s><s t="1400" ac="0"> cette</s></p>
+<p t="339590" d="1130" w="1" a="1">
+</p>
+<p t="339600" d="2920" w="1"><s ac="0">fois-ci</s><s t="319" ac="0"> à</s><s t="439" ac="0"> destination</s><s t="879" ac="0"> des</s></p>
+<p t="340710" d="1810" w="1" a="1">
+</p>
+<p t="340720" d="4360" w="1"><s ac="0">administrateurs</s><s t="759" ac="0"> système</s><s t="1360" ac="0"> via</s><s t="1640" ac="0"> une</s></p>
+<p t="342510" d="2570" w="1" a="1">
+</p>
+<p t="342520" d="4320" w="1"><s ac="0">interface</s><s t="440" ac="0"> graphique</s><s t="799" ac="0"> minimale</s><s t="1239" ac="0"> Fluxbox</s><s t="2080" ac="0"> un</s></p>
+<p t="345070" d="1770" w="1" a="1">
+</p>
+<p t="345080" d="3720" w="1"><s ac="0">os</s><s t="239" ac="0"> utile</s><s t="559" ac="0"> à</s><s t="640" ac="0"> avoir</s><s t="880" ac="0"> sur</s><s t="1040" ac="0"> une</s><s t="1200" ac="0"> clé</s><s t="1480" ac="0"> pour</s><s t="1600" ac="0"> des</s></p>
+<p t="346830" d="1970" w="1" a="1">
+</p>
+<p t="346840" d="4639" w="1"><s ac="0">opérations</s><s t="440" ac="0"> d&#39;installation</s><s t="1240" ac="0"> réparation</s><s t="1639" ac="0"> et</s></p>
+<p t="348790" d="2689" w="1" a="1">
+</p>
+<p t="348800" d="4560" w="1"><s ac="0">audit</s><s t="640" ac="0"> plutôt</s><s t="920" ac="0"> réservé</s><s t="1360" ac="0"> au</s><s t="1560" ac="0"> connaisseurs</s><s t="2399" ac="0"> on</s></p>
+<p t="351469" d="1891" w="1" a="1">
+</p>
+<p t="351479" d="3961" w="1"><s ac="0">ne</s><s t="160" ac="0"> présente</s><s t="521" ac="0"> plus</s><s t="601" ac="0"> auubuntu</s><s t="1401" ac="0"> ce</s><s t="1521" ac="0"> système</s></p>
+<p t="353350" d="2090" w="1" a="1">
+</p>
+<p t="353360" d="3800" w="1"><s ac="0">convivial</s><s t="520" ac="0"> basé</s><s t="760" ac="0"> sur</s><s t="839" ac="0"> Debian</s><s t="1559" ac="0"> s&#39;il</s><s t="1959" ac="0"> est</s></p>
+<p t="355430" d="1730" w="1" a="1">
+</p>
+<p t="355440" d="3360" w="1"><s ac="0">aujourd&#39;hui</s><s t="440" ac="0"> très</s><s t="599" ac="0"> concurrencé</s><s t="1199" ac="0"> il</s><s t="1280" ac="0"> a</s><s t="1440" ac="0"> eu</s><s t="1520" ac="0"> son</s></p>
+<p t="357150" d="1650" w="1" a="1">
+</p>
+<p t="357160" d="3759" w="1"><s ac="0">heure</s><s t="319" ac="0"> de</s><s t="400" ac="0"> gloire</s><s t="680" ac="0"> et</s><s t="840" ac="0"> se</s><s t="960" ac="0"> porte</s><s t="1159" ac="0"> encore</s><s t="1400" ac="0"> très</s></p>
+<p t="358790" d="2129" w="1" a="1">
+</p>
+<p t="358800" d="3440" w="1"><s ac="0">bien</s><s t="760" ac="0"> utilisable</s><s t="1239" ac="0"> pour</s><s t="1360" ac="0"> du</s><s t="1519" ac="0"> serveur</s><s t="1920" ac="0"> comme</s></p>
+<p t="360909" d="1331" w="1" a="1">
+</p>
+<p t="360919" d="3361" w="1"><s ac="0">pour</s><s t="120" ac="0"> du</s><s t="280" ac="0"> bureau</s><s t="641" ac="0"> avec</s><s t="921" ac="0"> plusieurs</s></p>
+<p t="362230" d="2050" w="1" a="1">
+</p>
+<p t="362240" d="4239" w="1"><s ac="0">déclinaisons</s><s t="720" ac="0"> il</s><s t="920" ac="0"> reste</s><s t="1200" ac="0"> un</s><s t="1280" ac="0"> bon</s><s t="1440" ac="0"> choix</s><s t="1880" ac="0"> en</s></p>
+<p t="364270" d="2209" w="1" a="1">
+</p>
+<p t="364280" d="3680" w="1"><s ac="0">particulier</s><s t="479" ac="0"> pour</s><s t="600" ac="0"> les</s><s t="720" ac="0"> débutants</s><s t="1720" ac="0"> lui</s><s t="1960" ac="0"> aussi</s></p>
+<p t="366469" d="1491" w="1" a="1">
+</p>
+<p t="366479" d="3280" w="1"><s ac="0">commence</s><s t="321" ac="0"> à</s><s t="401" ac="0"> avoir</s><s t="601" ac="0"> un</s><s t="681" ac="0"> nombre</s><s t="1241" ac="0"> important</s><s t="1401" ac="0"> de</s></p>
+<p t="367950" d="1809" w="1" a="1">
+</p>
+<p t="367960" d="3840" w="1"><s ac="0">distribution</s><s t="400" ac="0"> fille</s><s t="959" ac="0"> don</s><s t="1239" ac="0"> voici</s><s t="1519" ac="0"> quelques</s></p>
+<p t="369749" d="2051" w="1" a="1">
+</p>
+<p t="369759" d="3761" w="1"><s ac="0">exemples</s><s t="641" ac="0"> commençons</s><s t="1041" ac="0"> par</s><s t="1201" ac="0"> zorine</s><s t="1880" ac="0"> une</s></p>
+<p t="371790" d="1730" w="1" a="1">
+</p>
+<p t="371800" d="3920" w="1"><s ac="0">proposition</s><s t="480" ac="0"> irlandaise</s><s t="1200" ac="0"> qui</s><s t="1280" ac="0"> se</s><s t="1360" ac="0"> veut</s><s t="1600" ac="0"> une</s></p>
+<p t="373510" d="2210" w="1" a="1">
+</p>
+<p t="373520" d="3799" w="1"><s ac="0">alternative</s><s t="480" ac="0"> à</s><s t="600" ac="0"> Windows</s><s t="1000" ac="0"> et</s><s t="1079" ac="0"> Mac</s><s t="1320" ac="0"> OS</s><s t="2079" ac="0"> ce</s></p>
+<p t="375710" d="1609" w="1" a="1">
+</p>
+<p t="375720" d="3440" w="1"><s ac="0">système</s><s t="319" ac="0"> tentera</s><s t="720" ac="0"> d&#39;automatiser</s><s t="1400" ac="0"> et</s></p>
+<p t="377309" d="1851" w="1" a="1">
+</p>
+<p t="377319" d="3761" w="1"><s ac="0">optimiser</s><s t="521" ac="0"> un</s><s t="681" ac="0"> maximum</s><s t="1121" ac="0"> la</s><s t="1241" ac="0"> configuration</s></p>
+<p t="379150" d="1930" w="1" a="1">
+</p>
+<p t="379160" d="3879" w="1"><s ac="0">matérielle</s><s t="800" ac="0"> il</s><s t="1120" ac="0"> installera</s><s t="1560" ac="0"> un</s><s t="1640" ac="0"> système</s></p>
+<p t="381070" d="1969" w="1" a="1">
+</p>
+<p t="381080" d="3679" w="1"><s ac="0">prête</s><s t="360" ac="0"> à</s><s t="440" ac="0"> l&#39;emploi</s><s t="760" ac="0"> et</s><s t="880" ac="0"> sécurisé</s><s t="1360" ac="0"> pour</s><s t="1519" ac="0"> tous</s></p>
+<p t="383029" d="1730" w="1" a="1">
+</p>
+<p t="383039" d="3440" w="1"><s ac="0">une</s><s t="401" ac="0"> déclinaison</s><s t="880" ac="0"> payante</s><s t="1280" ac="0"> propose</s><s t="1600" ac="0"> des</s></p>
+<p t="384749" d="1730" w="1" a="1">
+</p>
+<p t="384759" d="4041" w="1"><s ac="0">couches</s><s t="280" ac="0"> de</s><s t="401" ac="0"> personnalisation</s><s t="1041" ac="0"> d&#39;interface</s></p>
+<p t="386469" d="2331" w="1" a="1">
+</p>
+<p t="386479" d="5280" w="1"><s ac="0">et</s><s t="120" ac="0"> de</s><s t="401" ac="0"> productivité</s><s t="1401" ac="0"> un</s><s t="1560" ac="0"> bon</s><s t="1720" ac="0"> choix</s><s t="1961" ac="0"> pour</s><s t="2041" ac="0"> les</s></p>
+<p t="388790" d="2969" w="1" a="1">
+</p>
+<p t="388800" d="4320" w="1"><s ac="0">non</s><s t="200" ac="0"> informat</s><s t="799" ac="0"> I</s><s t="1040" ac="0"> et</s><s t="1160" ac="0"> les</s><s t="1280" ac="0"> gamers</s><s t="2080" ac="0"> Linux</s><s t="2600" ac="0"> Mint</s></p>
+<p t="391749" d="1371" w="1" a="1">
+</p>
+<p t="391759" d="2840" w="1"><s ac="0">est</s><s t="201" ac="0"> une</s><s t="401" ac="0"> des</s><s t="521" ac="0"> distributions</s><s t="1081" ac="0"> les</s><s t="1201" ac="0"> plus</s></p>
+<p t="393110" d="1489" w="1" a="1">
+</p>
+<p t="393120" d="3519" w="1"><s ac="0">appréciées</s><s t="560" ac="0"> par</s><s t="680" ac="0"> ceux</s><s t="880" ac="0"> qui</s><s t="1000" ac="0"> veulent</s><s t="1359" ac="0"> un</s></p>
+<p t="394589" d="2050" w="1" a="1">
+</p>
+<p t="394599" d="4201" w="1"><s ac="0">système</s><s t="401" ac="0"> stable</s><s t="841" ac="0"> moderne</s><s t="1281" ac="0"> élégant</s><s t="1761" ac="0"> et</s></p>
+<p t="396629" d="2171" w="1" a="1">
+</p>
+<p t="396639" d="4321" w="1"><s ac="0">confortable</s><s t="1000" ac="0"> selon</s><s t="1241" ac="0"> son</s><s t="1400" ac="0"> créateur</s><s t="1801" ac="0"> français</s></p>
+<p t="398790" d="2170" w="1" a="1">
+</p>
+<p t="398800" d="3839" w="1"><s ac="0">Clément</s><s t="360" ac="0"> Lefèvre</s><s t="880" ac="0"> je</s><s t="1000" ac="0"> cite</s><s t="1519" ac="0"> l&#39;ordinateur</s></p>
+<p t="400950" d="1689" w="1" a="1">
+</p>
+<p t="400960" d="3160" w="1"><s ac="0">devient</s><s t="359" ac="0"> un</s><s t="440" ac="0"> équipement</s><s t="840" ac="0"> ménager</s><s t="1359" ac="0"> et</s><s t="1480" ac="0"> son</s></p>
+<p t="402629" d="1491" w="1" a="1">
+</p>
+<p t="402639" d="3521" w="1"><s ac="0">esthétique</s><s t="481" ac="0"> doit</s><s t="680" ac="0"> suivre</s><s t="960" ac="0"> la</s><s t="1041" ac="0"> tendance</s><s t="1361" ac="0"> du</s></p>
+<p t="404110" d="2050" w="1" a="1">
+</p>
+<p t="404120" d="3280" w="1"><s ac="0">moment</s><s t="519" ac="0"> si</s><s t="680" ac="0"> tu</s><s t="799" ac="0"> veux</s><s t="1040" ac="0"> un</s><s t="1199" ac="0"> Linux</s><s t="1639" ac="0"> qui</s><s t="1720" ac="0"> marche</s></p>
+<p t="406150" d="1250" w="1" a="1">
+</p>
+<p t="406160" d="3599" w="1"><s ac="0">sans</s><s t="159" ac="0"> pour</s><s t="280" ac="0"> autant</s><s t="520" ac="0"> passer</s><s t="759" ac="0"> du</s><s t="840" ac="0"> temps</s><s t="1000" ac="0"> à</s><s t="1120" ac="0"> le</s></p>
+<p t="407390" d="2369" w="1" a="1">
+</p>
+<p t="407400" d="4760" w="1"><s ac="0">tuner</s><s t="400" ac="0"> Mint</s><s t="880" ac="0"> te</s><s t="960" ac="0"> ravira</s><s t="1639" ac="0"> y</s><s t="1840" ac="0"> compris</s><s t="2120" ac="0"> si</s><s t="2239" ac="0"> tu</s></p>
+<p t="409749" d="2411" w="1" a="1">
+</p>
+<p t="409759" d="4440" w="1"><s ac="0">débutes</s><s t="401" ac="0"> dans</s><s t="481" ac="0"> le</s><s t="560" ac="0"> monde</s><s t="761" ac="0"> Linux</s><s t="1401" ac="0"> elementary</s></p>
+<p t="412150" d="2049" w="1" a="1">
+</p>
+<p t="412160" d="4159" w="1"><s ac="0">OS</s><s t="240" ac="0"> est</s><s t="360" ac="0"> un</s><s t="439" ac="0"> dérivé</s><s t="800" ac="0"> d&#39;Ubuntu</s><s t="1520" ac="0"> qui</s><s t="1680" ac="0"> propose</s></p>
+<p t="414189" d="2130" w="1" a="1">
+</p>
+<p t="414199" d="3761" w="1"><s ac="0">une</s><s t="120" ac="0"> interface</s><s t="521" ac="0"> graphique</s><s t="881" ac="0"> proche</s><s t="1120" ac="0"> de</s><s t="1201" ac="0"> Mac</s><s t="1481" ac="0"> OS</s></p>
+<p t="416309" d="1651" w="1" a="1">
+</p>
+<p t="416319" d="3481" w="1"><s ac="0">cette</s><s t="361" ac="0"> distribution</s><s t="880" ac="0"> a</s><s t="1000" ac="0"> pour</s><s t="1160" ac="0"> philosophie</s></p>
+<p t="417950" d="1850" w="1" a="1">
+</p>
+<p t="417960" d="3440" w="1"><s ac="0">d&#39;améliorer</s><s t="519" ac="0"> l&#39;esthétique</s><s t="1079" ac="0"> la</s><s t="1440" ac="0"> cohérence</s></p>
+<p t="419790" d="1610" w="1" a="1">
+</p>
+<p t="419800" d="3640" w="1"><s ac="0">logicielle</s><s t="519" ac="0"> et</s><s t="799" ac="0"> limiter</s><s t="1239" ac="0"> le</s><s t="1320" ac="0"> besoin</s></p>
+<p t="421390" d="2050" w="1" a="1">
+</p>
+<p t="421400" d="3919" w="1"><s ac="0">d&#39;utiliser</s><s t="479" ac="0"> la</s><s t="600" ac="0"> console</s><s t="1239" ac="0"> à</s><s t="1479" ac="0"> l&#39;origine</s><s t="1919" ac="0"> le</s></p>
+<p t="423430" d="1889" w="1" a="1">
+</p>
+<p t="423440" d="3520" w="1"><s ac="0">pack</s><s t="280" ac="0"> d&#39;icône</s><s t="680" ac="0"> elementar</s><s t="1360" ac="0"> rencontre</s><s t="1800" ac="0"> un</s></p>
+<p t="425309" d="1651" w="1" a="1">
+</p>
+<p t="425319" d="4081" w="1"><s ac="0">grand</s><s t="201" ac="0"> succès</s><s t="681" ac="0"> pour</s><s t="761" ac="0"> finalement</s><s t="1121" ac="0"> s&#39;intégrer</s></p>
+<p t="426950" d="2450" w="1" a="1">
+</p>
+<p t="426960" d="4560" w="1"><s ac="0">dans</s><s t="79" ac="0"> ce</s><s t="200" ac="0"> système</s><s t="679" ac="0"> dédié</s><s t="1200" ac="0"> pop</s><s t="1840" ac="0"> OS</s><s t="2160" ac="0"> est</s><s t="2320" ac="0"> un</s></p>
+<p t="429390" d="2130" w="1" a="1">
+</p>
+<p t="429400" d="3799" w="1"><s ac="0">système</s><s t="359" ac="0"> récent</s><s t="880" ac="0"> populaire</s><s t="1600" ac="0"> conçu</s><s t="2000" ac="0"> et</s></p>
+<p t="431510" d="1689" w="1" a="1">
+</p>
+<p t="431520" d="4320" w="1"><s ac="0">maintenu</s><s t="399" ac="0"> par</s><s t="519" ac="0"> le</s><s t="600" ac="0"> fabricant</s><s t="1040" ac="0"> d&#39;ordinateur</s></p>
+<p t="433189" d="2651" w="1" a="1">
+</p>
+<p t="433199" d="4081" w="1"><s ac="0">système</s><s t="400" ac="0"> 76</s><s t="1321" ac="0"> la</s><s t="1481" ac="0"> distribution</s><s t="1881" ac="0"> est</s><s t="2241" ac="0"> réputé</s></p>
+<p t="435830" d="1450" w="1" a="1">
+</p>
+<p t="435840" d="4120" w="1"><s ac="0">pour</s><s t="120" ac="0"> être</s><s t="320" ac="0"> facile</s><s t="639" ac="0"> à</s><s t="720" ac="0"> configurer</s><s t="1160" ac="0"> pour</s><s t="1280" ac="0"> les</s></p>
+<p t="437270" d="2690" w="1" a="1">
+</p>
+<p t="437280" d="4520" w="1"><s ac="0">jeux</s><s t="560" ac="0"> elle</s><s t="759" ac="0"> intègre</s><s t="1160" ac="0"> le</s><s t="1240" ac="0"> support</s><s t="1479" ac="0"> des</s><s t="1720" ac="0"> GPU</s><s t="2080" ac="0"> AMD</s></p>
+<p t="439950" d="1850" w="1" a="1">
+</p>
+<p t="439960" d="3880" w="1"><s ac="0">Nvidia</s><s t="560" ac="0"> un</s><s t="880" ac="0"> chiffrement</s><s t="1280" ac="0"> du</s><s t="1440" ac="0"> disque</s><s t="1720" ac="0"> par</s></p>
+<p t="441790" d="2050" w="1" a="1">
+</p>
+<p t="441800" d="3799" w="1"><s ac="0">défaut</s><s t="519" ac="0"> une</s><s t="720" ac="0"> préconfiguration</s><s t="1600" ac="0"> spécifique</s></p>
+<p t="443830" d="1769" w="1" a="1">
+</p>
+<p t="443840" d="3880" w="1"><s ac="0">et</s><s t="199" ac="0"> une</s><s t="320" ac="0"> interface</s><s t="680" ac="0"> épurée</s><s t="1199" ac="0"> pour</s><s t="1320" ac="0"> optimiser</s></p>
+<p t="445589" d="2131" w="1" a="1">
+</p>
+<p t="445599" d="4081" w="1"><s ac="0">le</s><s t="81" ac="0"> travail</s><s t="681" ac="0"> à</s><s t="1121" ac="0"> conseiller</s><s t="1600" ac="0"> donc</s><s t="1801" ac="0"> pour</s><s t="1961" ac="0"> une</s></p>
+<p t="447710" d="1970" w="1" a="1">
+</p>
+<p t="447720" d="4400" w="1"><s ac="0">installation</s><s t="560" ac="0"> bureau</s><s t="840" ac="0"> sur</s><s t="919" ac="0"> des</s><s t="1159" ac="0"> ordinate</s></p>
+<p t="449670" d="2450" w="1" a="1">
+</p>
+<p t="449680" d="4639" w="1"><s ac="0">récent</s><s t="639" ac="0"> Linux</s><s t="1160" ac="0"> Lite</s><s t="1600" ac="0"> dernière</s><s t="2000" ac="0"> distribution</s></p>
+<p t="452110" d="2209" w="1" a="1">
+</p>
+<p t="452120" d="4160" w="1"><s ac="0">basée</s><s t="359" ac="0"> sur</s><s t="600" ac="0"> Ubuntu</s><s t="1040" ac="0"> dans</s><s t="1160" ac="0"> ce</s><s t="1280" ac="0"> comparatif</s><s t="1960" ac="0"> est</s></p>
+<p t="454309" d="1971" w="1" a="1">
+</p>
+<p t="454319" d="4280" w="1"><s ac="0">optimisée</s><s t="521" ac="0"> pour</s><s t="641" ac="0"> les</s><s t="761" ac="0"> débutants</s><s t="1440" ac="0"> avec</s><s t="1801" ac="0"> comme</s></p>
+<p t="456270" d="2329" w="1" a="1">
+</p>
+<p t="456280" d="4680" w="1"><s ac="0">son</s><s t="280" ac="0"> nom</s><s t="440" ac="0"> l&#39;indique</s><s t="880" ac="0"> un</s><s t="1160" ac="0"> système</s><s t="1479" ac="0"> léger</s><s t="2039" ac="0"> basé</s></p>
+<p t="458589" d="2371" w="1" a="1">
+</p>
+<p t="458599" d="3761" w="1"><s ac="0">sur</s><s t="81" ac="0"> l&#39;environnement</s><s t="801" ac="0"> Xfce</s><s t="1801" ac="0"> un</s><s t="1921" ac="0"> bon</s><s t="2121" ac="0"> choix</s></p>
+<p t="460950" d="1410" w="1" a="1">
+</p>
+<p t="460960" d="3040" w="1"><s ac="0">pour</s><s t="79" ac="0"> les</s><s t="239" ac="0"> utilisateurs</s><s t="760" ac="0"> de</s><s t="840" ac="0"> Windows</s><s t="1280" ac="0"> qui</s></p>
+<p t="462350" d="1650" w="1" a="1">
+</p>
+<p t="462360" d="3279" w="1"><s ac="0">veulent</s><s t="239" ac="0"> passer</s><s t="440" ac="0"> à</s><s t="519" ac="0"> Linux</s><s t="1000" ac="0"> pour</s><s t="1160" ac="0"> des</s><s t="1279" ac="0"> besoins</s></p>
+<p t="463990" d="1649" w="1" a="1">
+</p>
+<p t="464000" d="3479" w="1"><s ac="0">bureautiques</s><s t="479" ac="0"> et</s><s t="639" ac="0"> médias</s><s t="1280" ac="0"> passons</s></p>
+<p t="465629" d="1850" w="1" a="1">
+</p>
+<p t="465639" d="4081" w="1"><s ac="0">maintenant</s><s t="280" ac="0"> à</s><s t="481" ac="0"> deux</s><s t="761" ac="0"> distributions</s><s t="1481" ac="0"> issues</s></p>
+<p t="467469" d="2251" w="1" a="1">
+</p>
+<p t="467479" d="3921" w="1"><s ac="0">de</s><s t="41" ac="0"> la</s><s t="160" ac="0"> team</s><s t="321" ac="0"> redat</s><s t="961" ac="0"> Fedora</s><s t="1720" ac="0"> est</s><s t="1881" ac="0"> un</s><s t="2000" ac="0"> projet</s></p>
+<p t="469710" d="1690" w="1" a="1">
+</p>
+<p t="469720" d="4080" w="1"><s ac="0">libre</s><s t="319" ac="0"> et</s><s t="439" ac="0"> communautaire</s><s t="1120" ac="0"> officiellement</s></p>
+<p t="471390" d="2410" w="1" a="1">
+</p>
+<p t="471400" d="4199" w="1"><s ac="0">supporté</s><s t="440" ac="0"> et</s><s t="600" ac="0"> sponsorisé</s><s t="1079" ac="0"> par</s><s t="1199" ac="0"> redat</s><s t="2199" ac="0"> une</s></p>
+<p t="473790" d="1809" w="1" a="1">
+</p>
+<p t="473800" d="3720" w="1"><s ac="0">distribution</s><s t="600" ac="0"> historique</s><s t="1119" ac="0"> qui</s><s t="1280" ac="0"> met</s><s t="1480" ac="0"> le</s><s t="1560" ac="0"> focus</s></p>
+<p t="475589" d="1931" w="1" a="1">
+</p>
+<p t="475599" d="4000" w="1"><s ac="0">sur</s><s t="160" ac="0"> l&#39;innovation</s><s t="961" ac="0"> et</s><s t="1160" ac="0"> connaît</s><s t="1521" ac="0"> un</s><s t="1600" ac="0"> succès</s></p>
+<p t="477510" d="2089" w="1" a="1">
+</p>
+<p t="477520" d="3920" w="1"><s ac="0">toujours</s><s t="280" ac="0"> plus</s><s t="639" ac="0"> important</s><s t="1040" ac="0"> un</s><s t="1200" ac="0"> choix</s><s t="1760" ac="0"> ant</s></p>
+<p t="479589" d="1851" w="1" a="1">
+</p>
+<p t="479599" d="3761" w="1"><s ac="0">pour</s><s t="81" ac="0"> ceux</s><s t="241" ac="0"> qui</s><s t="361" ac="0"> utilisent</s><s t="761" ac="0"> redat</s><s t="1121" ac="0"> au</s><s t="1201" ac="0"> travail</s></p>
+<p t="481430" d="1930" w="1" a="1">
+</p>
+<p t="481440" d="3479" w="1"><s ac="0">Nobara</s><s t="879" ac="0"> est</s><s t="1039" ac="0"> une</s><s t="1159" ac="0"> version</s><s t="1400" ac="0"> modifiée</s><s t="1840" ac="0"> de</s></p>
+<p t="483350" d="1569" w="1" a="1">
+</p>
+<p t="483360" d="3519" w="1"><s ac="0">Fedora</s><s t="519" ac="0"> qui</s><s t="640" ac="0"> connaît</s><s t="959" ac="0"> aussi</s><s t="1160" ac="0"> un</s><s t="1239" ac="0"> succès</s></p>
+<p t="484909" d="1970" w="1" a="1">
+</p>
+<p t="484919" d="3720" w="1"><s ac="0">grandissant</s><s t="1041" ac="0"> elle</s><s t="1201" ac="0"> propose</s><s t="1521" ac="0"> notamment</s><s t="1840" ac="0"> des</s></p>
+<p t="486869" d="1770" w="1" a="1">
+</p>
+<p t="486879" d="3320" w="1"><s ac="0">fonctionnalités</s><s t="720" ac="0"> complémentaires</s><s t="1481" ac="0"> et</s><s t="1600" ac="0"> des</s></p>
+<p t="488629" d="1570" w="1" a="1">
+</p>
+<p t="488639" d="3680" w="1"><s ac="0">corrections</s><s t="481" ac="0"> pour</s><s t="601" ac="0"> améliorer</s><s t="1041" ac="0"> l&#39;expérience</s></p>
+<p t="490189" d="2130" w="1" a="1">
+</p>
+<p t="490199" d="4481" w="1"><s ac="0">jeux</s><s t="241" ac="0"> et</s><s t="400" ac="0"> multimédia</s><s t="1120" ac="0"> et</s><s t="1280" ac="0"> aussi</s><s t="1481" ac="0"> de</s><s t="1720" ac="0"> jeolis</s></p>
+<p t="492309" d="2371" w="1" a="1">
+</p>
+<p t="492319" d="3880" w="1"><s ac="0">thè</s><s t="201" ac="0"> préinstallés</s><s t="720" ac="0"> pour</s><s t="801" ac="0"> gnom</s><s t="1121" ac="0"> et</s><s t="1201" ac="0"> KDE</s><s t="1720" ac="0"> gen</s></p>
+<p t="494670" d="1529" w="1" a="1">
+</p>
+<p t="494680" d="3799" w="1"><s ac="0">tout</s><s t="160" ac="0"> connaît</s><s t="440" ac="0"> aussi</s><s t="720" ac="0"> quelques</s><s t="1000" ac="0"> petits</s><s t="1280" ac="0"> en</s></p>
+<p t="496189" d="2290" w="1" a="1">
+</p>
+<p t="496199" d="4161" w="1"><s ac="0">voici</s><s t="361" ac="0"> deux</s><s t="881" ac="0"> calculate</s><s t="1641" ac="0"> dispose</s><s t="2000" ac="0"> de</s><s t="2081" ac="0"> deux</s></p>
+<p t="498469" d="1891" w="1" a="1">
+</p>
+<p t="498479" d="3321" w="1"><s ac="0">variantes</s><s t="521" ac="0"> serveur</s><s t="921" ac="0"> et</s><s t="1081" ac="0"> bureau</s><s t="1720" ac="0"> la</s></p>
+<p t="500350" d="1450" w="1" a="1">
+</p>
+<p t="500360" d="3640" w="1"><s ac="0">distribution</s><s t="559" ac="0"> simplifie</s><s t="1040" ac="0"> l&#39;installation</s></p>
+<p t="501790" d="2210" w="1" a="1">
+</p>
+<p t="501800" d="4359" w="1"><s ac="0">d&#39;une</s><s t="320" ac="0"> gen</s><s t="600" ac="0"> to</s><s t="1000" ac="0"> propose</s><s t="1480" ac="0"> un</s><s t="1640" ac="0"> calculate</s></p>
+<p t="503990" d="2169" w="1" a="1">
+</p>
+<p t="504000" d="4120" w="1"><s ac="0">Directory</s><s t="520" ac="0"> Server</s><s t="1120" ac="0"> destiné</s><s t="1520" ac="0"> à</s><s t="1639" ac="0"> gérer</s><s t="1960" ac="0"> des</s></p>
+<p t="506149" d="1971" w="1" a="1">
+</p>
+<p t="506159" d="5081" w="1"><s ac="0">utilisateurs</s><s t="801" ac="0"> avec</s><s t="1040" ac="0"> des</s><s t="1160" ac="0"> fonctionnalités</s><s t="1801" ac="0"> et</s></p>
+<p t="508110" d="3130" w="1" a="1">
+</p>
+<p t="508120" d="5320" w="1"><s ac="0">protocoles</s><s t="440" ac="0"> liés</s><s t="1199" ac="0"> mail</s><s t="1519" ac="0"> eldap</s><s t="1840" ac="0"> SBA</s><s t="2320" ac="0"> Jaber</s><s t="2960" ac="0"> et</s></p>
+<p t="511230" d="2210" w="1" a="1">
+</p>
+<p t="511240" d="4479" w="1"><s ac="0">cetera</s><s t="760" ac="0"> selon</s><s t="1039" ac="0"> ses</s><s t="1279" ac="0"> admirateurs</s><s t="1919" ac="0"> avec</s></p>
+<p t="513430" d="2289" w="1" a="1">
+</p>
+<p t="513440" d="4079" w="1"><s ac="0">calculate</s><s t="800" ac="0"> tout</s><s t="920" ac="0"> fonctionne</s><s t="1320" ac="0"> très</s><s t="1519" ac="0"> bien</s><s t="2039" ac="0"> une</s></p>
+<p t="515709" d="1810" w="1" a="1">
+</p>
+<p t="515719" d="3800" w="1"><s ac="0">bonne</s><s t="240" ac="0"> alternative</s><s t="721" ac="0"> pour</s><s t="800" ac="0"> les</s><s t="961" ac="0"> connaisseurs</s></p>
+<p t="517509" d="2010" w="1" a="1">
+</p>
+<p t="517519" d="3481" w="1"><s ac="0">enfin</s><s t="481" ac="0"> systemme</s><s t="1000" ac="0"> Rescue</s><s t="1400" ac="0"> est</s><s t="1601" ac="0"> un</s><s t="1681" ac="0"> système</s></p>
+<p t="519509" d="1491" w="1" a="1">
+</p>
+<p t="519519" d="3721" w="1"><s ac="0">live</s><s t="400" ac="0"> massivement</s><s t="921" ac="0"> utilisé</s><s t="1281" ac="0"> pour</s><s t="1400" ac="0"> la</s></p>
+<p t="520990" d="2250" w="1" a="1">
+</p>
+<p t="521000" d="3440" w="1"><s ac="0">résolution</s><s t="399" ac="0"> de</s><s t="640" ac="0"> problèmes</s><s t="1000" ac="0"> techniques</s><s t="1959" ac="0"> j&#39;ai</s></p>
+<p t="523230" d="1210" w="1" a="1">
+</p>
+<p t="523240" d="2800" w="1"><s ac="0">personnellement</s><s t="560" ac="0"> toujours</s><s t="880" ac="0"> un</s><s t="960" ac="0"> petit</s></p>
+<p t="524430" d="1610" w="1" a="1">
+</p>
+<p t="524440" d="3120" w="1"><s ac="0">système</s><s t="320" ac="0"> rescue</s><s t="800" ac="0"> sur</s><s t="920" ac="0"> moi</s><s t="1240" ac="0"> pour</s><s t="1360" ac="0"> toutes</s></p>
+<p t="526030" d="1530" w="1" a="1">
+</p>
+<p t="526040" d="3640" w="1"><s ac="0">sortes</s><s t="280" ac="0"> de</s><s t="400" ac="0"> manipulations</s><s t="919" ac="0"> ponctuelles</s><s t="1440" ac="0"> sur</s></p>
+<p t="527550" d="2130" w="1" a="1">
+</p>
+<p t="527560" d="4200" w="1"><s ac="0">mes</s><s t="200" ac="0"> disques</s><s t="480" ac="0"> et</s><s t="560" ac="0"> autres</s><s t="839" ac="0"> systèmes</s><s t="1760" ac="0"> passons</s></p>
+<p t="529670" d="2090" w="1" a="1">
+</p>
+<p t="529680" d="3560" w="1"><s ac="0">aux</s><s t="120" ac="0"> enfants</s><s t="400" ac="0"> de</s><s t="480" ac="0"> arche</s><s t="920" ac="0"> Linux</s><s t="1520" ac="0"> pour</s><s t="1719" ac="0"> rappel</s></p>
+<p t="531750" d="1490" w="1" a="1">
+</p>
+<p t="531760" d="3199" w="1"><s ac="0">les</s><s t="120" ac="0"> logiciels</s><s t="519" ac="0"> arche</s><s t="880" ac="0"> sont</s><s t="1000" ac="0"> souvent</s><s t="1199" ac="0"> très</s></p>
+<p t="533230" d="1729" w="1" a="1">
+</p>
+<p t="533240" d="3840" w="1"><s ac="0">récent</s><s t="400" ac="0"> il</s><s t="599" ac="0"> propose</s><s t="960" ac="0"> des</s><s t="1080" ac="0"> fonctionnalités</s></p>
+<p t="534949" d="2131" w="1" a="1">
+</p>
+<p t="534959" d="3601" w="1"><s ac="0">avant</s><s t="281" ac="0"> les</s><s t="401" ac="0"> autres</s><s t="681" ac="0"> Linux</s><s t="1361" ac="0"> cela</s><s t="1641" ac="0"> peut</s><s t="1801" ac="0"> générer</s></p>
+<p t="537070" d="1490" w="1" a="1">
+</p>
+<p t="537080" d="3160" w="1"><s ac="0">des</s><s t="160" ac="0"> instabilités</s><s t="800" ac="0"> qui</s><s t="920" ac="0"> affectent</s><s t="1360" ac="0"> les</s></p>
+<p t="538550" d="1690" w="1" a="1">
+</p>
+<p t="538560" d="3279" w="1"><s ac="0">distributions</s><s t="719" ac="0"> qui</s><s t="800" ac="0"> se</s><s t="880" ac="0"> base</s><s t="1120" ac="0"> sur</s><s t="1160" ac="0"> ses</s><s t="1360" ac="0"> dépôts</s></p>
+<p t="540230" d="1609" w="1" a="1">
+</p>
+<p t="540240" d="3599" w="1"><s ac="0">logiciels</s><s t="760" ac="0"> un</s><s t="960" ac="0"> dysfonctionnement</s></p>
+<p t="541829" d="2010" w="1" a="1">
+</p>
+<p t="541839" d="3321" w="1"><s ac="0">applicatif</s><s t="521" ac="0"> est</s><s t="680" ac="0"> souvent</s><s t="1041" ac="0"> temporaire</s><s t="1680" ac="0"> et</s><s t="1881" ac="0"> ne</s></p>
+<p t="543829" d="1331" w="1" a="1">
+</p>
+<p t="543839" d="3560" w="1"><s ac="0">signifie</s><s t="401" ac="0"> pas</s><s t="521" ac="0"> que</s><s t="601" ac="0"> votre</s><s t="841" ac="0"> système</s><s t="1161" ac="0"> est</s></p>
+<p t="545150" d="2249" w="1" a="1">
+</p>
+<p t="545160" d="4040" w="1"><s ac="0">instable</s><s t="560" ac="0"> manjaro</s><s t="1400" ac="0"> est</s><s t="1520" ac="0"> la</s><s t="1600" ac="0"> plus</s><s t="1760" ac="0"> connu</s><s t="2119" ac="0"> des</s></p>
+<p t="547389" d="1811" w="1" a="1">
+</p>
+<p t="547399" d="3161" w="1"><s ac="0">distributions</s><s t="521" ac="0"> issues</s><s t="841" ac="0"> de</s><s t="880" ac="0"> arche</s><s t="1641" ac="0"> elle</s></p>
+<p t="549190" d="1370" w="1" a="1">
+</p>
+<p t="549200" d="3240" w="1"><s ac="0">propose</s><s t="360" ac="0"> une</s><s t="520" ac="0"> installation</s><s t="920" ac="0"> graphique</s></p>
+<p t="550550" d="1890" w="1" a="1">
+</p>
+<p t="550560" d="3839" w="1"><s ac="0">simplifiée</s><s t="640" ac="0"> une</s><s t="800" ac="0"> interface</s><s t="1240" ac="0"> travaillée</s><s t="1719" ac="0"> et</s></p>
+<p t="552430" d="1969" w="1" a="1">
+</p>
+<p t="552440" d="3839" w="1"><s ac="0">une</s><s t="120" ac="0"> préconfiguration</s><s t="880" ac="0"> complète</s><s t="1280" ac="0"> du</s><s t="1399" ac="0"> système</s></p>
+<p t="554389" d="1890" w="1" a="1">
+</p>
+<p t="554399" d="3641" w="1"><s ac="0">un</s><s t="161" ac="0"> travail</s><s t="481" ac="0"> réussi</s><s t="1000" ac="0"> pour</s><s t="1120" ac="0"> un</s><s t="1241" ac="0"> résultat</s><s t="1641" ac="0"> beau</s></p>
+<p t="556269" d="1771" w="1" a="1">
+</p>
+<p t="556279" d="3921" w="1"><s ac="0">et</s><s t="120" ac="0"> performant</s><s t="721" ac="0"> jusqu&#39;à</s><s t="1120" ac="0"> l&#39;interpréteur</s><s t="1680" ac="0"> de</s></p>
+<p t="558030" d="2170" w="1" a="1">
+</p>
+<p t="558040" d="3320" w="1"><s ac="0">commande</s><s t="320" ac="0"> zsh</s><s t="1320" ac="0"> un</s><s t="1479" ac="0"> système</s><s t="1799" ac="0"> qui</s><s t="1919" ac="0"> m&#39;a</s></p>
+<p t="560190" d="1170" w="1" a="1">
+</p>
+<p t="560200" d="3280" w="1"><s ac="0">personnellement</s><s t="480" ac="0"> donné</s><s t="759" ac="0"> entière</s></p>
+<p t="561350" d="2130" w="1" a="1">
+</p>
+<p t="561360" d="4440" w="1"><s ac="0">satisfaction</s><s t="479" ac="0"> à</s><s t="840" ac="0"> utiliser</s><s t="1240" ac="0"> en</s><s t="1320" ac="0"> desktop</s><s t="1919" ac="0"> ou</s><s t="1960" ac="0"> en</s></p>
+<p t="563470" d="2330" w="1" a="1">
+</p>
+<p t="563480" d="4200" w="1"><s ac="0">serveur</s><s t="760" ac="0"> big</s><s t="1200" ac="0"> Linux</s><s t="1599" ac="0"> est</s><s t="1720" ac="0"> une</s><s t="1880" ac="0"> surcouche</s></p>
+<p t="565790" d="1890" w="1" a="1">
+</p>
+<p t="565800" d="4000" w="1"><s ac="0">brésilienne</s><s t="440" ac="0"> à</s><s t="560" ac="0"> manjaro</s><s t="1159" ac="0"> qui</s><s t="1400" ac="0"> clame</s><s t="1760" ac="0"> sa</s></p>
+<p t="567670" d="2130" w="1" a="1">
+</p>
+<p t="567680" d="3880" w="1"><s ac="0">facilité</s><s t="440" ac="0"> d&#39;utilisation</s><s t="1560" ac="0"> une</s><s t="1680" ac="0"> distribution</s></p>
+<p t="569790" d="1770" w="1" a="1">
+</p>
+<p t="569800" d="3560" w="1"><s ac="0">prête</s><s t="360" ac="0"> à</s><s t="440" ac="0"> l&#39;emploi</s><s t="840" ac="0"> très</s><s t="1039" ac="0"> appréciée</s><s t="1479" ac="0"> de</s><s t="1560" ac="0"> ses</s></p>
+<p t="571550" d="1810" w="1" a="1">
+</p>
+<p t="571560" d="3800" w="1"><s ac="0">utilisateurs</s><s t="800" ac="0"> à</s><s t="959" ac="0"> l&#39;origine</s><s t="1360" ac="0"> basée</s><s t="1680" ac="0"> sur</s></p>
+<p t="573350" d="2010" w="1" a="1">
+</p>
+<p t="573360" d="4840" w="1"><s ac="0">Kubuntu</s><s t="599" ac="0"> et</s><s t="719" ac="0"> dipin</s><s t="1280" ac="0"> elle</s><s t="1400" ac="0"> a</s><s t="1520" ac="0"> switché</s><s t="1880" ac="0"> sur</s></p>
+<p t="575350" d="2850" w="1" a="1">
+</p>
+<p t="575360" d="4760" w="1"><s ac="0">manjaro</s><s t="640" ac="0"> en</s><s t="880" ac="0"> 2021</s><s t="1960" ac="0"> elle</s><s t="2039" ac="0"> est</s><s t="2159" ac="0"> destinée</s><s t="2560" ac="0"> à</s><s t="2680" ac="0"> tous</s></p>
+<p t="578190" d="1930" w="1" a="1">
+</p>
+<p t="578200" d="4120" w="1"><s ac="0">les</s><s t="160" ac="0"> utilisateurs</s><s t="759" ac="0"> y</s><s t="960" ac="0"> compris</s><s t="1240" ac="0"> débutants</s></p>
+<p t="580110" d="2210" w="1" a="1">
+</p>
+<p t="580120" d="4200" w="1"><s ac="0">pour</s><s t="120" ac="0"> une</s><s t="320" ac="0"> utilisation</s><s t="800" ac="0"> bureau</s><s t="1159" ac="0"> arti</s><s t="2040" ac="0"> est</s><s t="2120" ac="0"> à</s></p>
+<p t="582310" d="2010" w="1" a="1">
+</p>
+<p t="582320" d="3400" w="1"><s ac="0">arche</s><s t="360" ac="0"> ce</s><s t="480" ac="0"> que</s><s t="519" ac="0"> devuan</s><s t="1040" ac="0"> est</s><s t="1160" ac="0"> à</s><s t="1240" ac="0"> Debian</s><s t="1840" ac="0"> une</s></p>
+<p t="584310" d="1410" w="1" a="1">
+</p>
+<p t="584320" d="3320" w="1"><s ac="0">distribution</s><s t="400" ac="0"> sans</s><s t="840" ac="0"> système</s><s t="1120" ac="0"> D</s><s t="1280" ac="0"> à</s></p>
+<p t="585710" d="1930" w="1" a="1">
+</p>
+<p t="585720" d="3920" w="1"><s ac="0">l&#39;initialisation</s><s t="1000" ac="0"> mais</s><s t="1160" ac="0"> aussi</s><s t="1440" ac="0"> un</s><s t="1559" ac="0"> système</s></p>
+<p t="587630" d="2010" w="1" a="1">
+</p>
+<p t="587640" d="3879" w="1"><s ac="0">convivial</s><s t="480" ac="0"> inspiré</s><s t="800" ac="0"> de</s><s t="879" ac="0"> manjaro</s><s t="1520" ac="0"> qui</s><s t="1639" ac="0"> connaît</s></p>
+<p t="589630" d="1889" w="1" a="1">
+</p>
+<p t="589640" d="3879" w="1"><s ac="0">un</s><s t="80" ac="0"> succès</s><s t="439" ac="0"> significatif</s><s t="1080" ac="0"> et</s><s t="1360" ac="0"> de</s><s t="1480" ac="0"> très</s><s t="1680" ac="0"> bons</s></p>
+<p t="591509" d="2010" w="1" a="1">
+</p>
+<p t="591519" d="3961" w="1"><s ac="0">avis</s><s t="721" ac="0"> elle</s><s t="880" ac="0"> se</s><s t="1000" ac="0"> décline</s><s t="1401" ac="0"> en</s><s t="1641" ac="0"> plusieurs</s></p>
+<p t="593509" d="1971" w="1" a="1">
+</p>
+<p t="593519" d="3281" w="1"><s ac="0">éditions</s><s t="560" ac="0"> avec</s><s t="760" ac="0"> des</s><s t="961" ac="0"> bureaux</s><s t="1320" ac="0"> différents</s><s t="1841" ac="0"> ou</s></p>
+<p t="595470" d="1330" w="1" a="1">
+</p>
+<p t="595480" d="3960" w="1"><s ac="0">une</s><s t="120" ac="0"> version</s><s t="359" ac="0"> ligne</s><s t="720" ac="0"> de</s><s t="799" ac="0"> commande</s><s t="1120" ac="0"> pour</s><s t="1200" ac="0"> les</s></p>
+<p t="596790" d="2650" w="1" a="1">
+</p>
+<p t="596800" d="4640" w="1"><s ac="0">serveurs</s><s t="560" ac="0"> Chios</s><s t="1560" ac="0"> est</s><s t="1760" ac="0"> un</s><s t="1840" ac="0"> système</s><s t="2360" ac="0"> basé</s><s t="2560" ac="0"> sur</s></p>
+<p t="599430" d="2010" w="1" a="1">
+</p>
+<p t="599440" d="3519" w="1"><s ac="0">arche</s><s t="440" ac="0"> d&#39;initiative</s><s t="1160" ac="0"> allemande</s><s t="1800" ac="0"> qui</s><s t="1920" ac="0"> se</s></p>
+<p t="601430" d="1529" w="1" a="1">
+</p>
+<p t="601440" d="3880" w="1"><s ac="0">concentre</s><s t="519" ac="0"> sur</s><s t="639" ac="0"> les</s><s t="800" ac="0"> optimisations</s><s t="1440" ac="0"> de</s></p>
+<p t="602949" d="2371" w="1" a="1">
+</p>
+<p t="602959" d="3880" w="1"><s ac="0">performance</s><s t="521" ac="0"> et</s><s t="641" ac="0"> de</s><s t="761" ac="0"> sécurité</s><s t="1560" ac="0"> son</s><s t="1801" ac="0"> noyau</s><s t="2161" ac="0"> est</s></p>
+<p t="605310" d="1529" w="1" a="1">
+</p>
+<p t="605320" d="3639" w="1"><s ac="0">optimisé</s><s t="480" ac="0"> pour</s><s t="560" ac="0"> donner</s><s t="840" ac="0"> la</s><s t="920" ac="0"> priorité</s><s t="1320" ac="0"> aux</s></p>
+<p t="606829" d="2130" w="1" a="1">
+</p>
+<p t="606839" d="3321" w="1"><s ac="0">tâche</s><s t="401" ac="0"> nécessitant</s><s t="921" ac="0"> une</s><s t="1081" ac="0"> grande</s><s t="1321" ac="0"> réactivité</s></p>
+<p t="608949" d="1211" w="1" a="1">
+</p>
+<p t="608959" d="3241" w="1"><s ac="0">en</s><s t="161" ac="0"> particulier</s><s t="681" ac="0"> les</s><s t="801" ac="0"> actions</s><s t="1120" ac="0"> de</s></p>
+<p t="610150" d="2050" w="1" a="1">
+</p>
+<p t="610160" d="4720" w="1"><s ac="0">l&#39;utilisateur</s><s t="919" ac="0"> donc</s><s t="1160" ac="0"> réseré</s><s t="1679" ac="0"> aux</s><s t="1799" ac="0"> gens</s><s t="1960" ac="0"> qui</s></p>
+<p t="612190" d="2690" w="1" a="1">
+</p>
+<p t="612200" d="4480" w="1"><s ac="0">veulent</s><s t="280" ac="0"> un</s><s t="360" ac="0"> bureau</s><s t="639" ac="0"> réactif</s><s t="1079" ac="0"> and</s><s t="2079" ac="0"> avouros</s></p>
+<p t="614870" d="1810" w="1" a="1">
+</p>
+<p t="614880" d="3720" w="1"><s ac="0">est</s><s t="280" ac="0"> une</s><s t="399" ac="0"> distribution</s><s t="760" ac="0"> arche</s><s t="1320" ac="0"> qui</s><s t="1440" ac="0"> a</s><s t="1519" ac="0"> le</s><s t="1600" ac="0"> vent</s></p>
+<p t="616670" d="1930" w="1" a="1">
+</p>
+<p t="616680" d="3760" w="1"><s ac="0">en</s><s t="80" ac="0"> poupe</s><s t="680" ac="0"> elle</s><s t="839" ac="0"> simplifie</s><s t="1240" ac="0"> l&#39;installation</s></p>
+<p t="618590" d="1850" w="1" a="1">
+</p>
+<p t="618600" d="3400" w="1"><s ac="0">propose</s><s t="320" ac="0"> des</s><s t="479" ac="0"> environnements</s><s t="960" ac="0"> préconfigurés</s></p>
+<p t="620430" d="1570" w="1" a="1">
+</p>
+<p t="620440" d="3920" w="1"><s ac="0">et</s><s t="120" ac="0"> une</s><s t="240" ac="0"> installation</s><s t="720" ac="0"> sans</s><s t="959" ac="0"> internet</s><s t="1360" ac="0"> avec</s></p>
+<p t="621990" d="2370" w="1" a="1">
+</p>
+<p t="622000" d="4320" w="1"><s ac="0">l&#39;environnement</s><s t="600" ac="0"> Xfce</s><s t="1600" ac="0"> mais</s><s t="1880" ac="0"> aussi</s><s t="2160" ac="0"> une</s></p>
+<p t="624350" d="1970" w="1" a="1">
+</p>
+<p t="624360" d="4080" w="1"><s ac="0">compatibilité</s><s t="599" ac="0"> avec</s><s t="840" ac="0"> les</s><s t="960" ac="0"> processeurs</s><s t="1479" ac="0"> ARM</s></p>
+<p t="626310" d="2130" w="1" a="1">
+</p>
+<p t="626320" d="3920" w="1"><s ac="0">et</s><s t="160" ac="0"> des</s><s t="320" ac="0"> drivers</s><s t="720" ac="0"> nvidia</s><s t="1199" ac="0"> préconfigurés</s></p>
+<p t="628430" d="1810" w="1" a="1">
+</p>
+<p t="628440" d="3160" w="1"><s ac="0">enfin</s><s t="639" ac="0"> Garuda</s><s t="1079" ac="0"> est</s><s t="1200" ac="0"> une</s><s t="1320" ac="0"> distribution</s></p>
+<p t="630230" d="1370" w="1" a="1">
+</p>
+<p t="630240" d="3480" w="1"><s ac="0">indienne</s><s t="480" ac="0"> dont</s><s t="680" ac="0"> l&#39;utilisation</s><s t="1240" ac="0"> est</s></p>
+<p t="631590" d="2130" w="1" a="1">
+</p>
+<p t="631600" d="3760" w="1"><s ac="0">simplifiée</s><s t="679" ac="0"> orienté</s><s t="1280" ac="0"> performance</s><s t="1960" ac="0"> elle</s></p>
+<p t="633710" d="1650" w="1" a="1">
+</p>
+<p t="633720" d="3080" w="1"><s ac="0">propose</s><s t="400" ac="0"> quelques</s><s t="720" ac="0"> améliorations</s><s t="1359" ac="0"> telles</s></p>
+<p t="635350" d="1450" w="1" a="1">
+</p>
+<p t="635360" d="4000" w="1"><s ac="0">qu&#39;une</s><s t="240" ac="0"> optimisation</s><s t="760" ac="0"> de</s><s t="840" ac="0"> la</s><s t="1000" ac="0"> gouvernance</s></p>
+<p t="636790" d="2570" w="1" a="1">
+</p>
+<p t="636800" d="4200" w="1"><s ac="0">CPU</s><s t="560" ac="0"> et</s><s t="719" ac="0"> l&#39;utilisation</s><s t="1120" ac="0"> de</s><s t="1440" ac="0"> zram</s><s t="2200" ac="0"> leurs</s></p>
+<p t="639350" d="1650" w="1" a="1">
+</p>
+<p t="639360" d="3919" w="1"><s ac="0">utilisateurs</s><s t="560" ac="0"> aiment</s><s t="880" ac="0"> aussi</s><s t="1039" ac="0"> son</s><s t="1200" ac="0"> apparence</s></p>
+<p t="640990" d="2289" w="1" a="1">
+</p>
+<p t="641000" d="4120" w="1"><s ac="0">colorée</s><s t="920" ac="0"> passons</s><s t="1279" ac="0"> aux</s><s t="1519" ac="0"> distributions</s><s t="2000" ac="0"> from</s></p>
+<p t="643269" d="1851" w="1" a="1">
+</p>
+<p t="643279" d="3161" w="1"><s ac="0">scratch</s><s t="721" ac="0"> elles</s><s t="921" ac="0"> sont</s><s t="1041" ac="0"> très</s><s t="1240" ac="0"> intéressantes</s></p>
+<p t="645110" d="1330" w="1" a="1">
+</p>
+<p t="645120" d="2680" w="1"><s ac="0">car</s><s t="120" ac="0"> on</s><s t="240" ac="0"> va</s><s t="480" ac="0"> bien</s><s t="600" ac="0"> au-delà</s><s t="1000" ac="0"> d&#39;une</s></p>
+<p t="646430" d="1370" w="1" a="1">
+</p>
+<p t="646440" d="3399" w="1"><s ac="0">amélioration</s><s t="480" ac="0"> d&#39;une</s><s t="760" ac="0"> distribution</s></p>
+<p t="647790" d="2049" w="1" a="1">
+</p>
+<p t="647800" d="3760" w="1"><s ac="0">existante</s><s t="880" ac="0"> ici</s><s t="1279" ac="0"> il</s><s t="1440" ac="0"> s&#39;agit</s><s t="1800" ac="0"> d&#39;une</s></p>
+<p t="649829" d="1731" w="1" a="1">
+</p>
+<p t="649839" d="4240" w="1"><s ac="0">construction</s><s t="440" ac="0"> complète</s><s t="800" ac="0"> d&#39;un</s><s t="1000" ac="0"> système</s><s t="1281" ac="0"> Linux</s></p>
+<p t="651550" d="2529" w="1" a="1">
+</p>
+<p t="651560" d="4440" w="1"><s ac="0">pour</s><s t="120" ac="0"> un</s><s t="240" ac="0"> objectif</s><s t="640" ac="0"> donné</s><s t="1560" ac="0"> nyxos</s><s t="2200" ac="0"> est</s><s t="2360" ac="0"> sans</s></p>
+<p t="654069" d="1931" w="1" a="1">
+</p>
+<p t="654079" d="3721" w="1"><s ac="0">aucun</s><s t="281" ac="0"> doute</s><s t="481" ac="0"> une</s><s t="601" ac="0"> distribution</s><s t="1000" ac="0"> d&#39;avenir</s></p>
+<p t="655990" d="1810" w="1" a="1">
+</p>
+<p t="656000" d="3600" w="1"><s ac="0">son</s><s t="200" ac="0"> mécanisme</s><s t="680" ac="0"> innovant</s><s t="1120" ac="0"> de</s><s t="1240" ac="0"> configuration</s></p>
+<p t="657790" d="1810" w="1" a="1">
+</p>
+<p t="657800" d="4159" w="1"><s ac="0">déclarative</s><s t="640" ac="0"> basé</s><s t="920" ac="0"> sur</s><s t="1080" ac="0"> un</s><s t="1279" ac="0"> un</s><s t="1360" ac="0"> véritable</s></p>
+<p t="659590" d="2369" w="1" a="1">
+</p>
+<p t="659600" d="4320" w="1"><s ac="0">langage</s><s t="679" ac="0"> sa</s><s t="840" ac="0"> politique</s><s t="1200" ac="0"> imuable</s><s t="1840" ac="0"> 100</s><s t="2120" ac="0"> %</s></p>
+<p t="661949" d="1971" w="1" a="1">
+</p>
+<p t="661959" d="3601" w="1"><s ac="0">reproductible</s><s t="880" ac="0"> et</s><s t="1120" ac="0"> le</s><s t="1201" ac="0"> mode</s><s t="1481" ac="0"> de</s><s t="1560" ac="0"> stockage</s></p>
+<p t="663910" d="1650" w="1" a="1">
+</p>
+<p t="663920" d="3400" w="1"><s ac="0">indépendant</s><s t="440" ac="0"> de</s><s t="520" ac="0"> ces</s><s t="760" ac="0"> paquets</s><s t="1080" ac="0"> en</s><s t="1280" ac="0"> font</s><s t="1560" ac="0"> un</s></p>
+<p t="665550" d="1770" w="1" a="1">
+</p>
+<p t="665560" d="3680" w="1"><s ac="0">système</s><s t="360" ac="0"> unique</s><s t="760" ac="0"> incontestablement</s></p>
+<p t="667310" d="1930" w="1" a="1">
+</p>
+<p t="667320" d="3360" w="1"><s ac="0">innovant</s><s t="639" ac="0"> qui</s><s t="800" ac="0"> opère</s><s t="1199" ac="0"> un</s><s t="1280" ac="0"> bouleversement</s></p>
+<p t="669230" d="1450" w="1" a="1">
+</p>
+<p t="669240" d="3360" w="1"><s ac="0">profond</s><s t="320" ac="0"> de</s><s t="399" ac="0"> l&#39;organisation</s><s t="1080" ac="0"> et</s><s t="1200" ac="0"> de</s><s t="1320" ac="0"> la</s></p>
+<p t="670670" d="1930" w="1" a="1">
+</p>
+<p t="670680" d="3760" w="1"><s ac="0">gestion</s><s t="320" ac="0"> du</s><s t="440" ac="0"> système</s><s t="1159" ac="0"> à</s><s t="1399" ac="0"> l&#39;origine</s></p>
+<p t="672590" d="1850" w="1" a="1">
+</p>
+<p t="672600" d="3520" w="1"><s ac="0">expérimentale</s><s t="799" ac="0"> nous</s><s t="960" ac="0"> disposons</s><s t="1359" ac="0"> aujourd&#39;hui</s></p>
+<p t="674430" d="1690" w="1" a="1">
+</p>
+<p t="674440" d="3160" w="1"><s ac="0">d&#39;une</s><s t="199" ac="0"> solution</s><s t="600" ac="0"> complètement</s><s t="1000" ac="0"> fiable</s><s t="1519" ac="0"> qui</s></p>
+<p t="676110" d="1490" w="1" a="1">
+</p>
+<p t="676120" d="2680" w="1"><s ac="0">permet</s><s t="360" ac="0"> par</s><s t="440" ac="0"> exemple</s><s t="800" ac="0"> d&#39;avoir</s><s t="1120" ac="0"> la</s><s t="1240" ac="0"> même</s></p>
+<p t="677590" d="1210" w="1" a="1">
+</p>
+<p t="677600" d="3080" w="1"><s ac="0">configuration</s><s t="440" ac="0"> sur</s><s t="560" ac="0"> des</s><s t="799" ac="0"> centaines</s></p>
+<p t="678790" d="1890" w="1" a="1">
+</p>
+<p t="678800" d="3599" w="1"><s ac="0">d&#39;ordinateurs</s><s t="599" ac="0"> différents</s><s t="1200" ac="0"> modifiables</s><s t="1760" ac="0"> en</s></p>
+<p t="680670" d="1729" w="1" a="1">
+</p>
+<p t="680680" d="3120" w="1"><s ac="0">une</s><s t="159" ac="0"> seule</s><s t="360" ac="0"> commande</s><s t="920" ac="0"> il</s><s t="1120" ac="0"> y</s><s t="1240" ac="0"> a</s><s t="1360" ac="0"> des</s><s t="1480" ac="0"> chances</s></p>
+<p t="682389" d="1411" w="1" a="1">
+</p>
+<p t="682399" d="4240" w="1"><s ac="0">que</s><s t="81" ac="0"> nous</s><s t="240" ac="0"> décortiquion</s><s t="921" ac="0"> ce</s><s t="1000" ac="0"> système</s><s t="1321" ac="0"> sur</s></p>
+<p t="683790" d="2849" w="1" a="1">
+</p>
+<p t="683800" d="4680" w="1"><s ac="0">cette</s><s t="240" ac="0"> chaîne</s><s t="960" ac="0"> alpine</s><s t="1680" ac="0"> Linux</s><s t="2279" ac="0"> distribution</s></p>
+<p t="686629" d="1851" w="1" a="1">
+</p>
+<p t="686639" d="3081" w="1"><s ac="0">norvégienne</s><s t="601" ac="0"> connaît</s><s t="961" ac="0"> un</s><s t="1041" ac="0"> Fran</s><s t="1361" ac="0"> succès</s><s t="1721" ac="0"> en</s></p>
+<p t="688470" d="1250" w="1" a="1">
+</p>
+<p t="688480" d="3400" w="1"><s ac="0">particulier</s><s t="760" ac="0"> dans</s><s t="840" ac="0"> le</s><s t="919" ac="0"> monde</s><s t="1080" ac="0"> des</s></p>
+<p t="689710" d="2170" w="1" a="1">
+</p>
+<p t="689720" d="3840" w="1"><s ac="0">équipements</s><s t="440" ac="0"> réseaux</s><s t="720" ac="0"> et</s><s t="840" ac="0"> des</s><s t="960" ac="0"> containers</s><s t="1960" ac="0"> sa</s></p>
+<p t="691870" d="1690" w="1" a="1">
+</p>
+<p t="691880" d="3639" w="1"><s ac="0">construction</s><s t="480" ac="0"> extrêmement</s><s t="959" ac="0"> légère</s><s t="1320" ac="0"> fiable</s></p>
+<p t="693550" d="1969" w="1" a="1">
+</p>
+<p t="693560" d="4000" w="1"><s ac="0">et</s><s t="120" ac="0"> épurée</s><s t="640" ac="0"> fluidifie</s><s t="1200" ac="0"> la</s><s t="1279" ac="0"> gestion</s><s t="1480" ac="0"> des</s><s t="1680" ac="0"> podes</s></p>
+<p t="695509" d="2051" w="1" a="1">
+</p>
+<p t="695519" d="4161" w="1"><s ac="0">par</s><s t="120" ac="0"> kubernetes</s><s t="801" ac="0"> et</s><s t="961" ac="0"> optimise</s><s t="1481" ac="0"> performance</s></p>
+<p t="697550" d="2130" w="1" a="1">
+</p>
+<p t="697560" d="4160" w="1"><s ac="0">et</s><s t="120" ac="0"> ressources</s><s t="880" ac="0"> en</s><s t="1079" ac="0"> outre</s><s t="1440" ac="0"> son</s><s t="1600" ac="0"> gestionnaire</s></p>
+<p t="699670" d="2050" w="1" a="1">
+</p>
+<p t="699680" d="3760" w="1"><s ac="0">de</s><s t="80" ac="0"> paquets</s><s t="360" ac="0"> apk</s><s t="1120" ac="0"> stable</s><s t="1520" ac="0"> et</s><s t="1640" ac="0"> facile</s><s t="1920" ac="0"> à</s></p>
+<p t="701710" d="1730" w="1" a="1">
+</p>
+<p t="701720" d="2840" w="1"><s ac="0">utiliser</s><s t="559" ac="0"> propose</s><s t="919" ac="0"> de</s><s t="1040" ac="0"> nombreux</s><s t="1400" ac="0"> paquets</s></p>
+<p t="703430" d="1130" w="1" a="1">
+</p>
+<p t="703440" d="3519" w="1"><s ac="0">pour</s><s t="120" ac="0"> administrateurs</s><s t="800" ac="0"> réseau</s><s t="1079" ac="0"> et</s></p>
+<p t="704550" d="2409" w="1" a="1">
+</p>
+<p t="704560" d="4560" w="1"><s ac="0">développeurs</s><s t="839" ac="0"> void</s><s t="1560" ac="0"> est</s><s t="1719" ac="0"> une</s><s t="1839" ac="0"> distribution</s></p>
+<p t="706949" d="2171" w="1" a="1">
+</p>
+<p t="706959" d="4241" w="1"><s ac="0">légère</s><s t="521" ac="0"> indépendante</s><s t="1041" ac="0"> sans</s><s t="1560" ac="0"> système</s><s t="1921" ac="0"> D</s></p>
+<p t="709110" d="2090" w="1" a="1">
+</p>
+<p t="709120" d="3560" w="1"><s ac="0">rolling</s><s t="480" ac="0"> release</s><s t="1120" ac="0"> qui</s><s t="1279" ac="0"> propose</s><s t="1600" ac="0"> d&#39;installer</s></p>
+<p t="711190" d="1490" w="1" a="1">
+</p>
+<p t="711200" d="2759" w="1"><s ac="0">les</s><s t="120" ac="0"> logiciels</s><s t="560" ac="0"> au</s><s t="680" ac="0"> choix</s><s t="879" ac="0"> par</s><s t="960" ac="0"> les</s><s t="1079" ac="0"> binaires</s></p>
+<p t="712670" d="1289" w="1" a="1">
+</p>
+<p t="712680" d="3520" w="1"><s ac="0">ou</s><s t="40" ac="0"> les</s><s t="159" ac="0"> source</s><s t="560" ac="0"> et</s><s t="640" ac="0"> qui</s><s t="719" ac="0"> fonctionne</s><s t="1080" ac="0"> aussi</s></p>
+<p t="713949" d="2251" w="1" a="1">
+</p>
+<p t="713959" d="3921" w="1"><s ac="0">sur</s><s t="161" ac="0"> raspberry</s><s t="680" ac="0"> P</s><s t="1241" ac="0"> une</s><s t="1440" ac="0"> initiative</s><s t="1921" ac="0"> très</s><s t="2161" ac="0"> bien</s></p>
+<p t="716190" d="1690" w="1" a="1">
+</p>
+<p t="716200" d="3520" w="1"><s ac="0">notée</s><s t="319" ac="0"> par</s><s t="400" ac="0"> ses</s><s t="720" ac="0"> utilisateurs</s><s t="1400" ac="0"> pour</s><s t="1520" ac="0"> son</s></p>
+<p t="717870" d="1850" w="1" a="1">
+</p>
+<p t="717880" d="3920" w="1"><s ac="0">extrême</s><s t="440" ac="0"> fiabilité</s><s t="1120" ac="0"> et</s><s t="1240" ac="0"> ses</s><s t="1440" ac="0"> outils</s><s t="1720" ac="0"> bien</s></p>
+<p t="719710" d="2090" w="1" a="1">
+</p>
+<p t="719720" d="4880" w="1"><s ac="0">pensés</s><s t="520" ac="0"> à</s><s t="960" ac="0"> réserver</s><s t="1440" ac="0"> cependant</s><s t="1799" ac="0"> aux</s></p>
+<p t="721790" d="2810" w="1" a="1">
+</p>
+<p t="721800" d="4719" w="1"><s ac="0">utilisateurs</s><s t="680" ac="0"> avertis</s><s t="1680" ac="0"> clear</s><s t="2039" ac="0"> linux</s><s t="2479" ac="0"> est</s><s t="2680" ac="0"> un</s></p>
+<p t="724590" d="1929" w="1" a="1">
+</p>
+<p t="724600" d="4239" w="1"><s ac="0">système</s><s t="359" ac="0"> minimal</s><s t="799" ac="0"> orienté</s><s t="1320" ac="0"> performance</s><s t="1840" ac="0"> pour</s></p>
+<p t="726509" d="2330" w="1" a="1">
+</p>
+<p t="726519" d="3801" w="1"><s ac="0">une</s><s t="320" ac="0"> utilisation</s><s t="721" ac="0"> dans</s><s t="880" ac="0"> le</s><s t="1041" ac="0"> Cloud</s><s t="1601" ac="0"> il</s><s t="2000" ac="0"> propose</s></p>
+<p t="728829" d="1491" w="1" a="1">
+</p>
+<p t="728839" d="2401" w="1"><s ac="0">des</s><s t="161" ac="0"> mises</s><s t="361" ac="0"> à</s><s t="440" ac="0"> jour</s><s t="601" ac="0"> de</s><s t="721" ac="0"> système</s><s t="1081" ac="0"> global</s></p>
+<p t="730310" d="930" w="1" a="1">
+</p>
+<p t="730320" d="2720" w="1"><s ac="0">plutôt</s><s t="280" ac="0"> que</s><s t="400" ac="0"> chaque</s><s t="600" ac="0"> paquet</s></p>
+<p t="731230" d="1810" w="1" a="1">
+</p>
+<p t="731240" d="4399" w="1"><s ac="0">individuellement</s><s t="880" ac="0"> à</s><s t="1279" ac="0"> essayer</s><s t="1640" ac="0"> comme</s></p>
+<p t="733030" d="2609" w="1" a="1">
+</p>
+<p t="733040" d="4720" w="1"><s ac="0">alternative</s><s t="520" ac="0"> à</s><s t="640" ac="0"> alpine</s><s t="1080" ac="0"> par</s><s t="1200" ac="0"> exemple</s><s t="2039" ac="0"> solu</s></p>
+<p t="735629" d="2131" w="1" a="1">
+</p>
+<p t="735639" d="3401" w="1"><s ac="0">est</s><s t="161" ac="0"> un</s><s t="241" ac="0"> linux</s><s t="601" ac="0"> moderne</s><s t="841" ac="0"> en</s><s t="1281" ac="0"> rolling</s><s t="1640" ac="0"> release</s></p>
+<p t="737750" d="1290" w="1" a="1">
+</p>
+<p t="737760" d="2800" w="1"><s ac="0">développé</s><s t="480" ac="0"> from</s><s t="759" ac="0"> scratch</s><s t="1120" ac="0"> pour</s><s t="1199" ac="0"> la</s></p>
+<p t="739030" d="1530" w="1" a="1">
+</p>
+<p t="739040" d="3560" w="1"><s ac="0">bureautique</s><s t="680" ac="0"> le</s><s t="799" ac="0"> développement</s><s t="1280" ac="0"> les</s></p>
+<p t="740550" d="2050" w="1" a="1">
+</p>
+<p t="740560" d="3519" w="1"><s ac="0">créateurs</s><s t="440" ac="0"> multimédia</s><s t="920" ac="0"> et</s><s t="1040" ac="0"> les</s><s t="1160" ac="0"> gamers</s><s t="1760" ac="0"> il</s></p>
+<p t="742590" d="1489" w="1" a="1">
+</p>
+<p t="742600" d="3760" w="1"><s ac="0">propose</s><s t="440" ac="0"> entre</s><s t="560" ac="0"> autres</s><s t="840" ac="0"> son</s><s t="960" ac="0"> bureau</s><s t="1239" ac="0"> maison</s></p>
+<p t="744069" d="2291" w="1" a="1">
+</p>
+<p t="744079" d="4200" w="1"><s ac="0">budg</s><s t="721" ac="0"> une</s><s t="880" ac="0"> solution</s><s t="1161" ac="0"> moderne</s><s t="1560" ac="0"> et</s><s t="1681" ac="0"> épurée</s></p>
+<p t="746350" d="1929" w="1" a="1">
+</p>
+<p t="746360" d="3760" w="1"><s ac="0">solus</s><s t="640" ac="0"> est</s><s t="760" ac="0"> supportée</s><s t="1159" ac="0"> par</s><s t="1279" ac="0"> une</s><s t="1440" ac="0"> communauté</s></p>
+<p t="748269" d="1851" w="1" a="1">
+</p>
+<p t="748279" d="3401" w="1"><s ac="0">active</s><s t="601" ac="0"> à</s><s t="881" ac="0"> essayer</s><s t="1201" ac="0"> si</s><s t="1321" ac="0"> tu</s><s t="1441" ac="0"> cherches</s><s t="1761" ac="0"> à</s></p>
+<p t="750110" d="1570" w="1" a="1">
+</p>
+<p t="750120" d="4159" w="1"><s ac="0">remplacer</s><s t="320" ac="0"> le</s><s t="440" ac="0"> Linux</s><s t="839" ac="0"> de</s><s t="920" ac="0"> ton</s><s t="1120" ac="0"> ordinateur</s></p>
+<p t="751670" d="2609" w="1" a="1">
+</p>
+<p t="751680" d="4599" w="1"><s ac="0">personnel</s><s t="719" ac="0"> pppy</s><s t="1560" ac="0"> est</s><s t="1760" ac="0"> une</s><s t="1920" ac="0"> distribution</s><s t="2399" ac="0"> très</s></p>
+<p t="754269" d="2010" w="1" a="1">
+</p>
+<p t="754279" d="4081" w="1"><s ac="0">légère</s><s t="441" ac="0"> fiable</s><s t="800" ac="0"> et</s><s t="920" ac="0"> facile</s><s t="1240" ac="0"> d&#39;utilisation</s></p>
+<p t="756269" d="2091" w="1" a="1">
+</p>
+<p t="756279" d="4000" w="1"><s ac="0">disponible</s><s t="601" ac="0"> en</s><s t="680" ac="0"> live</s><s t="920" ac="0"> cd</s><s t="1441" ac="0"> pour</s><s t="1560" ac="0"> un</s><s t="1761" ac="0"> usage</s></p>
+<p t="758350" d="1929" w="1" a="1">
+</p>
+<p t="758360" d="3400" w="1"><s ac="0">bureau</s><s t="360" ac="0"> généraliste</s><s t="1039" ac="0"> le</s><s t="1120" ac="0"> système</s><s t="1440" ac="0"> peut</s><s t="1719" ac="0"> être</s></p>
+<p t="760269" d="1491" w="1" a="1">
+</p>
+<p t="760279" d="3441" w="1"><s ac="0">chargé</s><s t="281" ac="0"> en</s><s t="401" ac="0"> RAM</s><s t="721" ac="0"> de</s><s t="800" ac="0"> manière</s><s t="1081" ac="0"> à</s><s t="1201" ac="0"> pouvoir</s></p>
+<p t="761750" d="1970" w="1" a="1">
+</p>
+<p t="761760" d="4120" w="1"><s ac="0">retirer</s><s t="360" ac="0"> la</s><s t="480" ac="0"> clé</s><s t="680" ac="0"> USB</s><s t="1160" ac="0"> et</s><s t="1360" ac="0"> optimiser</s><s t="1800" ac="0"> les</s></p>
+<p t="763710" d="2170" w="1" a="1">
+</p>
+<p t="763720" d="3840" w="1"><s ac="0">performances</s><s t="720" ac="0"> il</s><s t="1239" ac="0"> peut-être</s><s t="1640" ac="0"> utilisé</s><s t="2040" ac="0"> sur</s></p>
+<p t="765870" d="1690" w="1" a="1">
+</p>
+<p t="765880" d="3800" w="1"><s ac="0">une</s><s t="160" ac="0"> large</s><s t="440" ac="0"> gamme</s><s t="680" ac="0"> de</s><s t="759" ac="0"> matériel</s><s t="1240" ac="0"> ancien</s><s t="1600" ac="0"> et</s></p>
+<p t="767550" d="2130" w="1" a="1">
+</p>
+<p t="767560" d="4880" w="1"><s ac="0">modne</s><s t="560" ac="0"> pupy</s><s t="1040" ac="0"> a</s><s t="1160" ac="0"> généré</s><s t="1480" ac="0"> pas</s><s t="1560" ac="0"> mal</s><s t="1639" ac="0"> de</s><s t="1760" ac="0"> petits</s></p>
+<p t="769670" d="2770" w="1" a="1">
+</p>
+<p t="769680" d="4719" w="1"><s ac="0">qu&#39;on</s><s t="159" ac="0"> appelle</s><s t="399" ac="0"> des</s><s t="519" ac="0"> peuplettes</s><s t="1480" ac="0"> SOS</s><s t="2480" ac="0"> est</s><s t="2640" ac="0"> une</s></p>
+<p t="772430" d="1969" w="1" a="1">
+</p>
+<p t="772440" d="4240" w="1"><s ac="0">distribution</s><s t="560" ac="0"> expérimentale</s><s t="1240" ac="0"> récente</s><s t="1639" ac="0"> assez</s></p>
+<p t="774389" d="2291" w="1" a="1">
+</p>
+<p t="774399" d="4161" w="1"><s ac="0">innovante</s><s t="1081" ac="0"> elle</s><s t="1240" ac="0"> exécute</s><s t="1721" ac="0"> ses</s><s t="1841" ac="0"> composants</s></p>
+<p t="776670" d="1890" w="1" a="1">
+</p>
+<p t="776680" d="3719" w="1"><s ac="0">dans</s><s t="80" ac="0"> des</s><s t="200" ac="0"> containurs</s><s t="760" ac="0"> isolés</s><s t="1240" ac="0"> se</s><s t="1399" ac="0"> charge</s><s t="1760" ac="0"> en</s></p>
+<p t="778550" d="1849" w="1" a="1">
+</p>
+<p t="778560" d="3760" w="1"><s ac="0">RAM</s><s t="600" ac="0"> utilise</s><s t="1000" ac="0"> un</s><s t="1079" ac="0"> mode</s><s t="1279" ac="0"> de</s><s t="1360" ac="0"> mise</s><s t="1560" ac="0"> à</s><s t="1680" ac="0"> jour</s></p>
+<p t="780389" d="1931" w="1" a="1">
+</p>
+<p t="780399" d="3921" w="1"><s ac="0">atomique</s><s t="641" ac="0"> et</s><s t="800" ac="0"> plein</s><s t="1000" ac="0"> d&#39;autres</s><s t="1401" ac="0"> mécanismes</s></p>
+<p t="782310" d="2010" w="1" a="1">
+</p>
+<p t="782320" d="3480" w="1"><s ac="0">intéressants</s><s t="519" ac="0"> à</s><s t="600" ac="0"> découvrir</s><s t="1000" ac="0"> sur</s><s t="1160" ac="0"> son</s><s t="1319" ac="0"> site</s></p>
+<p t="784310" d="1490" w="1" a="1">
+</p>
+<p t="784320" d="3959" w="1"><s ac="0">une</s><s t="240" ac="0"> solution</s><s t="600" ac="0"> plutôt</s><s t="920" ac="0"> destinée</s><s t="1319" ac="0"> aux</s></p>
+<p t="785790" d="2489" w="1" a="1">
+</p>
+<p t="785800" d="4360" w="1"><s ac="0">utilisateurs</s><s t="520" ac="0"> Linux</s><s t="1039" ac="0"> avancé</s><s t="2039" ac="0"> enfin</s></p>
+<p t="788269" d="1891" w="1" a="1">
+</p>
+<p t="788279" d="4360" w="1"><s ac="0">terminons</s><s t="521" ac="0"> cette</s><s t="680" ac="0"> série</s><s t="920" ac="0"> avec</s><s t="1201" ac="0"> Linux</s><s t="1641" ac="0"> from</s></p>
+<p t="790150" d="2489" w="1" a="1">
+</p>
+<p t="790160" d="4479" w="1"><s ac="0">scratch</s><s t="440" ac="0"> ou</s><s t="560" ac="0"> LFS</s><s t="1400" ac="0"> qui</s><s t="1560" ac="0"> te</s><s t="1679" ac="0"> propose</s><s t="2119" ac="0"> non</s><s t="2239" ac="0"> pas</s><s t="2359" ac="0"> de</s></p>
+<p t="792629" d="2010" w="1" a="1">
+</p>
+<p t="792639" d="3601" w="1"><s ac="0">télécharger</s><s t="521" ac="0"> une</s><s t="681" ac="0"> image</s><s t="1121" ac="0"> mais</s><s t="1281" ac="0"> un</s><s t="1401" ac="0"> livre</s><s t="1601" ac="0"> qui</s></p>
+<p t="794629" d="1611" w="1" a="1">
+</p>
+<p t="794639" d="3401" w="1"><s ac="0">t&#39;explique</s><s t="521" ac="0"> comment</s><s t="721" ac="0"> construire</s><s t="1081" ac="0"> un</s><s t="1161" ac="0"> linux</s></p>
+<p t="796230" d="1810" w="1" a="1">
+</p>
+<p t="796240" d="3480" w="1"><s ac="0">manuellement</s><s t="399" ac="0"> de</s><s t="560" ac="0"> bout</s><s t="839" ac="0"> en</s><s t="959" ac="0"> bout</s><s t="1480" ac="0"> pour</s><s t="1640" ac="0"> te</s></p>
+<p t="798030" d="1690" w="1" a="1">
+</p>
+<p t="798040" d="3760" w="1"><s ac="0">faciliter</s><s t="400" ac="0"> la</s><s t="599" ac="0"> tâche</s><s t="1000" ac="0"> la</s><s t="1080" ac="0"> documentation</s></p>
+<p t="799710" d="2090" w="1" a="1">
+</p>
+<p t="799720" d="4280" w="1"><s ac="0">existe</s><s t="320" ac="0"> aussi</s><s t="520" ac="0"> en</s><s t="600" ac="0"> français</s><s t="1320" ac="0"> une</s><s t="1559" ac="0"> alternative</s></p>
+<p t="801790" d="2210" w="1" a="1">
+</p>
+<p t="801800" d="3880" w="1"><s ac="0">inaccessible</s><s t="640" ac="0"> au</s><s t="839" ac="0"> non</s><s t="1200" ac="0"> informaticien</s></p>
+<p t="803990" d="1690" w="1" a="1">
+</p>
+<p t="804000" d="3920" w="1"><s ac="0">revenons</s><s t="519" ac="0"> un</s><s t="639" ac="0"> peu</s><s t="760" ac="0"> en</s><s t="839" ac="0"> arrière</s><s t="1399" ac="0"> dans</s><s t="1519" ac="0"> les</s></p>
+<p t="805670" d="2250" w="1" a="1">
+</p>
+<p t="805680" d="4519" w="1"><s ac="0">années</s><s t="399" ac="0"> 90</s><s t="1080" ac="0"> le</s><s t="1120" ac="0"> système</s><s t="1440" ac="0"> Unix</s><s t="1920" ac="0"> a</s><s t="2000" ac="0"> donné</s></p>
+<p t="807910" d="2289" w="1" a="1">
+</p>
+<p t="807920" d="3960" w="1"><s ac="0">naissance</s><s t="359" ac="0"> au</s><s t="479" ac="0"> système</s><s t="960" ac="0"> BSD</s><s t="1440" ac="0"> ou</s><s t="1599" ac="0"> Berkley</s></p>
+<p t="810189" d="1691" w="1" a="1">
+</p>
+<p t="810199" d="3200" w="1"><s ac="0">système</s><s t="440" ac="0"> distribution</s><s t="1121" ac="0"> qui</s><s t="1281" ac="0"> n&#39;avait</s></p>
+<p t="811870" d="1529" w="1" a="1">
+</p>
+<p t="811880" d="3519" w="1"><s ac="0">techniquement</s><s t="360" ac="0"> rien</s><s t="519" ac="0"> à</s><s t="720" ac="0"> env</s><s t="1040" ac="0"> au</s><s t="1120" ac="0"> tout</s><s t="1280" ac="0"> nouveau</s></p>
+<p t="813389" d="2010" w="1" a="1">
+</p>
+<p t="813399" d="3880" w="1"><s ac="0">Linux</s><s t="361" ac="0"> de</s><s t="440" ac="0"> l&#39;époque</s><s t="961" ac="0"> et</s><s t="1081" ac="0"> qui</s><s t="1240" ac="0"> eux</s><s t="1521" ac="0"> aussi</s><s t="1761" ac="0"> ont</s></p>
+<p t="815389" d="1890" w="1" a="1">
+</p>
+<p t="815399" d="3641" w="1"><s ac="0">évolué</s><s t="401" ac="0"> jusqu&#39;à</s><s t="721" ac="0"> notre</s><s t="961" ac="0"> ère</s><s t="1521" ac="0"> mais</s><s t="1641" ac="0"> alors</s></p>
+<p t="817269" d="1771" w="1" a="1">
+</p>
+<p t="817279" d="3961" w="1"><s ac="0">pourquoi</s><s t="401" ac="0"> BSD</s><s t="800" ac="0"> n&#39;est-il</s><s t="1240" ac="0"> pas</s><s t="1360" ac="0"> plus</s><s t="1481" ac="0"> connu</s></p>
+<p t="819030" d="2210" w="1" a="1">
+</p>
+<p t="819040" d="4039" w="1"><s ac="0">aujourd&#39;hui</s><s t="960" ac="0"> dans</s><s t="1159" ac="0"> leur</s><s t="1359" ac="0"> grande</s><s t="1680" ac="0"> modestie</s></p>
+<p t="821230" d="1849" w="1" a="1">
+</p>
+<p t="821240" d="3080" w="1"><s ac="0">les</s><s t="159" ac="0"> développeurs</s><s t="680" ac="0"> BSD</s><s t="1120" ac="0"> expliquent</s><s t="1640" ac="0"> entre</s></p>
+<p t="823069" d="1251" w="1" a="1">
+</p>
+<p t="823079" d="2961" w="1"><s ac="0">autres</s><s t="320" ac="0"> qu&#39;ils</s><s t="601" ac="0"> portent</s><s t="921" ac="0"> plus</s><s t="1041" ac="0"> souvent</s></p>
+<p t="824310" d="1730" w="1" a="1">
+</p>
+<p t="824320" d="3240" w="1"><s ac="0">d&#39;intérêt</s><s t="600" ac="0"> à</s><s t="639" ac="0"> l&#39;amélioration</s><s t="1120" ac="0"> de</s><s t="1240" ac="0"> leur</s><s t="1440" ac="0"> code</s></p>
+<p t="826030" d="1530" w="1" a="1">
+</p>
+<p t="826040" d="3320" w="1"><s ac="0">qu&#39;à</s><s t="200" ac="0"> sa</s><s t="320" ac="0"> promotion</s><s t="640" ac="0"> et</s><s t="919" ac="0"> qu&#39;étant</s><s t="1359" ac="0"> plus</s></p>
+<p t="827550" d="1810" w="1" a="1">
+</p>
+<p t="827560" d="3079" w="1"><s ac="0">expérimenté</s><s t="600" ac="0"> que</s><s t="680" ac="0"> les</s><s t="839" ac="0"> développeurs</s><s t="1320" ac="0"> Linux</s></p>
+<p t="829350" d="1289" w="1" a="1">
+</p>
+<p t="829360" d="2839" w="1"><s ac="0">ils</s><s t="159" ac="0"> ressentent</s><s t="560" ac="0"> moins</s><s t="800" ac="0"> le</s><s t="880" ac="0"> besoin</s><s t="1159" ac="0"> de</s></p>
+<p t="830629" d="1570" w="1" a="1">
+</p>
+<p t="830639" d="3801" w="1"><s ac="0">réaliser</s><s t="440" ac="0"> des</s><s t="560" ac="0"> systèmes</s><s t="1000" ac="0"> plus</s><s t="1120" ac="0"> simples</s><s t="1440" ac="0"> à</s></p>
+<p t="832189" d="2251" w="1" a="1">
+</p>
+<p t="832199" d="3760" w="1"><s ac="0">utiliser</s><s t="601" ac="0"> tu</s><s t="721" ac="0"> es</s><s t="841" ac="0"> donc</s><s t="961" ac="0"> prévenu</s><s t="1521" ac="0"> BSD</s><s t="2080" ac="0"> c&#39;est</s></p>
+<p t="834430" d="1529" w="1" a="1">
+</p>
+<p t="834440" d="3040" w="1"><s ac="0">pas</s><s t="79" ac="0"> pour</s><s t="199" ac="0"> les</s><s t="440" ac="0"> lopettes</s><s t="1079" ac="0"> dis-moi</s><s t="1440" ac="0"> en</s></p>
+<p t="835949" d="1531" w="1" a="1">
+</p>
+<p t="835959" d="3680" w="1"><s ac="0">commentaire</s><s t="401" ac="0"> si</s><s t="601" ac="0"> un</s><s t="721" ac="0"> aperçu</s><s t="1081" ac="0"> de</s><s t="1161" ac="0"> ce</s><s t="1240" ac="0"> monde</s></p>
+<p t="837470" d="2169" w="1" a="1">
+</p>
+<p t="837480" d="4560" w="1"><s ac="0">mystérieux</s><s t="440" ac="0"> t&#39;intéresse</s><s t="1440" ac="0"> voici</s><s t="1719" ac="0"> les</s><s t="1880" ac="0"> quatre</s></p>
+<p t="839629" d="2411" w="1" a="1">
+</p>
+<p t="839639" d="4361" w="1"><s ac="0">distributions</s><s t="560" ac="0"> BSD</s><s t="961" ac="0"> phar</s><s t="1401" ac="0"> free</s><s t="1841" ac="0"> BSD</s><s t="2200" ac="0"> est</s><s t="2320" ac="0"> la</s></p>
+<p t="842030" d="1970" w="1" a="1">
+</p>
+<p t="842040" d="4000" w="1"><s ac="0">plus</s><s t="120" ac="0"> connue</s><s t="479" ac="0"> car</s><s t="719" ac="0"> elle</s><s t="880" ac="0"> occupe</s><s t="1239" ac="0"> 80</s><s t="1560" ac="0"> %</s><s t="1840" ac="0"> des</s></p>
+<p t="843990" d="2050" w="1" a="1">
+</p>
+<p t="844000" d="3880" w="1"><s ac="0">installations</s><s t="480" ac="0"> BSD</s><s t="1240" ac="0"> certainement</s><s t="1680" ac="0"> l&#39;un</s><s t="1959" ac="0"> des</s></p>
+<p t="846030" d="1850" w="1" a="1">
+</p>
+<p t="846040" d="3840" w="1"><s ac="0">plus</s><s t="120" ac="0"> simples</s><s t="440" ac="0"> à</s><s t="560" ac="0"> utilisé</s><s t="960" ac="0"> fre</s><s t="1359" ac="0"> BSD</s><s t="1680" ac="0"> est</s></p>
+<p t="847870" d="2010" w="1" a="1">
+</p>
+<p t="847880" d="3560" w="1"><s ac="0">réputé</s><s t="319" ac="0"> stable</s><s t="600" ac="0"> et</s><s t="680" ac="0"> fiable</s><s t="959" ac="0"> en</s><s t="1040" ac="0"> mode</s><s t="1240" ac="0"> serveur</s></p>
+<p t="849870" d="1570" w="1" a="1">
+</p>
+<p t="849880" d="2920" w="1"><s ac="0">mais</s><s t="199" ac="0"> on</s><s t="319" ac="0"> peut</s><s t="480" ac="0"> aussi</s><s t="720" ac="0"> l&#39;utiliser</s><s t="1240" ac="0"> pour</s><s t="1360" ac="0"> du</s></p>
+<p t="851430" d="1370" w="1" a="1">
+</p>
+<p t="851440" d="2759" w="1"><s ac="0">bureau</s><s t="440" ac="0"> une</s><s t="639" ac="0"> expérience</s><s t="1079" ac="0"> que</s><s t="1160" ac="0"> j&#39;ai</s></p>
+<p t="852790" d="1409" w="1" a="1">
+</p>
+<p t="852800" d="3719" w="1"><s ac="0">personnellement</s><s t="520" ac="0"> tenté</s><s t="880" ac="0"> quelques</s><s t="1120" ac="0"> années</s></p>
+<p t="854189" d="2330" w="1" a="1">
+</p>
+<p t="854199" d="4241" w="1"><s ac="0">durant</s><s t="560" ac="0"> tout</s><s t="721" ac="0"> comme</s><s t="880" ac="0"> gen</s><s t="1320" ac="0"> tout</s><s t="1560" ac="0"> les</s><s t="1681" ac="0"> pquetages</s></p>
+<p t="856509" d="1931" w="1" a="1">
+</p>
+<p t="856519" d="3560" w="1"><s ac="0">ou</s><s t="81" ac="0"> port</s><s t="361" ac="0"> BSD</s><s t="880" ac="0"> s&#39;installent</s><s t="1401" ac="0"> en</s><s t="1521" ac="0"> compilant</s></p>
+<p t="858430" d="1649" w="1" a="1">
+</p>
+<p t="858440" d="3079" w="1"><s ac="0">les</s><s t="79" ac="0"> sources</s><s t="720" ac="0"> la</s><s t="839" ac="0"> plupart</s><s t="1160" ac="0"> des</s><s t="1280" ac="0"> programmes</s></p>
+<p t="860069" d="1450" w="1" a="1">
+</p>
+<p t="860079" d="3560" w="1"><s ac="0">qui</s><s t="120" ac="0"> tournent</s><s t="401" ac="0"> sous</s><s t="521" ac="0"> Linux</s><s t="880" ac="0"> peuvent</s><s t="1161" ac="0"> y</s><s t="1320" ac="0"> être</s></p>
+<p t="861509" d="2130" w="1" a="1">
+</p>
+<p t="861519" d="4041" w="1"><s ac="0">installés</s><s t="361" ac="0"> e</s><s t="801" ac="0"> fre</s><s t="1000" ac="0"> BSD</s><s t="1440" ac="0"> dispose</s><s t="1760" ac="0"> même</s><s t="1921" ac="0"> d&#39;un</s></p>
+<p t="863629" d="1931" w="1" a="1">
+</p>
+<p t="863639" d="4401" w="1"><s ac="0">installeur</s><s t="481" ac="0"> automatisé</s><s t="1241" ac="0"> qui</s><s t="1361" ac="0"> facilitera</s></p>
+<p t="865550" d="2490" w="1" a="1">
+</p>
+<p t="865560" d="4560" w="1"><s ac="0">cette</s><s t="199" ac="0"> tâche</s><s t="639" ac="0"> net</s><s t="1360" ac="0"> BSD</s><s t="1719" ac="0"> est</s><s t="1920" ac="0"> quant</s><s t="2160" ac="0"> à</s><s t="2279" ac="0"> lui</s></p>
+<p t="868030" d="2090" w="1" a="1">
+</p>
+<p t="868040" d="3200" w="1"><s ac="0">spécialisé</s><s t="440" ac="0"> dans</s><s t="719" ac="0"> la</s><s t="880" ac="0"> portabilité</s><s t="1640" ac="0"> il</s><s t="1799" ac="0"> est</s></p>
+<p t="870110" d="1130" w="1" a="1">
+</p>
+<p t="870120" d="2839" w="1"><s ac="0">possible</s><s t="159" ac="0"> de</s><s t="240" ac="0"> l&#39;installer</s><s t="680" ac="0"> sur</s><s t="760" ac="0"> un</s><s t="880" ac="0"> très</s></p>
+<p t="871230" d="1729" w="1" a="1">
+</p>
+<p t="871240" d="3640" w="1"><s ac="0">grand</s><s t="159" ac="0"> nombre</s><s t="399" ac="0"> d&#39;architecture</s><s t="1279" ac="0"> lui</s><s t="1519" ac="0"> aussi</s></p>
+<p t="872949" d="1931" w="1" a="1">
+</p>
+<p t="872959" d="3880" w="1"><s ac="0">peut-être</s><s t="481" ac="0"> installé</s><s t="841" ac="0"> comme</s><s t="1041" ac="0"> serveur</s><s t="1601" ac="0"> ou</s><s t="1680" ac="0"> avec</s></p>
+<p t="874870" d="1969" w="1" a="1">
+</p>
+<p t="874880" d="3480" w="1"><s ac="0">un</s><s t="120" ac="0"> environnement</s><s t="639" ac="0"> graphique</s><s t="1160" ac="0"> NetBSD</s></p>
+<p t="876829" d="1531" w="1" a="1">
+</p>
+<p t="876839" d="4081" w="1"><s ac="0">s&#39;installe</s><s t="521" ac="0"> manuellement</s><s t="1081" ac="0"> avec</s><s t="1321" ac="0"> la</s></p>
+<p t="878350" d="2570" w="1" a="1">
+</p>
+<p t="878360" d="4200" w="1"><s ac="0">documentation</s><s t="1000" ac="0"> le</s><s t="1159" ac="0"> projet</s><s t="1520" ac="0"> Open</s><s t="1880" ac="0"> BSD</s><s t="2320" ac="0"> est</s><s t="2479" ac="0"> un</s></p>
+<p t="880910" d="1650" w="1" a="1">
+</p>
+<p t="880920" d="3800" w="1"><s ac="0">peu</s><s t="159" ac="0"> particulier</s><s t="880" ac="0"> il</s><s t="1080" ac="0"> accorde</s><s t="1440" ac="0"> une</s></p>
+<p t="882550" d="2170" w="1" a="1">
+</p>
+<p t="882560" d="3920" w="1"><s ac="0">importance</s><s t="279" ac="0"> maladive</s><s t="839" ac="0"> à</s><s t="959" ac="0"> la</s><s t="1040" ac="0"> sécurité</s><s t="1639" ac="0"> il</s><s t="1880" ac="0"> est</s></p>
+<p t="884710" d="1770" w="1" a="1">
+</p>
+<p t="884720" d="3640" w="1"><s ac="0">en</s><s t="119" ac="0"> outre</s><s t="400" ac="0"> réputé</s><s t="880" ac="0"> pour</s><s t="960" ac="0"> la</s><s t="1080" ac="0"> qualité</s><s t="1479" ac="0"> de</s><s t="1559" ac="0"> sa</s></p>
+<p t="886470" d="1890" w="1" a="1">
+</p>
+<p t="886480" d="4200" w="1"><s ac="0">documentation</s><s t="560" ac="0"> et</s><s t="840" ac="0"> son</s><s t="1000" ac="0"> intransigence</s><s t="1799" ac="0"> sur</s></p>
+<p t="888350" d="2330" w="1" a="1">
+</p>
+<p t="888360" d="3800" w="1"><s ac="0">la</s><s t="120" ac="0"> liberté</s><s t="479" ac="0"> du</s><s t="599" ac="0"> code</s><s t="880" ac="0"> source</s><s t="1279" ac="0"> thodorade</s><s t="2120" ac="0"> son</s></p>
+<p t="890670" d="1490" w="1" a="1">
+</p>
+<p t="890680" d="3159" w="1"><s ac="0">créateur</s><s t="440" ac="0"> talentueux</s><s t="1040" ac="0"> mais</s><s t="1159" ac="0"> dont</s><s t="1360" ac="0"> la</s></p>
+<p t="892150" d="1689" w="1" a="1">
+</p>
+<p t="892160" d="3640" w="1"><s ac="0">personnalité</s><s t="560" ac="0"> rude</s><s t="840" ac="0"> et</s><s t="919" ac="0"> intransigente</s><s t="1560" ac="0"> est</s></p>
+<p t="893829" d="1971" w="1" a="1">
+</p>
+<p t="893839" d="4401" w="1"><s ac="0">devenu</s><s t="321" ac="0"> légendaire</s><s t="920" ac="0"> est</s><s t="1081" ac="0"> à</s><s t="1161" ac="0"> l&#39;origine</s><s t="1521" ac="0"> d&#39;Open</s></p>
+<p t="895790" d="2450" w="1" a="1">
+</p>
+<p t="895800" d="4399" w="1"><s ac="0">SSH</s><s t="399" ac="0"> et</s><s t="640" ac="0"> c-éveloppeur</s><s t="1240" ac="0"> de</s><s t="1360" ac="0"> net</s><s t="1640" ac="0"> BSD</s><s t="2240" ac="0"> il</s></p>
+<p t="898230" d="1969" w="1" a="1">
+</p>
+<p t="898240" d="3519" w="1"><s ac="0">déclare</s><s t="599" ac="0"> à</s><s t="719" ac="0"> propos</s><s t="920" ac="0"> du</s><s t="1039" ac="0"> système</s><s t="1320" ac="0"> linux</s><s t="1800" ac="0"> je</s></p>
+<p t="900189" d="1570" w="1" a="1">
+</p>
+<p t="900199" d="3241" w="1"><s ac="0">cite</s><s t="481" ac="0"> c&#39;est</s><s t="721" ac="0"> terrible</s><s t="1200" ac="0"> tout</s><s t="1320" ac="0"> le</s><s t="1401" ac="0"> monde</s></p>
+<p t="901749" d="1691" w="1" a="1">
+</p>
+<p t="901759" d="4200" w="1"><s ac="0">l&#39;utilise</s><s t="520" ac="0"> et</s><s t="640" ac="0"> il</s><s t="880" ac="0"> ne</s><s t="961" ac="0"> réalise</s><s t="1361" ac="0"> pas</s><s t="1440" ac="0"> à</s><s t="1561" ac="0"> quel</s></p>
+<p t="903430" d="2529" w="1" a="1">
+</p>
+<p t="903440" d="4079" w="1"><s ac="0">point</s><s t="160" ac="0"> c&#39;est</s><s t="319" ac="0"> mauvais</s><s t="880" ac="0"> open</s><s t="1480" ac="0"> BSD</s><s t="1839" ac="0"> est</s><s t="2000" ac="0"> classé</s></p>
+<p t="905949" d="1570" w="1" a="1">
+</p>
+<p t="905959" d="2800" w="1"><s ac="0">difficile</s><s t="240" ac="0"> pour</s><s t="320" ac="0"> les</s><s t="560" ac="0"> connaissan</s><s t="1281" ac="0"> importante</s></p>
+<p t="907509" d="1250" w="1" a="1">
+</p>
+<p t="907519" d="3320" w="1"><s ac="0">que</s><s t="120" ac="0"> nécessite</s><s t="601" ac="0"> ce</s><s t="721" ac="0"> système</s><s t="1041" ac="0"> pour</s><s t="1161" ac="0"> le</s></p>
+<p t="908749" d="2090" w="1" a="1">
+</p>
+<p t="908759" d="3601" w="1"><s ac="0">maîtriser</s><s t="760" ac="0"> assurément</s><s t="1481" ac="0"> un</s><s t="1601" ac="0"> fantastique</s></p>
+<p t="910829" d="1531" w="1" a="1">
+</p>
+<p t="910839" d="3841" w="1"><s ac="0">terrain</s><s t="321" ac="0"> de</s><s t="401" ac="0"> jeu</s><s t="601" ac="0"> pour</s><s t="680" ac="0"> les</s><s t="800" ac="0"> passionnés</s></p>
+<p t="912350" d="2330" w="1" a="1">
+</p>
+<p t="912360" d="4960" w="1"><s ac="0">finissons</s><s t="520" ac="0"> enfin</s><s t="719" ac="0"> par</s><s t="880" ac="0"> Dragonfly</s><s t="1599" ac="0"> BSD</s><s t="2000" ac="0"> un</s></p>
+<p t="914670" d="2650" w="1" a="1">
+</p>
+<p t="914680" d="4399" w="1"><s ac="0">outsider</s><s t="640" ac="0"> génial</s><s t="1240" ac="0"> né</s><s t="1480" ac="0"> d&#39;un</s><s t="1640" ac="0"> forc</s><s t="1920" ac="0"> de</s><s t="2000" ac="0"> Free</s><s t="2279" ac="0"> BSD</s></p>
+<p t="917310" d="1769" w="1" a="1">
+</p>
+<p t="917320" d="3199" w="1"><s ac="0">en</s><s t="79" ac="0"> 2003</s><s t="680" ac="0"> il</s><s t="879" ac="0"> propose</s><s t="1199" ac="0"> de</s><s t="1280" ac="0"> nombreuses</s></p>
+<p t="919069" d="1450" w="1" a="1">
+</p>
+<p t="919079" d="4120" w="1"><s ac="0">améliorations</s><s t="601" ac="0"> parmi</s><s t="841" ac="0"> lesquelles</s><s t="1281" ac="0"> une</s></p>
+<p t="920509" d="2690" w="1" a="1">
+</p>
+<p t="920519" d="5000" w="1"><s ac="0">réimplémentation</s><s t="721" ac="0"> du</s><s t="961" ac="0"> SMP</s><s t="1601" ac="0"> et</s><s t="1801" ac="0"> des</s><s t="2000" ac="0"> mécanisme</s></p>
+<p t="923189" d="2330" w="1" a="1">
+</p>
+<p t="923199" d="4320" w="1"><s ac="0">multiread</s><s t="1000" ac="0"> son</s><s t="1161" ac="0"> système</s><s t="1481" ac="0"> de</s><s t="1560" ac="0"> fichier</s><s t="1880" ac="0"> Hammer</s></p>
+<p t="925509" d="2010" w="1" a="1">
+</p>
+<p t="925519" d="4361" w="1"><s ac="0">à</s><s t="81" ac="0"> base</s><s t="240" ac="0"> de</s><s t="320" ac="0"> B</s><s t="641" ac="0"> arbre</s><s t="1161" ac="0"> supporte</s><s t="1560" ac="0"> nativement</s></p>
+<p t="927509" d="2371" w="1" a="1">
+</p>
+<p t="927519" d="4161" w="1"><s ac="0">les</s><s t="161" ac="0"> snapshots</s><s t="560" ac="0"> et</s><s t="641" ac="0"> la</s><s t="760" ac="0"> DD</s><s t="1161" ac="0"> application</s><s t="1961" ac="0"> et</s><s t="2240" ac="0"> de</s></p>
+<p t="929870" d="1810" w="1" a="1">
+</p>
+<p t="929880" d="3680" w="1"><s ac="0">nombreuses</s><s t="519" ac="0"> autres</s><s t="840" ac="0"> optimisations</s><s t="1439" ac="0"> font</s><s t="1680" ac="0"> de</s></p>
+<p t="931670" d="1890" w="1" a="1">
+</p>
+<p t="931680" d="3880" w="1"><s ac="0">ce</s><s t="120" ac="0"> système</s><s t="480" ac="0"> un</s><s t="639" ac="0"> choix</s><s t="839" ac="0"> performant</s><s t="1279" ac="0"> et</s><s t="1399" ac="0"> fiable</s></p>
+<p t="933550" d="2010" w="1" a="1">
+</p>
+<p t="933560" d="3959" w="1"><s ac="0">pour</s><s t="199" ac="0"> serveur</s><s t="639" ac="0"> et</s><s t="839" ac="0"> bureaux</s><s t="1440" ac="0"> comme</s><s t="1680" ac="0"> tu</s><s t="1759" ac="0"> peux</s><s t="1920" ac="0"> le</s></p>
+<p t="935550" d="1969" w="1" a="1">
+</p>
+<p t="935560" d="3680" w="1"><s ac="0">voir</s><s t="160" ac="0"> le</s><s t="240" ac="0"> monde</s><s t="519" ac="0"> des</s><s t="759" ac="0"> distribution</s><s t="1279" ac="0"> est</s><s t="1440" ac="0"> vaste</s></p>
+<p t="937509" d="1731" w="1" a="1">
+</p>
+<p t="937519" d="3481" w="1"><s ac="0">j&#39;espère</s><s t="401" ac="0"> que</s><s t="481" ac="0"> ce</s><s t="601" ac="0"> petit</s><s t="841" ac="0"> aperçu</s><s t="1201" ac="0"> t&#39;aidera</s><s t="1641" ac="0"> à</s></p>
+<p t="939230" d="1770" w="1" a="1">
+</p>
+<p t="939240" d="3320" w="1"><s ac="0">y</s><s t="120" ac="0"> voir</s><s t="279" ac="0"> plus</s><s t="440" ac="0"> clair</s><s t="920" ac="0"> n&#39;hésite</s><s t="1360" ac="0"> pas</s><s t="1480" ac="0"> à</s><s t="1560" ac="0"> poser</s></p>
+<p t="940990" d="1570" w="1" a="1">
+</p>
+<p t="941000" d="2959" w="1"><s ac="0">des</s><s t="240" ac="0"> questions</s><s t="720" ac="0"> ou</s><s t="800" ac="0"> à</s><s t="920" ac="0"> nous</s><s t="1040" ac="0"> parler</s><s t="1319" ac="0"> de</s><s t="1440" ac="0"> ta</s></p>
+<p t="942550" d="1409" w="1" a="1">
+</p>
+<p t="942560" d="2600" w="1"><s ac="0">distribution</s><s t="519" ac="0"> dans</s><s t="639" ac="0"> les</s><s t="759" ac="0"> commentaires</s></p>
+<p t="943949" d="1211" w="1" a="1">
+</p>
+<p t="943959" d="3761" w="1"><s ac="0">surtout</s><s t="240" ac="0"> si</s><s t="440" ac="0"> elle</s><s t="560" ac="0"> n&#39;est</s><s t="800" ac="0"> pas</s><s t="880" ac="0"> dans</s><s t="1000" ac="0"> cette</s></p>
+<p t="945150" d="2570" w="1" a="1">
+</p>
+<p t="945160" d="5560" w="1"><s ac="0">liste</s><s t="560" ac="0"> bonne</s><s t="1119" ac="0"> continuation</s><s t="1440" ac="0"> et</s><s t="1640" ac="0"> à</s><s t="1799" ac="0"> très</s></p>
+<p t="947710" d="3010" w="1" a="1">
+</p>
+<p t="947720" d="3000" w="1"><s ac="0">bientôt</s></p>
+</body>
+</timedtext>

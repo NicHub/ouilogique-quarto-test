@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="fr" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.440" end="00:00:03.719" style="s2">salut quelle est la meilleure</p>
+<p begin="00:00:01.680" end="00:00:05.520" style="s2">distribution Linux bonne question les</p>
+<p begin="00:00:03.719" end="00:00:07.439" style="s2">vidéos de tierl sur ce sujet se</p>
+<p begin="00:00:05.520" end="00:00:09.559" style="s2">multiplient on y voit souvent cinq</p>
+<p begin="00:00:07.439" end="00:00:11.280" style="s2">lignes de mauvais à fantastique et des</p>
+<p begin="00:00:09.559" end="00:00:13.200" style="s2">icônes de distribution qui viennent s&#39;y</p>
+<p begin="00:00:11.280" end="00:00:14.879" style="s2">pluguer les notes attribuées dépendent</p>
+<p begin="00:00:13.200" end="00:00:16.640" style="s2">souvent de l&#39;expérience de l&#39;auteur mais</p>
+<p begin="00:00:14.879" end="00:00:18.520" style="s2">aussi de la pertinence de chaque modèle</p>
+<p begin="00:00:16.640" end="00:00:20.119" style="s2">pour une utilisation donnée ici nous</p>
+<p begin="00:00:18.520" end="00:00:21.760" style="s2">allons voir les choses différemment</p>
+<p begin="00:00:20.119" end="00:00:23.439" style="s2">chaque distribution a été créée avec</p>
+<p begin="00:00:21.760" end="00:00:25.400" style="s2">pour objectif soit de proposer un</p>
+<p begin="00:00:23.439" end="00:00:27.000" style="s2">système complet soit d&#39;améliorer quelque</p>
+<p begin="00:00:25.400" end="00:00:28.760" style="s2">chose comme par exemple la facilité</p>
+<p begin="00:00:27.000" end="00:00:30.679" style="s2">d&#39;utilisation ou encore de se</p>
+<p begin="00:00:28.760" end="00:00:32.360" style="s2">spécialiser pour un usage données nous</p>
+<p begin="00:00:30.679" end="00:00:33.879" style="s2">allons donc tenter de ranger nos Linux</p>
+<p begin="00:00:32.360" end="00:00:35.840" style="s2">en fonction de leurs caractéristiques et</p>
+<p begin="00:00:33.879" end="00:00:37.399" style="s2">objectifs à toi de sélectionner là ou</p>
+<p begin="00:00:35.840" end="00:00:39.600" style="s2">les distributions qui te conviennent en</p>
+<p begin="00:00:37.399" end="00:00:40.800" style="s2">connaissance de cause on se concentrera</p>
+<p begin="00:00:39.600" end="00:00:42.280" style="s2">ici sur quelques spécimennes</p>
+<p begin="00:00:40.800" end="00:00:43.920" style="s2">remarquables bien qu&#39;il existe des</p>
+<p begin="00:00:42.280" end="00:00:46.039" style="s2">centaines de distributions que tu peux</p>
+<p begin="00:00:43.920" end="00:00:48.000" style="s2">découvrir sur distro watch parmi cette</p>
+<p begin="00:00:46.039" end="00:00:50.199" style="s2">sélection je te réserve en fin de vidéo</p>
+<p begin="00:00:48.000" end="00:00:52.079" style="s2">quelques spécimenses bien gratinés sur</p>
+<p begin="00:00:50.199" end="00:00:54.440" style="s2">l&#39;axe vertical nous allons y mettre</p>
+<p begin="00:00:52.079" end="00:00:55.960" style="s2">l&#39;usage en bas les distribution accxé</p>
+<p begin="00:00:54.440" end="00:00:58.320" style="s2">sur la bureautique le gaming le</p>
+<p begin="00:00:55.960" end="00:01:00.640" style="s2">multimédia le loisir et les utilisations</p>
+<p begin="00:00:58.320" end="00:01:02.440" style="s2">générales et en haut on retrouvera au</p>
+<p begin="00:01:00.640" end="00:01:04.559" style="s2">contraire les Linux spécialisés pour les</p>
+<p begin="00:01:02.440" end="00:01:05.799" style="s2">serveurs machines virtuelles et autres</p>
+<p begin="00:01:04.559" end="00:01:08.040" style="s2">opérations qui nécessitent des</p>
+<p begin="00:01:05.799" end="00:01:09.880" style="s2">compétences en administration système</p>
+<p begin="00:01:08.040" end="00:01:11.720" style="s2">sur l&#39;axe horizontal la facilité</p>
+<p begin="00:01:09.880" end="00:01:13.400" style="s2">d&#39;installation et de maintenance à</p>
+<p begin="00:01:11.720" end="00:01:15.159" style="s2">gauche les systèmes avec des installeurs</p>
+<p begin="00:01:13.400" end="00:01:17.280" style="s2">conviviaux et des logiciels faciles</p>
+<p begin="00:01:15.159" end="00:01:18.680" style="s2">d&#39;utilisation à droite ce qui nécessite</p>
+<p begin="00:01:17.280" end="00:01:20.880" style="s2">une solide connaissance des systèmes</p>
+<p begin="00:01:18.680" end="00:01:22.360" style="s2">Unix et Linux commençons par les</p>
+<p begin="00:01:20.880" end="00:01:24.079" style="s2">distributions mères qui ont souvent de</p>
+<p begin="00:01:22.360" end="00:01:25.840" style="s2">nombreuses filles à leur actifs en</p>
+<p begin="00:01:24.079" end="00:01:27.880" style="s2">premier lieu Slackware qui est la plus</p>
+<p begin="00:01:25.840" end="00:01:29.439" style="s2">ancienne distribution encore en activité</p>
+<p begin="00:01:27.880" end="00:01:31.200" style="s2">elle a pour particularité d&#39;avoir été</p>
+<p begin="00:01:29.439" end="00:01:33.439" style="s2">développé par une seule personne pendant</p>
+<p begin="00:01:31.200" end="00:01:35.840" style="s2">des années Patrick volkerling qui l&#39;a</p>
+<p begin="00:01:33.439" end="00:01:38.479" style="s2">créé en 1992 et accepté l&#39;aide de</p>
+<p begin="00:01:35.840" end="00:01:40.280" style="s2">contributeur sur le tard légère rapide</p>
+<p begin="00:01:38.479" end="00:01:42.240" style="s2">sans furiture avec une installation</p>
+<p begin="00:01:40.280" end="00:01:44.000" style="s2">semigraphique à la BSD elle est</p>
+<p begin="00:01:42.240" end="00:01:46.520" style="s2">généraliste mais plutôt réservée à des</p>
+<p begin="00:01:44.000" end="00:01:48.640" style="s2">initiés Debian au contraire se distingue</p>
+<p begin="00:01:46.520" end="00:01:51.119" style="s2">par son mode de gouvernance coopératif</p>
+<p begin="00:01:48.640" end="00:01:52.680" style="s2">sorti en 1996 il s&#39;agit de la</p>
+<p begin="00:01:51.119" end="00:01:54.600" style="s2">distribution ayant généré le plus de</p>
+<p begin="00:01:52.680" end="00:01:56.000" style="s2">petits encore massivement utilisée</p>
+<p begin="00:01:54.600" end="00:01:57.799" style="s2">aujourd&#39;hui elle est parfaite pour</p>
+<p begin="00:01:56.000" end="00:01:59.680" style="s2">monter un serveur et aussi un bon choix</p>
+<p begin="00:01:57.799" end="00:02:01.520" style="s2">pour une utilisation bureau elle mise</p>
+<p begin="00:01:59.680" end="00:02:03.399" style="s2">sur sur la stabilité et l&#39;utilisation de</p>
+<p begin="00:02:01.520" end="00:02:05.439" style="s2">logiciel libre pour chaque logiciel</p>
+<p begin="00:02:03.399" end="00:02:07.000" style="s2">Debian propose une version testée et</p>
+<p begin="00:02:05.439" end="00:02:09.239" style="s2">approuvée qui n&#39;est en général pas la</p>
+<p begin="00:02:07.000" end="00:02:10.879" style="s2">toute dernière redat est liée au monde</p>
+<p begin="00:02:09.239" end="00:02:12.440" style="s2">de l&#39;entreprise depuis ses débuts en</p>
+<p begin="00:02:10.879" end="00:02:14.160" style="s2">1994</p>
+<p begin="00:02:12.440" end="00:02:16.440" style="s2">elle est aujourd&#39;hui un acteur majeur du</p>
+<p begin="00:02:14.160" end="00:02:18.239" style="s2">monde professionnel on utilise surtout</p>
+<p begin="00:02:16.440" end="00:02:20.840" style="s2">cette distribution pour du serveur mais</p>
+<p begin="00:02:18.239" end="00:02:22.440" style="s2">aussi pour du bureau je tout réservé à</p>
+<p begin="00:02:20.840" end="00:02:24.280" style="s2">des utilisateurs avertis est une</p>
+<p begin="00:02:22.440" end="00:02:26.400" style="s2">distribution dite source qu&#39;il faut</p>
+<p begin="00:02:24.280" end="00:02:28.599" style="s2">avoir la patience de compiler modulaire</p>
+<p begin="00:02:26.400" end="00:02:31.000" style="s2">et portable son créateur Daniel Robbins</p>
+<p begin="00:02:28.599" end="00:02:32.760" style="s2">voulait lors de sa création en 2002 une</p>
+<p begin="00:02:31.000" end="00:02:35.120" style="s2">solution optimisée pour son matériel</p>
+<p begin="00:02:32.760" end="00:02:37.120" style="s2">sans programme superflu une alternative</p>
+<p begin="00:02:35.120" end="00:02:39.000" style="s2">réservée aux informaticiens dans la même</p>
+<p begin="00:02:37.120" end="00:02:41.080" style="s2">veine arche Linux met l&#39;accent sur la</p>
+<p begin="00:02:39.000" end="00:02:42.319" style="s2">simplicité selon le principe Kiss</p>
+<p begin="00:02:41.080" end="00:02:43.800" style="s2">l&#39;installation se fait avec des</p>
+<p begin="00:02:42.319" end="00:02:45.440" style="s2">pactetages précompilés pour gagner du</p>
+<p begin="00:02:43.800" end="00:02:47.720" style="s2">temps souvent dans leur dernière version</p>
+<p begin="00:02:45.440" end="00:02:50.560" style="s2">stable cette distribution se concentre</p>
+<p begin="00:02:47.720" end="00:02:52.120" style="s2">exclusivement sur l&#39;architecture x8664</p>
+<p begin="00:02:50.560" end="00:02:53.480" style="s2">arche est en rolling release</p>
+<p begin="00:02:52.120" end="00:02:55.640" style="s2">c&#39;est-à-dire sans versions majeur qui</p>
+<p begin="00:02:53.480" end="00:02:57.040" style="s2">nécessite des mises à niveau importantes</p>
+<p begin="00:02:55.640" end="00:02:58.080" style="s2">une solution parfaite pour la veille</p>
+<p begin="00:02:57.040" end="00:02:59.760" style="s2">technologique et les passionnés</p>
+<p begin="00:02:58.080" end="00:03:01.760" style="s2">d&#39;informatique dont vous trouverez quel</p>
+<p begin="00:02:59.760" end="00:03:03.400" style="s2">quelques vidéos sur cette chaîne SX</p>
+<p begin="00:03:01.760" end="00:03:05.599" style="s2">qu&#39;AMB bon francophone j&#39;avoue plutôt</p>
+<p begin="00:03:03.400" end="00:03:08.360" style="s2">appelé Suze est une distribution apparue</p>
+<p begin="00:03:05.599" end="00:03:10.000" style="s2">début 94 en Allemagne elle est destinée</p>
+<p begin="00:03:08.360" end="00:03:12.280" style="s2">aux entreprises dans un premier temps en</p>
+<p begin="00:03:10.000" end="00:03:13.959" style="s2">2005 le projet communautire Open sous eu</p>
+<p begin="00:03:12.280" end="00:03:16.200" style="s2">fait son apparition et aujourd&#39;hui il</p>
+<p begin="00:03:13.959" end="00:03:17.799" style="s2">s&#39;agit d&#39;une distribution majeure facile</p>
+<p begin="00:03:16.200" end="00:03:20.040" style="s2">à installer et à gérer grâce à son</p>
+<p begin="00:03:17.799" end="00:03:21.560" style="s2">configurateur YaST elle a été très tôt</p>
+<p begin="00:03:20.040" end="00:03:23.440" style="s2">une solution conviviale de choix dans le</p>
+<p begin="00:03:21.560" end="00:03:25.319" style="s2">monde des Linux revenons à la</p>
+<p begin="00:03:23.440" end="00:03:27.480" style="s2">distribution d&#39;bian et concentrons-nous</p>
+<p begin="00:03:25.319" end="00:03:29.159" style="s2">sur ces filles MX Linux est une</p>
+<p begin="00:03:27.480" end="00:03:30.640" style="s2">distribution qui a le vent en poupe</p>
+<p begin="00:03:29.159" end="00:03:32.840" style="s2">basée sur sur des bien stables et</p>
+<p begin="00:03:30.640" end="00:03:34.519" style="s2">inspirés d&#39;anti qu&#39;on abordera plus tard</p>
+<p begin="00:03:32.840" end="00:03:36.040" style="s2">son objectif est de combiner un bureau</p>
+<p begin="00:03:34.519" end="00:03:37.879" style="s2">élégant et efficace avec une</p>
+<p begin="00:03:36.040" end="00:03:40.000" style="s2">configuration simple et une grande</p>
+<p begin="00:03:37.879" end="00:03:41.640" style="s2">stabilité MX Linux est une bonne</p>
+<p begin="00:03:40.000" end="00:03:44.360" style="s2">alternative si tu veux rapidement un</p>
+<p begin="00:03:41.640" end="00:03:45.760" style="s2">système fonctionnel préconfiguré devua a</p>
+<p begin="00:03:44.360" end="00:03:47.840" style="s2">vu le jour suite au remplacement du</p>
+<p begin="00:03:45.760" end="00:03:49.760" style="s2">démon d&#39;initialisation init par système</p>
+<p begin="00:03:47.840" end="00:03:51.720" style="s2">D dans Debian il s&#39;agit d&#39;un for de</p>
+<p begin="00:03:49.760" end="00:03:53.560" style="s2">Debian sans système D qui intéressera</p>
+<p begin="00:03:51.720" end="00:03:56.040" style="s2">surtout les initiés habitués au système</p>
+<p begin="00:03:53.560" end="00:03:58.079" style="s2">d&#39;initialisation historique Cali Linux</p>
+<p begin="00:03:56.040" end="00:04:00.159" style="s2">est depuis 2013 le successeur de</p>
+<p begin="00:03:58.079" end="00:04:02.079" style="s2">Backtrack une distribution comportant de</p>
+<p begin="00:04:00.159" end="00:04:04.079" style="s2">nombreux outils de sécurité et de tests</p>
+<p begin="00:04:02.079" end="00:04:05.959" style="s2">d&#39;intrusion pré-installés mais aussi un</p>
+<p begin="00:04:04.079" end="00:04:07.640" style="s2">noyau modifié pour être moins vulnérable</p>
+<p begin="00:04:05.959" end="00:04:09.920" style="s2">aux attaques et des paquets Pen test</p>
+<p begin="00:04:07.640" end="00:04:12.239" style="s2">tuné à réserver donc aux amateurs de ce</p>
+<p begin="00:04:09.920" end="00:04:14.040" style="s2">type d&#39;activité raspberry posos</p>
+<p begin="00:04:12.239" end="00:04:15.879" style="s2">anciennement nommé raspbian est une</p>
+<p begin="00:04:14.040" end="00:04:17.479" style="s2">desbian modifiée pour être 100%</p>
+<p begin="00:04:15.879" end="00:04:19.519" style="s2">compatible avec les puces ARM qu&#39;on</p>
+<p begin="00:04:17.479" end="00:04:21.479" style="s2">retrouve dans les Raspberry P il propose</p>
+<p begin="00:04:19.519" end="00:04:23.400" style="s2">entre autres l&#39;outil raspp config dédié</p>
+<p begin="00:04:21.479" end="00:04:25.440" style="s2">à ce type d&#39;ordinateur un excellent</p>
+<p begin="00:04:23.400" end="00:04:27.160" style="s2">choix pour commencer avec raspberry que</p>
+<p begin="00:04:25.440" end="00:04:30.000" style="s2">ce soit pour une utilisation serveur ou</p>
+<p begin="00:04:27.160" end="00:04:31.919" style="s2">bureau etemabunus à l&#39;origine basé sur</p>
+<p begin="00:04:30.000" end="00:04:33.160" style="s2">Ubuntu et maintenant sur Debian a pour</p>
+<p begin="00:04:31.919" end="00:04:34.759" style="s2">objectif le reconditionnement</p>
+<p begin="00:04:33.160" end="00:04:36.639" style="s2">d&#39;ordinateur cette distribution</p>
+<p begin="00:04:34.759" end="00:04:38.680" style="s2">d&#39;initiative française peut s&#39;installer</p>
+<p begin="00:04:36.639" end="00:04:40.639" style="s2">sans accès internet sur du matériel</p>
+<p begin="00:04:38.680" end="00:04:42.520" style="s2">ancien avec des configurations pour des</p>
+<p begin="00:04:40.639" end="00:04:44.919" style="s2">types d&#39;utilisateur prédéfinis dont</p>
+<p begin="00:04:42.520" end="00:04:46.800" style="s2">enfant ou grand débutants un bon choix</p>
+<p begin="00:04:44.919" end="00:04:49.039" style="s2">pour découvrir Linux en douceur sur une</p>
+<p begin="00:04:46.800" end="00:04:50.720" style="s2">machine secondaire steam OS est la</p>
+<p begin="00:04:49.039" end="00:04:52.320" style="s2">distribution de la société valve à</p>
+<p begin="00:04:50.720" end="00:04:54.120" style="s2">l&#39;origine de la plateforme de jeux vidéo</p>
+<p begin="00:04:52.320" end="00:04:55.759" style="s2">steam une initiative plutôt bien</p>
+<p begin="00:04:54.120" end="00:04:58.240" style="s2">accueillie par les adeptes du jeu vidéo</p>
+<p begin="00:04:55.759" end="00:04:59.600" style="s2">sous Linux cependant depuis la version 3</p>
+<p begin="00:04:58.240" end="00:05:01.360" style="s2">la distribution est uniquement</p>
+<p begin="00:04:59.600" end="00:05:03.919" style="s2">disponible sur la console steam Deck et</p>
+<p begin="00:05:01.360" end="00:05:05.160" style="s2">se base désormais sur Arch Linux Antix</p>
+<p begin="00:05:03.919" end="00:05:07.280" style="s2">est aussi une distribution basée sur</p>
+<p begin="00:05:05.160" end="00:05:09.320" style="s2">Debian peu consommatrice en ressources</p>
+<p begin="00:05:07.280" end="00:05:10.759" style="s2">et adapté aux vieux ordinateurs les</p>
+<p begin="00:05:09.320" end="00:05:12.759" style="s2">logiciels par défaut sont choisis pour</p>
+<p begin="00:05:10.759" end="00:05:14.280" style="s2">leur faible consommation de RAM un bon</p>
+<p begin="00:05:12.759" end="00:05:16.600" style="s2">choix pour une utilisation bureau ou</p>
+<p begin="00:05:14.280" end="00:05:18.600" style="s2">dans une moindre mesure serveur tiles</p>
+<p begin="00:05:16.600" end="00:05:20.240" style="s2">est une initiative intéressante petit</p>
+<p begin="00:05:18.600" end="00:05:21.840" style="s2">système portable à promener sur un média</p>
+<p begin="00:05:20.240" end="00:05:23.840" style="s2">amovible il protège contre la</p>
+<p begin="00:05:21.840" end="00:05:25.319" style="s2">surveillance et la censure cette boîte à</p>
+<p begin="00:05:23.840" end="00:05:27.280" style="s2">outils numérique est à destination des</p>
+<p begin="00:05:25.319" end="00:05:29.639" style="s2">journalistes et des voyageurs mais aussi</p>
+<p begin="00:05:27.280" end="00:05:30.880" style="s2">des activistes et personnes en danger</p>
+<p begin="00:05:29.639" end="00:05:32.720" style="s2">est conçu pour fonctionner facilement</p>
+<p begin="00:05:30.880" end="00:05:35.639" style="s2">sur n&#39;importe quel ordinateur moderne</p>
+<p begin="00:05:32.720" end="00:05:38.000" style="s2">sans toucher au disque dur grml ce petit</p>
+<p begin="00:05:35.639" end="00:05:39.600" style="s2">outsider est aussi un système live qui</p>
+<p begin="00:05:38.000" end="00:05:40.720" style="s2">inclut des outils spécifiques cette</p>
+<p begin="00:05:39.600" end="00:05:42.520" style="s2">fois-ci à destination des</p>
+<p begin="00:05:40.720" end="00:05:45.080" style="s2">administrateurs système via une</p>
+<p begin="00:05:42.520" end="00:05:46.840" style="s2">interface graphique minimale Fluxbox un</p>
+<p begin="00:05:45.080" end="00:05:48.800" style="s2">os utile à avoir sur une clé pour des</p>
+<p begin="00:05:46.840" end="00:05:51.479" style="s2">opérations d&#39;installation réparation et</p>
+<p begin="00:05:48.800" end="00:05:53.360" style="s2">audit plutôt réservé au connaisseurs on</p>
+<p begin="00:05:51.479" end="00:05:55.440" style="s2">ne présente plus auubuntu ce système</p>
+<p begin="00:05:53.360" end="00:05:57.160" style="s2">convivial basé sur Debian s&#39;il est</p>
+<p begin="00:05:55.440" end="00:05:58.800" style="s2">aujourd&#39;hui très concurrencé il a eu son</p>
+<p begin="00:05:57.160" end="00:06:00.919" style="s2">heure de gloire et se porte encore très</p>
+<p begin="00:05:58.800" end="00:06:02.240" style="s2">bien utilisable pour du serveur comme</p>
+<p begin="00:06:00.919" end="00:06:04.280" style="s2">pour du bureau avec plusieurs</p>
+<p begin="00:06:02.240" end="00:06:06.479" style="s2">déclinaisons il reste un bon choix en</p>
+<p begin="00:06:04.280" end="00:06:07.960" style="s2">particulier pour les débutants lui aussi</p>
+<p begin="00:06:06.479" end="00:06:09.759" style="s2">commence à avoir un nombre important de</p>
+<p begin="00:06:07.960" end="00:06:11.800" style="s2">distribution fille don voici quelques</p>
+<p begin="00:06:09.759" end="00:06:13.520" style="s2">exemples commençons par zorine une</p>
+<p begin="00:06:11.800" end="00:06:15.720" style="s2">proposition irlandaise qui se veut une</p>
+<p begin="00:06:13.520" end="00:06:17.319" style="s2">alternative à Windows et Mac OS ce</p>
+<p begin="00:06:15.720" end="00:06:19.160" style="s2">système tentera d&#39;automatiser et</p>
+<p begin="00:06:17.319" end="00:06:21.080" style="s2">optimiser un maximum la configuration</p>
+<p begin="00:06:19.160" end="00:06:23.039" style="s2">matérielle il installera un système</p>
+<p begin="00:06:21.080" end="00:06:24.759" style="s2">prête à l&#39;emploi et sécurisé pour tous</p>
+<p begin="00:06:23.039" end="00:06:26.479" style="s2">une déclinaison payante propose des</p>
+<p begin="00:06:24.759" end="00:06:28.800" style="s2">couches de personnalisation d&#39;interface</p>
+<p begin="00:06:26.479" end="00:06:31.759" style="s2">et de productivité un bon choix pour les</p>
+<p begin="00:06:28.800" end="00:06:33.120" style="s2">non informat I et les gamers Linux Mint</p>
+<p begin="00:06:31.759" end="00:06:34.599" style="s2">est une des distributions les plus</p>
+<p begin="00:06:33.120" end="00:06:36.639" style="s2">appréciées par ceux qui veulent un</p>
+<p begin="00:06:34.599" end="00:06:38.800" style="s2">système stable moderne élégant et</p>
+<p begin="00:06:36.639" end="00:06:40.960" style="s2">confortable selon son créateur français</p>
+<p begin="00:06:38.800" end="00:06:42.639" style="s2">Clément Lefèvre je cite l&#39;ordinateur</p>
+<p begin="00:06:40.960" end="00:06:44.120" style="s2">devient un équipement ménager et son</p>
+<p begin="00:06:42.639" end="00:06:46.160" style="s2">esthétique doit suivre la tendance du</p>
+<p begin="00:06:44.120" end="00:06:47.400" style="s2">moment si tu veux un Linux qui marche</p>
+<p begin="00:06:46.160" end="00:06:49.759" style="s2">sans pour autant passer du temps à le</p>
+<p begin="00:06:47.400" end="00:06:52.160" style="s2">tuner Mint te ravira y compris si tu</p>
+<p begin="00:06:49.759" end="00:06:54.199" style="s2">débutes dans le monde Linux elementary</p>
+<p begin="00:06:52.160" end="00:06:56.319" style="s2">OS est un dérivé d&#39;Ubuntu qui propose</p>
+<p begin="00:06:54.199" end="00:06:57.960" style="s2">une interface graphique proche de Mac OS</p>
+<p begin="00:06:56.319" end="00:06:59.800" style="s2">cette distribution a pour philosophie</p>
+<p begin="00:06:57.960" end="00:07:01.400" style="s2">d&#39;améliorer l&#39;esthétique la cohérence</p>
+<p begin="00:06:59.800" end="00:07:03.440" style="s2">logicielle et limiter le besoin</p>
+<p begin="00:07:01.400" end="00:07:05.319" style="s2">d&#39;utiliser la console à l&#39;origine le</p>
+<p begin="00:07:03.440" end="00:07:06.960" style="s2">pack d&#39;icône elementar rencontre un</p>
+<p begin="00:07:05.319" end="00:07:09.400" style="s2">grand succès pour finalement s&#39;intégrer</p>
+<p begin="00:07:06.960" end="00:07:11.520" style="s2">dans ce système dédié pop OS est un</p>
+<p begin="00:07:09.400" end="00:07:13.199" style="s2">système récent populaire conçu et</p>
+<p begin="00:07:11.520" end="00:07:15.840" style="s2">maintenu par le fabricant d&#39;ordinateur</p>
+<p begin="00:07:13.199" end="00:07:17.280" style="s2">système 76 la distribution est réputé</p>
+<p begin="00:07:15.840" end="00:07:19.960" style="s2">pour être facile à configurer pour les</p>
+<p begin="00:07:17.280" end="00:07:21.800" style="s2">jeux elle intègre le support des GPU AMD</p>
+<p begin="00:07:19.960" end="00:07:23.840" style="s2">Nvidia un chiffrement du disque par</p>
+<p begin="00:07:21.800" end="00:07:25.599" style="s2">défaut une préconfiguration spécifique</p>
+<p begin="00:07:23.840" end="00:07:27.720" style="s2">et une interface épurée pour optimiser</p>
+<p begin="00:07:25.599" end="00:07:29.680" style="s2">le travail à conseiller donc pour une</p>
+<p begin="00:07:27.720" end="00:07:32.120" style="s2">installation bureau sur des ordinate</p>
+<p begin="00:07:29.680" end="00:07:34.319" style="s2">récent Linux Lite dernière distribution</p>
+<p begin="00:07:32.120" end="00:07:36.280" style="s2">basée sur Ubuntu dans ce comparatif est</p>
+<p begin="00:07:34.319" end="00:07:38.599" style="s2">optimisée pour les débutants avec comme</p>
+<p begin="00:07:36.280" end="00:07:40.960" style="s2">son nom l&#39;indique un système léger basé</p>
+<p begin="00:07:38.599" end="00:07:42.360" style="s2">sur l&#39;environnement Xfce un bon choix</p>
+<p begin="00:07:40.960" end="00:07:44.000" style="s2">pour les utilisateurs de Windows qui</p>
+<p begin="00:07:42.360" end="00:07:45.639" style="s2">veulent passer à Linux pour des besoins</p>
+<p begin="00:07:44.000" end="00:07:47.479" style="s2">bureautiques et médias passons</p>
+<p begin="00:07:45.639" end="00:07:49.720" style="s2">maintenant à deux distributions issues</p>
+<p begin="00:07:47.479" end="00:07:51.400" style="s2">de la team redat Fedora est un projet</p>
+<p begin="00:07:49.720" end="00:07:53.800" style="s2">libre et communautaire officiellement</p>
+<p begin="00:07:51.400" end="00:07:55.599" style="s2">supporté et sponsorisé par redat une</p>
+<p begin="00:07:53.800" end="00:07:57.520" style="s2">distribution historique qui met le focus</p>
+<p begin="00:07:55.599" end="00:07:59.599" style="s2">sur l&#39;innovation et connaît un succès</p>
+<p begin="00:07:57.520" end="00:08:01.440" style="s2">toujours plus important un choix ant</p>
+<p begin="00:07:59.599" end="00:08:03.360" style="s2">pour ceux qui utilisent redat au travail</p>
+<p begin="00:08:01.440" end="00:08:04.919" style="s2">Nobara est une version modifiée de</p>
+<p begin="00:08:03.360" end="00:08:06.879" style="s2">Fedora qui connaît aussi un succès</p>
+<p begin="00:08:04.919" end="00:08:08.639" style="s2">grandissant elle propose notamment des</p>
+<p begin="00:08:06.879" end="00:08:10.199" style="s2">fonctionnalités complémentaires et des</p>
+<p begin="00:08:08.639" end="00:08:12.319" style="s2">corrections pour améliorer l&#39;expérience</p>
+<p begin="00:08:10.199" end="00:08:14.680" style="s2">jeux et multimédia et aussi de jeolis</p>
+<p begin="00:08:12.319" end="00:08:16.199" style="s2">thè préinstallés pour gnom et KDE gen</p>
+<p begin="00:08:14.680" end="00:08:18.479" style="s2">tout connaît aussi quelques petits en</p>
+<p begin="00:08:16.199" end="00:08:20.360" style="s2">voici deux calculate dispose de deux</p>
+<p begin="00:08:18.479" end="00:08:21.800" style="s2">variantes serveur et bureau la</p>
+<p begin="00:08:20.360" end="00:08:24.000" style="s2">distribution simplifie l&#39;installation</p>
+<p begin="00:08:21.800" end="00:08:26.159" style="s2">d&#39;une gen to propose un calculate</p>
+<p begin="00:08:24.000" end="00:08:28.120" style="s2">Directory Server destiné à gérer des</p>
+<p begin="00:08:26.159" end="00:08:31.240" style="s2">utilisateurs avec des fonctionnalités et</p>
+<p begin="00:08:28.120" end="00:08:33.440" style="s2">protocoles liés mail eldap SBA Jaber et</p>
+<p begin="00:08:31.240" end="00:08:35.719" style="s2">cetera selon ses admirateurs avec</p>
+<p begin="00:08:33.440" end="00:08:37.519" style="s2">calculate tout fonctionne très bien une</p>
+<p begin="00:08:35.719" end="00:08:39.519" style="s2">bonne alternative pour les connaisseurs</p>
+<p begin="00:08:37.519" end="00:08:41.000" style="s2">enfin systemme Rescue est un système</p>
+<p begin="00:08:39.519" end="00:08:43.240" style="s2">live massivement utilisé pour la</p>
+<p begin="00:08:41.000" end="00:08:44.440" style="s2">résolution de problèmes techniques j&#39;ai</p>
+<p begin="00:08:43.240" end="00:08:46.040" style="s2">personnellement toujours un petit</p>
+<p begin="00:08:44.440" end="00:08:47.560" style="s2">système rescue sur moi pour toutes</p>
+<p begin="00:08:46.040" end="00:08:49.680" style="s2">sortes de manipulations ponctuelles sur</p>
+<p begin="00:08:47.560" end="00:08:51.760" style="s2">mes disques et autres systèmes passons</p>
+<p begin="00:08:49.680" end="00:08:53.240" style="s2">aux enfants de arche Linux pour rappel</p>
+<p begin="00:08:51.760" end="00:08:54.959" style="s2">les logiciels arche sont souvent très</p>
+<p begin="00:08:53.240" end="00:08:57.080" style="s2">récent il propose des fonctionnalités</p>
+<p begin="00:08:54.959" end="00:08:58.560" style="s2">avant les autres Linux cela peut générer</p>
+<p begin="00:08:57.080" end="00:09:00.240" style="s2">des instabilités qui affectent les</p>
+<p begin="00:08:58.560" end="00:09:01.839" style="s2">distributions qui se base sur ses dépôts</p>
+<p begin="00:09:00.240" end="00:09:03.839" style="s2">logiciels un dysfonctionnement</p>
+<p begin="00:09:01.839" end="00:09:05.160" style="s2">applicatif est souvent temporaire et ne</p>
+<p begin="00:09:03.839" end="00:09:07.399" style="s2">signifie pas que votre système est</p>
+<p begin="00:09:05.160" end="00:09:09.200" style="s2">instable manjaro est la plus connu des</p>
+<p begin="00:09:07.399" end="00:09:10.560" style="s2">distributions issues de arche elle</p>
+<p begin="00:09:09.200" end="00:09:12.440" style="s2">propose une installation graphique</p>
+<p begin="00:09:10.560" end="00:09:14.399" style="s2">simplifiée une interface travaillée et</p>
+<p begin="00:09:12.440" end="00:09:16.279" style="s2">une préconfiguration complète du système</p>
+<p begin="00:09:14.399" end="00:09:18.040" style="s2">un travail réussi pour un résultat beau</p>
+<p begin="00:09:16.279" end="00:09:20.200" style="s2">et performant jusqu&#39;à l&#39;interpréteur de</p>
+<p begin="00:09:18.040" end="00:09:21.360" style="s2">commande zsh un système qui m&#39;a</p>
+<p begin="00:09:20.200" end="00:09:23.480" style="s2">personnellement donné entière</p>
+<p begin="00:09:21.360" end="00:09:25.800" style="s2">satisfaction à utiliser en desktop ou en</p>
+<p begin="00:09:23.480" end="00:09:27.680" style="s2">serveur big Linux est une surcouche</p>
+<p begin="00:09:25.800" end="00:09:29.800" style="s2">brésilienne à manjaro qui clame sa</p>
+<p begin="00:09:27.680" end="00:09:31.560" style="s2">facilité d&#39;utilisation une distribution</p>
+<p begin="00:09:29.800" end="00:09:33.360" style="s2">prête à l&#39;emploi très appréciée de ses</p>
+<p begin="00:09:31.560" end="00:09:35.360" style="s2">utilisateurs à l&#39;origine basée sur</p>
+<p begin="00:09:33.360" end="00:09:38.200" style="s2">Kubuntu et dipin elle a switché sur</p>
+<p begin="00:09:35.360" end="00:09:40.120" style="s2">manjaro en 2021 elle est destinée à tous</p>
+<p begin="00:09:38.200" end="00:09:42.320" style="s2">les utilisateurs y compris débutants</p>
+<p begin="00:09:40.120" end="00:09:44.320" style="s2">pour une utilisation bureau arti est à</p>
+<p begin="00:09:42.320" end="00:09:45.720" style="s2">arche ce que devuan est à Debian une</p>
+<p begin="00:09:44.320" end="00:09:47.640" style="s2">distribution sans système D à</p>
+<p begin="00:09:45.720" end="00:09:49.640" style="s2">l&#39;initialisation mais aussi un système</p>
+<p begin="00:09:47.640" end="00:09:51.519" style="s2">convivial inspiré de manjaro qui connaît</p>
+<p begin="00:09:49.640" end="00:09:53.519" style="s2">un succès significatif et de très bons</p>
+<p begin="00:09:51.519" end="00:09:55.480" style="s2">avis elle se décline en plusieurs</p>
+<p begin="00:09:53.519" end="00:09:56.800" style="s2">éditions avec des bureaux différents ou</p>
+<p begin="00:09:55.480" end="00:09:59.440" style="s2">une version ligne de commande pour les</p>
+<p begin="00:09:56.800" end="00:10:01.440" style="s2">serveurs Chios est un système basé sur</p>
+<p begin="00:09:59.440" end="00:10:02.959" style="s2">arche d&#39;initiative allemande qui se</p>
+<p begin="00:10:01.440" end="00:10:05.320" style="s2">concentre sur les optimisations de</p>
+<p begin="00:10:02.959" end="00:10:06.839" style="s2">performance et de sécurité son noyau est</p>
+<p begin="00:10:05.320" end="00:10:08.959" style="s2">optimisé pour donner la priorité aux</p>
+<p begin="00:10:06.839" end="00:10:10.160" style="s2">tâche nécessitant une grande réactivité</p>
+<p begin="00:10:08.959" end="00:10:12.200" style="s2">en particulier les actions de</p>
+<p begin="00:10:10.160" end="00:10:14.880" style="s2">l&#39;utilisateur donc réseré aux gens qui</p>
+<p begin="00:10:12.200" end="00:10:16.680" style="s2">veulent un bureau réactif and avouros</p>
+<p begin="00:10:14.880" end="00:10:18.600" style="s2">est une distribution arche qui a le vent</p>
+<p begin="00:10:16.680" end="00:10:20.440" style="s2">en poupe elle simplifie l&#39;installation</p>
+<p begin="00:10:18.600" end="00:10:22.000" style="s2">propose des environnements préconfigurés</p>
+<p begin="00:10:20.440" end="00:10:24.360" style="s2">et une installation sans internet avec</p>
+<p begin="00:10:22.000" end="00:10:26.320" style="s2">l&#39;environnement Xfce mais aussi une</p>
+<p begin="00:10:24.360" end="00:10:28.440" style="s2">compatibilité avec les processeurs ARM</p>
+<p begin="00:10:26.320" end="00:10:30.240" style="s2">et des drivers nvidia préconfigurés</p>
+<p begin="00:10:28.440" end="00:10:31.600" style="s2">enfin Garuda est une distribution</p>
+<p begin="00:10:30.240" end="00:10:33.720" style="s2">indienne dont l&#39;utilisation est</p>
+<p begin="00:10:31.600" end="00:10:35.360" style="s2">simplifiée orienté performance elle</p>
+<p begin="00:10:33.720" end="00:10:36.800" style="s2">propose quelques améliorations telles</p>
+<p begin="00:10:35.360" end="00:10:39.360" style="s2">qu&#39;une optimisation de la gouvernance</p>
+<p begin="00:10:36.800" end="00:10:41.000" style="s2">CPU et l&#39;utilisation de zram leurs</p>
+<p begin="00:10:39.360" end="00:10:43.279" style="s2">utilisateurs aiment aussi son apparence</p>
+<p begin="00:10:41.000" end="00:10:45.120" style="s2">colorée passons aux distributions from</p>
+<p begin="00:10:43.279" end="00:10:46.440" style="s2">scratch elles sont très intéressantes</p>
+<p begin="00:10:45.120" end="00:10:47.800" style="s2">car on va bien au-delà d&#39;une</p>
+<p begin="00:10:46.440" end="00:10:49.839" style="s2">amélioration d&#39;une distribution</p>
+<p begin="00:10:47.800" end="00:10:51.560" style="s2">existante ici il s&#39;agit d&#39;une</p>
+<p begin="00:10:49.839" end="00:10:54.079" style="s2">construction complète d&#39;un système Linux</p>
+<p begin="00:10:51.560" end="00:10:56.000" style="s2">pour un objectif donné nyxos est sans</p>
+<p begin="00:10:54.079" end="00:10:57.800" style="s2">aucun doute une distribution d&#39;avenir</p>
+<p begin="00:10:56.000" end="00:10:59.600" style="s2">son mécanisme innovant de configuration</p>
+<p begin="00:10:57.800" end="00:11:01.959" style="s2">déclarative basé sur un un véritable</p>
+<p begin="00:10:59.600" end="00:11:03.920" style="s2">langage sa politique imuable 100 %</p>
+<p begin="00:11:01.959" end="00:11:05.560" style="s2">reproductible et le mode de stockage</p>
+<p begin="00:11:03.920" end="00:11:07.320" style="s2">indépendant de ces paquets en font un</p>
+<p begin="00:11:05.560" end="00:11:09.240" style="s2">système unique incontestablement</p>
+<p begin="00:11:07.320" end="00:11:10.680" style="s2">innovant qui opère un bouleversement</p>
+<p begin="00:11:09.240" end="00:11:12.600" style="s2">profond de l&#39;organisation et de la</p>
+<p begin="00:11:10.680" end="00:11:14.440" style="s2">gestion du système à l&#39;origine</p>
+<p begin="00:11:12.600" end="00:11:16.120" style="s2">expérimentale nous disposons aujourd&#39;hui</p>
+<p begin="00:11:14.440" end="00:11:17.600" style="s2">d&#39;une solution complètement fiable qui</p>
+<p begin="00:11:16.120" end="00:11:18.800" style="s2">permet par exemple d&#39;avoir la même</p>
+<p begin="00:11:17.600" end="00:11:20.680" style="s2">configuration sur des centaines</p>
+<p begin="00:11:18.800" end="00:11:22.399" style="s2">d&#39;ordinateurs différents modifiables en</p>
+<p begin="00:11:20.680" end="00:11:23.800" style="s2">une seule commande il y a des chances</p>
+<p begin="00:11:22.399" end="00:11:26.639" style="s2">que nous décortiquion ce système sur</p>
+<p begin="00:11:23.800" end="00:11:28.480" style="s2">cette chaîne alpine Linux distribution</p>
+<p begin="00:11:26.639" end="00:11:29.720" style="s2">norvégienne connaît un Fran succès en</p>
+<p begin="00:11:28.480" end="00:11:31.880" style="s2">particulier dans le monde des</p>
+<p begin="00:11:29.720" end="00:11:33.560" style="s2">équipements réseaux et des containers sa</p>
+<p begin="00:11:31.880" end="00:11:35.519" style="s2">construction extrêmement légère fiable</p>
+<p begin="00:11:33.560" end="00:11:37.560" style="s2">et épurée fluidifie la gestion des podes</p>
+<p begin="00:11:35.519" end="00:11:39.680" style="s2">par kubernetes et optimise performance</p>
+<p begin="00:11:37.560" end="00:11:41.720" style="s2">et ressources en outre son gestionnaire</p>
+<p begin="00:11:39.680" end="00:11:43.440" style="s2">de paquets apk stable et facile à</p>
+<p begin="00:11:41.720" end="00:11:44.560" style="s2">utiliser propose de nombreux paquets</p>
+<p begin="00:11:43.440" end="00:11:46.959" style="s2">pour administrateurs réseau et</p>
+<p begin="00:11:44.560" end="00:11:49.120" style="s2">développeurs void est une distribution</p>
+<p begin="00:11:46.959" end="00:11:51.200" style="s2">légère indépendante sans système D</p>
+<p begin="00:11:49.120" end="00:11:52.680" style="s2">rolling release qui propose d&#39;installer</p>
+<p begin="00:11:51.200" end="00:11:53.959" style="s2">les logiciels au choix par les binaires</p>
+<p begin="00:11:52.680" end="00:11:56.200" style="s2">ou les source et qui fonctionne aussi</p>
+<p begin="00:11:53.959" end="00:11:57.880" style="s2">sur raspberry P une initiative très bien</p>
+<p begin="00:11:56.200" end="00:11:59.720" style="s2">notée par ses utilisateurs pour son</p>
+<p begin="00:11:57.880" end="00:12:01.800" style="s2">extrême fiabilité et ses outils bien</p>
+<p begin="00:11:59.720" end="00:12:04.600" style="s2">pensés à réserver cependant aux</p>
+<p begin="00:12:01.800" end="00:12:06.519" style="s2">utilisateurs avertis clear linux est un</p>
+<p begin="00:12:04.600" end="00:12:08.839" style="s2">système minimal orienté performance pour</p>
+<p begin="00:12:06.519" end="00:12:10.320" style="s2">une utilisation dans le Cloud il propose</p>
+<p begin="00:12:08.839" end="00:12:11.240" style="s2">des mises à jour de système global</p>
+<p begin="00:12:10.320" end="00:12:13.040" style="s2">plutôt que chaque paquet</p>
+<p begin="00:12:11.240" end="00:12:15.639" style="s2">individuellement à essayer comme</p>
+<p begin="00:12:13.040" end="00:12:17.760" style="s2">alternative à alpine par exemple solu</p>
+<p begin="00:12:15.639" end="00:12:19.040" style="s2">est un linux moderne en rolling release</p>
+<p begin="00:12:17.760" end="00:12:20.560" style="s2">développé from scratch pour la</p>
+<p begin="00:12:19.040" end="00:12:22.600" style="s2">bureautique le développement les</p>
+<p begin="00:12:20.560" end="00:12:24.079" style="s2">créateurs multimédia et les gamers il</p>
+<p begin="00:12:22.600" end="00:12:26.360" style="s2">propose entre autres son bureau maison</p>
+<p begin="00:12:24.079" end="00:12:28.279" style="s2">budg une solution moderne et épurée</p>
+<p begin="00:12:26.360" end="00:12:30.120" style="s2">solus est supportée par une communauté</p>
+<p begin="00:12:28.279" end="00:12:31.680" style="s2">active à essayer si tu cherches à</p>
+<p begin="00:12:30.120" end="00:12:34.279" style="s2">remplacer le Linux de ton ordinateur</p>
+<p begin="00:12:31.680" end="00:12:36.279" style="s2">personnel pppy est une distribution très</p>
+<p begin="00:12:34.279" end="00:12:38.360" style="s2">légère fiable et facile d&#39;utilisation</p>
+<p begin="00:12:36.279" end="00:12:40.279" style="s2">disponible en live cd pour un usage</p>
+<p begin="00:12:38.360" end="00:12:41.760" style="s2">bureau généraliste le système peut être</p>
+<p begin="00:12:40.279" end="00:12:43.720" style="s2">chargé en RAM de manière à pouvoir</p>
+<p begin="00:12:41.760" end="00:12:45.880" style="s2">retirer la clé USB et optimiser les</p>
+<p begin="00:12:43.720" end="00:12:47.560" style="s2">performances il peut-être utilisé sur</p>
+<p begin="00:12:45.880" end="00:12:49.680" style="s2">une large gamme de matériel ancien et</p>
+<p begin="00:12:47.560" end="00:12:52.440" style="s2">modne pupy a généré pas mal de petits</p>
+<p begin="00:12:49.680" end="00:12:54.399" style="s2">qu&#39;on appelle des peuplettes SOS est une</p>
+<p begin="00:12:52.440" end="00:12:56.680" style="s2">distribution expérimentale récente assez</p>
+<p begin="00:12:54.399" end="00:12:58.560" style="s2">innovante elle exécute ses composants</p>
+<p begin="00:12:56.680" end="00:13:00.399" style="s2">dans des containurs isolés se charge en</p>
+<p begin="00:12:58.560" end="00:13:02.320" style="s2">RAM utilise un mode de mise à jour</p>
+<p begin="00:13:00.399" end="00:13:04.320" style="s2">atomique et plein d&#39;autres mécanismes</p>
+<p begin="00:13:02.320" end="00:13:05.800" style="s2">intéressants à découvrir sur son site</p>
+<p begin="00:13:04.320" end="00:13:08.279" style="s2">une solution plutôt destinée aux</p>
+<p begin="00:13:05.800" end="00:13:10.160" style="s2">utilisateurs Linux avancé enfin</p>
+<p begin="00:13:08.279" end="00:13:12.639" style="s2">terminons cette série avec Linux from</p>
+<p begin="00:13:10.160" end="00:13:14.639" style="s2">scratch ou LFS qui te propose non pas de</p>
+<p begin="00:13:12.639" end="00:13:16.240" style="s2">télécharger une image mais un livre qui</p>
+<p begin="00:13:14.639" end="00:13:18.040" style="s2">t&#39;explique comment construire un linux</p>
+<p begin="00:13:16.240" end="00:13:19.720" style="s2">manuellement de bout en bout pour te</p>
+<p begin="00:13:18.040" end="00:13:21.800" style="s2">faciliter la tâche la documentation</p>
+<p begin="00:13:19.720" end="00:13:24.000" style="s2">existe aussi en français une alternative</p>
+<p begin="00:13:21.800" end="00:13:25.680" style="s2">inaccessible au non informaticien</p>
+<p begin="00:13:24.000" end="00:13:27.920" style="s2">revenons un peu en arrière dans les</p>
+<p begin="00:13:25.680" end="00:13:30.199" style="s2">années 90 le système Unix a donné</p>
+<p begin="00:13:27.920" end="00:13:31.880" style="s2">naissance au système BSD ou Berkley</p>
+<p begin="00:13:30.199" end="00:13:33.399" style="s2">système distribution qui n&#39;avait</p>
+<p begin="00:13:31.880" end="00:13:35.399" style="s2">techniquement rien à env au tout nouveau</p>
+<p begin="00:13:33.399" end="00:13:37.279" style="s2">Linux de l&#39;époque et qui eux aussi ont</p>
+<p begin="00:13:35.399" end="00:13:39.040" style="s2">évolué jusqu&#39;à notre ère mais alors</p>
+<p begin="00:13:37.279" end="00:13:41.240" style="s2">pourquoi BSD n&#39;est-il pas plus connu</p>
+<p begin="00:13:39.040" end="00:13:43.079" style="s2">aujourd&#39;hui dans leur grande modestie</p>
+<p begin="00:13:41.240" end="00:13:44.320" style="s2">les développeurs BSD expliquent entre</p>
+<p begin="00:13:43.079" end="00:13:46.040" style="s2">autres qu&#39;ils portent plus souvent</p>
+<p begin="00:13:44.320" end="00:13:47.560" style="s2">d&#39;intérêt à l&#39;amélioration de leur code</p>
+<p begin="00:13:46.040" end="00:13:49.360" style="s2">qu&#39;à sa promotion et qu&#39;étant plus</p>
+<p begin="00:13:47.560" end="00:13:50.639" style="s2">expérimenté que les développeurs Linux</p>
+<p begin="00:13:49.360" end="00:13:52.199" style="s2">ils ressentent moins le besoin de</p>
+<p begin="00:13:50.639" end="00:13:54.440" style="s2">réaliser des systèmes plus simples à</p>
+<p begin="00:13:52.199" end="00:13:55.959" style="s2">utiliser tu es donc prévenu BSD c&#39;est</p>
+<p begin="00:13:54.440" end="00:13:57.480" style="s2">pas pour les lopettes dis-moi en</p>
+<p begin="00:13:55.959" end="00:13:59.639" style="s2">commentaire si un aperçu de ce monde</p>
+<p begin="00:13:57.480" end="00:14:02.040" style="s2">mystérieux t&#39;intéresse voici les quatre</p>
+<p begin="00:13:59.639" end="00:14:04.000" style="s2">distributions BSD phar free BSD est la</p>
+<p begin="00:14:02.040" end="00:14:06.040" style="s2">plus connue car elle occupe 80 % des</p>
+<p begin="00:14:04.000" end="00:14:07.880" style="s2">installations BSD certainement l&#39;un des</p>
+<p begin="00:14:06.040" end="00:14:09.880" style="s2">plus simples à utilisé fre BSD est</p>
+<p begin="00:14:07.880" end="00:14:11.440" style="s2">réputé stable et fiable en mode serveur</p>
+<p begin="00:14:09.880" end="00:14:12.800" style="s2">mais on peut aussi l&#39;utiliser pour du</p>
+<p begin="00:14:11.440" end="00:14:14.199" style="s2">bureau une expérience que j&#39;ai</p>
+<p begin="00:14:12.800" end="00:14:16.519" style="s2">personnellement tenté quelques années</p>
+<p begin="00:14:14.199" end="00:14:18.440" style="s2">durant tout comme gen tout les pquetages</p>
+<p begin="00:14:16.519" end="00:14:20.079" style="s2">ou port BSD s&#39;installent en compilant</p>
+<p begin="00:14:18.440" end="00:14:21.519" style="s2">les sources la plupart des programmes</p>
+<p begin="00:14:20.079" end="00:14:23.639" style="s2">qui tournent sous Linux peuvent y être</p>
+<p begin="00:14:21.519" end="00:14:25.560" style="s2">installés e fre BSD dispose même d&#39;un</p>
+<p begin="00:14:23.639" end="00:14:28.040" style="s2">installeur automatisé qui facilitera</p>
+<p begin="00:14:25.560" end="00:14:30.120" style="s2">cette tâche net BSD est quant à lui</p>
+<p begin="00:14:28.040" end="00:14:31.240" style="s2">spécialisé dans la portabilité il est</p>
+<p begin="00:14:30.120" end="00:14:32.959" style="s2">possible de l&#39;installer sur un très</p>
+<p begin="00:14:31.240" end="00:14:34.880" style="s2">grand nombre d&#39;architecture lui aussi</p>
+<p begin="00:14:32.959" end="00:14:36.839" style="s2">peut-être installé comme serveur ou avec</p>
+<p begin="00:14:34.880" end="00:14:38.360" style="s2">un environnement graphique NetBSD</p>
+<p begin="00:14:36.839" end="00:14:40.920" style="s2">s&#39;installe manuellement avec la</p>
+<p begin="00:14:38.360" end="00:14:42.560" style="s2">documentation le projet Open BSD est un</p>
+<p begin="00:14:40.920" end="00:14:44.720" style="s2">peu particulier il accorde une</p>
+<p begin="00:14:42.560" end="00:14:46.480" style="s2">importance maladive à la sécurité il est</p>
+<p begin="00:14:44.720" end="00:14:48.360" style="s2">en outre réputé pour la qualité de sa</p>
+<p begin="00:14:46.480" end="00:14:50.680" style="s2">documentation et son intransigence sur</p>
+<p begin="00:14:48.360" end="00:14:52.160" style="s2">la liberté du code source thodorade son</p>
+<p begin="00:14:50.680" end="00:14:53.839" style="s2">créateur talentueux mais dont la</p>
+<p begin="00:14:52.160" end="00:14:55.800" style="s2">personnalité rude et intransigente est</p>
+<p begin="00:14:53.839" end="00:14:58.240" style="s2">devenu légendaire est à l&#39;origine d&#39;Open</p>
+<p begin="00:14:55.800" end="00:15:00.199" style="s2">SSH et c-éveloppeur de net BSD il</p>
+<p begin="00:14:58.240" end="00:15:01.759" style="s2">déclare à propos du système linux je</p>
+<p begin="00:15:00.199" end="00:15:03.440" style="s2">cite c&#39;est terrible tout le monde</p>
+<p begin="00:15:01.759" end="00:15:05.959" style="s2">l&#39;utilise et il ne réalise pas à quel</p>
+<p begin="00:15:03.440" end="00:15:07.519" style="s2">point c&#39;est mauvais open BSD est classé</p>
+<p begin="00:15:05.959" end="00:15:08.759" style="s2">difficile pour les connaissan importante</p>
+<p begin="00:15:07.519" end="00:15:10.839" style="s2">que nécessite ce système pour le</p>
+<p begin="00:15:08.759" end="00:15:12.360" style="s2">maîtriser assurément un fantastique</p>
+<p begin="00:15:10.839" end="00:15:14.680" style="s2">terrain de jeu pour les passionnés</p>
+<p begin="00:15:12.360" end="00:15:17.320" style="s2">finissons enfin par Dragonfly BSD un</p>
+<p begin="00:15:14.680" end="00:15:19.079" style="s2">outsider génial né d&#39;un forc de Free BSD</p>
+<p begin="00:15:17.320" end="00:15:20.519" style="s2">en 2003 il propose de nombreuses</p>
+<p begin="00:15:19.079" end="00:15:23.199" style="s2">améliorations parmi lesquelles une</p>
+<p begin="00:15:20.519" end="00:15:25.519" style="s2">réimplémentation du SMP et des mécanisme</p>
+<p begin="00:15:23.199" end="00:15:27.519" style="s2">multiread son système de fichier Hammer</p>
+<p begin="00:15:25.519" end="00:15:29.880" style="s2">à base de B arbre supporte nativement</p>
+<p begin="00:15:27.519" end="00:15:31.680" style="s2">les snapshots et la DD application et de</p>
+<p begin="00:15:29.880" end="00:15:33.560" style="s2">nombreuses autres optimisations font de</p>
+<p begin="00:15:31.680" end="00:15:35.560" style="s2">ce système un choix performant et fiable</p>
+<p begin="00:15:33.560" end="00:15:37.519" style="s2">pour serveur et bureaux comme tu peux le</p>
+<p begin="00:15:35.560" end="00:15:39.240" style="s2">voir le monde des distribution est vaste</p>
+<p begin="00:15:37.519" end="00:15:41.000" style="s2">j&#39;espère que ce petit aperçu t&#39;aidera à</p>
+<p begin="00:15:39.240" end="00:15:42.560" style="s2">y voir plus clair n&#39;hésite pas à poser</p>
+<p begin="00:15:41.000" end="00:15:43.959" style="s2">des questions ou à nous parler de ta</p>
+<p begin="00:15:42.560" end="00:15:45.160" style="s2">distribution dans les commentaires</p>
+<p begin="00:15:43.959" end="00:15:47.720" style="s2">surtout si elle n&#39;est pas dans cette</p>
+<p begin="00:15:45.160" end="00:15:50.720" style="s2">liste bonne continuation et à très</p>
+<p begin="00:15:47.720" end="00:15:50.720" style="s2">bientôt</p>
+</div>
+</body>
+</tt>

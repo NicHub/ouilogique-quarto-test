@@ -1,0 +1,2000 @@
+1
+00:00:00,440 --> 00:00:03,719
+salut quelle est la meilleure
+
+2
+00:00:01,680 --> 00:00:05,520
+distribution Linux bonne question les
+
+3
+00:00:03,719 --> 00:00:07,439
+vidéos de tierl sur ce sujet se
+
+4
+00:00:05,520 --> 00:00:09,559
+multiplient on y voit souvent cinq
+
+5
+00:00:07,439 --> 00:00:11,280
+lignes de mauvais à fantastique et des
+
+6
+00:00:09,559 --> 00:00:13,200
+icônes de distribution qui viennent s'y
+
+7
+00:00:11,280 --> 00:00:14,879
+pluguer les notes attribuées dépendent
+
+8
+00:00:13,200 --> 00:00:16,640
+souvent de l'expérience de l'auteur mais
+
+9
+00:00:14,879 --> 00:00:18,520
+aussi de la pertinence de chaque modèle
+
+10
+00:00:16,640 --> 00:00:20,119
+pour une utilisation donnée ici nous
+
+11
+00:00:18,520 --> 00:00:21,760
+allons voir les choses différemment
+
+12
+00:00:20,119 --> 00:00:23,439
+chaque distribution a été créée avec
+
+13
+00:00:21,760 --> 00:00:25,400
+pour objectif soit de proposer un
+
+14
+00:00:23,439 --> 00:00:27,000
+système complet soit d'améliorer quelque
+
+15
+00:00:25,400 --> 00:00:28,760
+chose comme par exemple la facilité
+
+16
+00:00:27,000 --> 00:00:30,679
+d'utilisation ou encore de se
+
+17
+00:00:28,760 --> 00:00:32,360
+spécialiser pour un usage données nous
+
+18
+00:00:30,679 --> 00:00:33,879
+allons donc tenter de ranger nos Linux
+
+19
+00:00:32,360 --> 00:00:35,840
+en fonction de leurs caractéristiques et
+
+20
+00:00:33,879 --> 00:00:37,399
+objectifs à toi de sélectionner là ou
+
+21
+00:00:35,840 --> 00:00:39,600
+les distributions qui te conviennent en
+
+22
+00:00:37,399 --> 00:00:40,800
+connaissance de cause on se concentrera
+
+23
+00:00:39,600 --> 00:00:42,280
+ici sur quelques spécimennes
+
+24
+00:00:40,800 --> 00:00:43,920
+remarquables bien qu'il existe des
+
+25
+00:00:42,280 --> 00:00:46,039
+centaines de distributions que tu peux
+
+26
+00:00:43,920 --> 00:00:48,000
+découvrir sur distro watch parmi cette
+
+27
+00:00:46,039 --> 00:00:50,199
+sélection je te réserve en fin de vidéo
+
+28
+00:00:48,000 --> 00:00:52,079
+quelques spécimenses bien gratinés sur
+
+29
+00:00:50,199 --> 00:00:54,440
+l'axe vertical nous allons y mettre
+
+30
+00:00:52,079 --> 00:00:55,960
+l'usage en bas les distribution accxé
+
+31
+00:00:54,440 --> 00:00:58,320
+sur la bureautique le gaming le
+
+32
+00:00:55,960 --> 00:01:00,640
+multimédia le loisir et les utilisations
+
+33
+00:00:58,320 --> 00:01:02,440
+générales et en haut on retrouvera au
+
+34
+00:01:00,640 --> 00:01:04,559
+contraire les Linux spécialisés pour les
+
+35
+00:01:02,440 --> 00:01:05,799
+serveurs machines virtuelles et autres
+
+36
+00:01:04,559 --> 00:01:08,040
+opérations qui nécessitent des
+
+37
+00:01:05,799 --> 00:01:09,880
+compétences en administration système
+
+38
+00:01:08,040 --> 00:01:11,720
+sur l'axe horizontal la facilité
+
+39
+00:01:09,880 --> 00:01:13,400
+d'installation et de maintenance à
+
+40
+00:01:11,720 --> 00:01:15,159
+gauche les systèmes avec des installeurs
+
+41
+00:01:13,400 --> 00:01:17,280
+conviviaux et des logiciels faciles
+
+42
+00:01:15,159 --> 00:01:18,680
+d'utilisation à droite ce qui nécessite
+
+43
+00:01:17,280 --> 00:01:20,880
+une solide connaissance des systèmes
+
+44
+00:01:18,680 --> 00:01:22,360
+Unix et Linux commençons par les
+
+45
+00:01:20,880 --> 00:01:24,079
+distributions mères qui ont souvent de
+
+46
+00:01:22,360 --> 00:01:25,840
+nombreuses filles à leur actifs en
+
+47
+00:01:24,079 --> 00:01:27,880
+premier lieu Slackware qui est la plus
+
+48
+00:01:25,840 --> 00:01:29,439
+ancienne distribution encore en activité
+
+49
+00:01:27,880 --> 00:01:31,200
+elle a pour particularité d'avoir été
+
+50
+00:01:29,439 --> 00:01:33,439
+développé par une seule personne pendant
+
+51
+00:01:31,200 --> 00:01:35,840
+des années Patrick volkerling qui l'a
+
+52
+00:01:33,439 --> 00:01:38,479
+créé en 1992 et accepté l'aide de
+
+53
+00:01:35,840 --> 00:01:40,280
+contributeur sur le tard légère rapide
+
+54
+00:01:38,479 --> 00:01:42,240
+sans furiture avec une installation
+
+55
+00:01:40,280 --> 00:01:44,000
+semigraphique à la BSD elle est
+
+56
+00:01:42,240 --> 00:01:46,520
+généraliste mais plutôt réservée à des
+
+57
+00:01:44,000 --> 00:01:48,640
+initiés Debian au contraire se distingue
+
+58
+00:01:46,520 --> 00:01:51,119
+par son mode de gouvernance coopératif
+
+59
+00:01:48,640 --> 00:01:52,680
+sorti en 1996 il s'agit de la
+
+60
+00:01:51,119 --> 00:01:54,600
+distribution ayant généré le plus de
+
+61
+00:01:52,680 --> 00:01:56,000
+petits encore massivement utilisée
+
+62
+00:01:54,600 --> 00:01:57,799
+aujourd'hui elle est parfaite pour
+
+63
+00:01:56,000 --> 00:01:59,680
+monter un serveur et aussi un bon choix
+
+64
+00:01:57,799 --> 00:02:01,520
+pour une utilisation bureau elle mise
+
+65
+00:01:59,680 --> 00:02:03,399
+sur sur la stabilité et l'utilisation de
+
+66
+00:02:01,520 --> 00:02:05,439
+logiciel libre pour chaque logiciel
+
+67
+00:02:03,399 --> 00:02:07,000
+Debian propose une version testée et
+
+68
+00:02:05,439 --> 00:02:09,239
+approuvée qui n'est en général pas la
+
+69
+00:02:07,000 --> 00:02:10,879
+toute dernière redat est liée au monde
+
+70
+00:02:09,239 --> 00:02:12,440
+de l'entreprise depuis ses débuts en
+
+71
+00:02:10,879 --> 00:02:14,160
+1994
+
+72
+00:02:12,440 --> 00:02:16,440
+elle est aujourd'hui un acteur majeur du
+
+73
+00:02:14,160 --> 00:02:18,239
+monde professionnel on utilise surtout
+
+74
+00:02:16,440 --> 00:02:20,840
+cette distribution pour du serveur mais
+
+75
+00:02:18,239 --> 00:02:22,440
+aussi pour du bureau je tout réservé à
+
+76
+00:02:20,840 --> 00:02:24,280
+des utilisateurs avertis est une
+
+77
+00:02:22,440 --> 00:02:26,400
+distribution dite source qu'il faut
+
+78
+00:02:24,280 --> 00:02:28,599
+avoir la patience de compiler modulaire
+
+79
+00:02:26,400 --> 00:02:31,000
+et portable son créateur Daniel Robbins
+
+80
+00:02:28,599 --> 00:02:32,760
+voulait lors de sa création en 2002 une
+
+81
+00:02:31,000 --> 00:02:35,120
+solution optimisée pour son matériel
+
+82
+00:02:32,760 --> 00:02:37,120
+sans programme superflu une alternative
+
+83
+00:02:35,120 --> 00:02:39,000
+réservée aux informaticiens dans la même
+
+84
+00:02:37,120 --> 00:02:41,080
+veine arche Linux met l'accent sur la
+
+85
+00:02:39,000 --> 00:02:42,319
+simplicité selon le principe Kiss
+
+86
+00:02:41,080 --> 00:02:43,800
+l'installation se fait avec des
+
+87
+00:02:42,319 --> 00:02:45,440
+pactetages précompilés pour gagner du
+
+88
+00:02:43,800 --> 00:02:47,720
+temps souvent dans leur dernière version
+
+89
+00:02:45,440 --> 00:02:50,560
+stable cette distribution se concentre
+
+90
+00:02:47,720 --> 00:02:52,120
+exclusivement sur l'architecture x8664
+
+91
+00:02:50,560 --> 00:02:53,480
+arche est en rolling release
+
+92
+00:02:52,120 --> 00:02:55,640
+c'est-à-dire sans versions majeur qui
+
+93
+00:02:53,480 --> 00:02:57,040
+nécessite des mises à niveau importantes
+
+94
+00:02:55,640 --> 00:02:58,080
+une solution parfaite pour la veille
+
+95
+00:02:57,040 --> 00:02:59,760
+technologique et les passionnés
+
+96
+00:02:58,080 --> 00:03:01,760
+d'informatique dont vous trouverez quel
+
+97
+00:02:59,760 --> 00:03:03,400
+quelques vidéos sur cette chaîne SX
+
+98
+00:03:01,760 --> 00:03:05,599
+qu'AMB bon francophone j'avoue plutôt
+
+99
+00:03:03,400 --> 00:03:08,360
+appelé Suze est une distribution apparue
+
+100
+00:03:05,599 --> 00:03:10,000
+début 94 en Allemagne elle est destinée
+
+101
+00:03:08,360 --> 00:03:12,280
+aux entreprises dans un premier temps en
+
+102
+00:03:10,000 --> 00:03:13,959
+2005 le projet communautire Open sous eu
+
+103
+00:03:12,280 --> 00:03:16,200
+fait son apparition et aujourd'hui il
+
+104
+00:03:13,959 --> 00:03:17,799
+s'agit d'une distribution majeure facile
+
+105
+00:03:16,200 --> 00:03:20,040
+à installer et à gérer grâce à son
+
+106
+00:03:17,799 --> 00:03:21,560
+configurateur YaST elle a été très tôt
+
+107
+00:03:20,040 --> 00:03:23,440
+une solution conviviale de choix dans le
+
+108
+00:03:21,560 --> 00:03:25,319
+monde des Linux revenons à la
+
+109
+00:03:23,440 --> 00:03:27,480
+distribution d'bian et concentrons-nous
+
+110
+00:03:25,319 --> 00:03:29,159
+sur ces filles MX Linux est une
+
+111
+00:03:27,480 --> 00:03:30,640
+distribution qui a le vent en poupe
+
+112
+00:03:29,159 --> 00:03:32,840
+basée sur sur des bien stables et
+
+113
+00:03:30,640 --> 00:03:34,519
+inspirés d'anti qu'on abordera plus tard
+
+114
+00:03:32,840 --> 00:03:36,040
+son objectif est de combiner un bureau
+
+115
+00:03:34,519 --> 00:03:37,879
+élégant et efficace avec une
+
+116
+00:03:36,040 --> 00:03:40,000
+configuration simple et une grande
+
+117
+00:03:37,879 --> 00:03:41,640
+stabilité MX Linux est une bonne
+
+118
+00:03:40,000 --> 00:03:44,360
+alternative si tu veux rapidement un
+
+119
+00:03:41,640 --> 00:03:45,760
+système fonctionnel préconfiguré devua a
+
+120
+00:03:44,360 --> 00:03:47,840
+vu le jour suite au remplacement du
+
+121
+00:03:45,760 --> 00:03:49,760
+démon d'initialisation init par système
+
+122
+00:03:47,840 --> 00:03:51,720
+D dans Debian il s'agit d'un for de
+
+123
+00:03:49,760 --> 00:03:53,560
+Debian sans système D qui intéressera
+
+124
+00:03:51,720 --> 00:03:56,040
+surtout les initiés habitués au système
+
+125
+00:03:53,560 --> 00:03:58,079
+d'initialisation historique Cali Linux
+
+126
+00:03:56,040 --> 00:04:00,159
+est depuis 2013 le successeur de
+
+127
+00:03:58,079 --> 00:04:02,079
+Backtrack une distribution comportant de
+
+128
+00:04:00,159 --> 00:04:04,079
+nombreux outils de sécurité et de tests
+
+129
+00:04:02,079 --> 00:04:05,959
+d'intrusion pré-installés mais aussi un
+
+130
+00:04:04,079 --> 00:04:07,640
+noyau modifié pour être moins vulnérable
+
+131
+00:04:05,959 --> 00:04:09,920
+aux attaques et des paquets Pen test
+
+132
+00:04:07,640 --> 00:04:12,239
+tuné à réserver donc aux amateurs de ce
+
+133
+00:04:09,920 --> 00:04:14,040
+type d'activité raspberry posos
+
+134
+00:04:12,239 --> 00:04:15,879
+anciennement nommé raspbian est une
+
+135
+00:04:14,040 --> 00:04:17,479
+desbian modifiée pour être 100%
+
+136
+00:04:15,879 --> 00:04:19,519
+compatible avec les puces ARM qu'on
+
+137
+00:04:17,479 --> 00:04:21,479
+retrouve dans les Raspberry P il propose
+
+138
+00:04:19,519 --> 00:04:23,400
+entre autres l'outil raspp config dédié
+
+139
+00:04:21,479 --> 00:04:25,440
+à ce type d'ordinateur un excellent
+
+140
+00:04:23,400 --> 00:04:27,160
+choix pour commencer avec raspberry que
+
+141
+00:04:25,440 --> 00:04:30,000
+ce soit pour une utilisation serveur ou
+
+142
+00:04:27,160 --> 00:04:31,919
+bureau etemabunus à l'origine basé sur
+
+143
+00:04:30,000 --> 00:04:33,160
+Ubuntu et maintenant sur Debian a pour
+
+144
+00:04:31,919 --> 00:04:34,759
+objectif le reconditionnement
+
+145
+00:04:33,160 --> 00:04:36,639
+d'ordinateur cette distribution
+
+146
+00:04:34,759 --> 00:04:38,680
+d'initiative française peut s'installer
+
+147
+00:04:36,639 --> 00:04:40,639
+sans accès internet sur du matériel
+
+148
+00:04:38,680 --> 00:04:42,520
+ancien avec des configurations pour des
+
+149
+00:04:40,639 --> 00:04:44,919
+types d'utilisateur prédéfinis dont
+
+150
+00:04:42,520 --> 00:04:46,800
+enfant ou grand débutants un bon choix
+
+151
+00:04:44,919 --> 00:04:49,039
+pour découvrir Linux en douceur sur une
+
+152
+00:04:46,800 --> 00:04:50,720
+machine secondaire steam OS est la
+
+153
+00:04:49,039 --> 00:04:52,320
+distribution de la société valve à
+
+154
+00:04:50,720 --> 00:04:54,120
+l'origine de la plateforme de jeux vidéo
+
+155
+00:04:52,320 --> 00:04:55,759
+steam une initiative plutôt bien
+
+156
+00:04:54,120 --> 00:04:58,240
+accueillie par les adeptes du jeu vidéo
+
+157
+00:04:55,759 --> 00:04:59,600
+sous Linux cependant depuis la version 3
+
+158
+00:04:58,240 --> 00:05:01,360
+la distribution est uniquement
+
+159
+00:04:59,600 --> 00:05:03,919
+disponible sur la console steam Deck et
+
+160
+00:05:01,360 --> 00:05:05,160
+se base désormais sur Arch Linux Antix
+
+161
+00:05:03,919 --> 00:05:07,280
+est aussi une distribution basée sur
+
+162
+00:05:05,160 --> 00:05:09,320
+Debian peu consommatrice en ressources
+
+163
+00:05:07,280 --> 00:05:10,759
+et adapté aux vieux ordinateurs les
+
+164
+00:05:09,320 --> 00:05:12,759
+logiciels par défaut sont choisis pour
+
+165
+00:05:10,759 --> 00:05:14,280
+leur faible consommation de RAM un bon
+
+166
+00:05:12,759 --> 00:05:16,600
+choix pour une utilisation bureau ou
+
+167
+00:05:14,280 --> 00:05:18,600
+dans une moindre mesure serveur tiles
+
+168
+00:05:16,600 --> 00:05:20,240
+est une initiative intéressante petit
+
+169
+00:05:18,600 --> 00:05:21,840
+système portable à promener sur un média
+
+170
+00:05:20,240 --> 00:05:23,840
+amovible il protège contre la
+
+171
+00:05:21,840 --> 00:05:25,319
+surveillance et la censure cette boîte à
+
+172
+00:05:23,840 --> 00:05:27,280
+outils numérique est à destination des
+
+173
+00:05:25,319 --> 00:05:29,639
+journalistes et des voyageurs mais aussi
+
+174
+00:05:27,280 --> 00:05:30,880
+des activistes et personnes en danger
+
+175
+00:05:29,639 --> 00:05:32,720
+est conçu pour fonctionner facilement
+
+176
+00:05:30,880 --> 00:05:35,639
+sur n'importe quel ordinateur moderne
+
+177
+00:05:32,720 --> 00:05:38,000
+sans toucher au disque dur grml ce petit
+
+178
+00:05:35,639 --> 00:05:39,600
+outsider est aussi un système live qui
+
+179
+00:05:38,000 --> 00:05:40,720
+inclut des outils spécifiques cette
+
+180
+00:05:39,600 --> 00:05:42,520
+fois-ci à destination des
+
+181
+00:05:40,720 --> 00:05:45,080
+administrateurs système via une
+
+182
+00:05:42,520 --> 00:05:46,840
+interface graphique minimale Fluxbox un
+
+183
+00:05:45,080 --> 00:05:48,800
+os utile à avoir sur une clé pour des
+
+184
+00:05:46,840 --> 00:05:51,479
+opérations d'installation réparation et
+
+185
+00:05:48,800 --> 00:05:53,360
+audit plutôt réservé au connaisseurs on
+
+186
+00:05:51,479 --> 00:05:55,440
+ne présente plus auubuntu ce système
+
+187
+00:05:53,360 --> 00:05:57,160
+convivial basé sur Debian s'il est
+
+188
+00:05:55,440 --> 00:05:58,800
+aujourd'hui très concurrencé il a eu son
+
+189
+00:05:57,160 --> 00:06:00,919
+heure de gloire et se porte encore très
+
+190
+00:05:58,800 --> 00:06:02,240
+bien utilisable pour du serveur comme
+
+191
+00:06:00,919 --> 00:06:04,280
+pour du bureau avec plusieurs
+
+192
+00:06:02,240 --> 00:06:06,479
+déclinaisons il reste un bon choix en
+
+193
+00:06:04,280 --> 00:06:07,960
+particulier pour les débutants lui aussi
+
+194
+00:06:06,479 --> 00:06:09,759
+commence à avoir un nombre important de
+
+195
+00:06:07,960 --> 00:06:11,800
+distribution fille don voici quelques
+
+196
+00:06:09,759 --> 00:06:13,520
+exemples commençons par zorine une
+
+197
+00:06:11,800 --> 00:06:15,720
+proposition irlandaise qui se veut une
+
+198
+00:06:13,520 --> 00:06:17,319
+alternative à Windows et Mac OS ce
+
+199
+00:06:15,720 --> 00:06:19,160
+système tentera d'automatiser et
+
+200
+00:06:17,319 --> 00:06:21,080
+optimiser un maximum la configuration
+
+201
+00:06:19,160 --> 00:06:23,039
+matérielle il installera un système
+
+202
+00:06:21,080 --> 00:06:24,759
+prête à l'emploi et sécurisé pour tous
+
+203
+00:06:23,039 --> 00:06:26,479
+une déclinaison payante propose des
+
+204
+00:06:24,759 --> 00:06:28,800
+couches de personnalisation d'interface
+
+205
+00:06:26,479 --> 00:06:31,759
+et de productivité un bon choix pour les
+
+206
+00:06:28,800 --> 00:06:33,120
+non informat I et les gamers Linux Mint
+
+207
+00:06:31,759 --> 00:06:34,599
+est une des distributions les plus
+
+208
+00:06:33,120 --> 00:06:36,639
+appréciées par ceux qui veulent un
+
+209
+00:06:34,599 --> 00:06:38,800
+système stable moderne élégant et
+
+210
+00:06:36,639 --> 00:06:40,960
+confortable selon son créateur français
+
+211
+00:06:38,800 --> 00:06:42,639
+Clément Lefèvre je cite l'ordinateur
+
+212
+00:06:40,960 --> 00:06:44,120
+devient un équipement ménager et son
+
+213
+00:06:42,639 --> 00:06:46,160
+esthétique doit suivre la tendance du
+
+214
+00:06:44,120 --> 00:06:47,400
+moment si tu veux un Linux qui marche
+
+215
+00:06:46,160 --> 00:06:49,759
+sans pour autant passer du temps à le
+
+216
+00:06:47,400 --> 00:06:52,160
+tuner Mint te ravira y compris si tu
+
+217
+00:06:49,759 --> 00:06:54,199
+débutes dans le monde Linux elementary
+
+218
+00:06:52,160 --> 00:06:56,319
+OS est un dérivé d'Ubuntu qui propose
+
+219
+00:06:54,199 --> 00:06:57,960
+une interface graphique proche de Mac OS
+
+220
+00:06:56,319 --> 00:06:59,800
+cette distribution a pour philosophie
+
+221
+00:06:57,960 --> 00:07:01,400
+d'améliorer l'esthétique la cohérence
+
+222
+00:06:59,800 --> 00:07:03,440
+logicielle et limiter le besoin
+
+223
+00:07:01,400 --> 00:07:05,319
+d'utiliser la console à l'origine le
+
+224
+00:07:03,440 --> 00:07:06,960
+pack d'icône elementar rencontre un
+
+225
+00:07:05,319 --> 00:07:09,400
+grand succès pour finalement s'intégrer
+
+226
+00:07:06,960 --> 00:07:11,520
+dans ce système dédié pop OS est un
+
+227
+00:07:09,400 --> 00:07:13,199
+système récent populaire conçu et
+
+228
+00:07:11,520 --> 00:07:15,840
+maintenu par le fabricant d'ordinateur
+
+229
+00:07:13,199 --> 00:07:17,280
+système 76 la distribution est réputé
+
+230
+00:07:15,840 --> 00:07:19,960
+pour être facile à configurer pour les
+
+231
+00:07:17,280 --> 00:07:21,800
+jeux elle intègre le support des GPU AMD
+
+232
+00:07:19,960 --> 00:07:23,840
+Nvidia un chiffrement du disque par
+
+233
+00:07:21,800 --> 00:07:25,599
+défaut une préconfiguration spécifique
+
+234
+00:07:23,840 --> 00:07:27,720
+et une interface épurée pour optimiser
+
+235
+00:07:25,599 --> 00:07:29,680
+le travail à conseiller donc pour une
+
+236
+00:07:27,720 --> 00:07:32,120
+installation bureau sur des ordinate
+
+237
+00:07:29,680 --> 00:07:34,319
+récent Linux Lite dernière distribution
+
+238
+00:07:32,120 --> 00:07:36,280
+basée sur Ubuntu dans ce comparatif est
+
+239
+00:07:34,319 --> 00:07:38,599
+optimisée pour les débutants avec comme
+
+240
+00:07:36,280 --> 00:07:40,960
+son nom l'indique un système léger basé
+
+241
+00:07:38,599 --> 00:07:42,360
+sur l'environnement Xfce un bon choix
+
+242
+00:07:40,960 --> 00:07:44,000
+pour les utilisateurs de Windows qui
+
+243
+00:07:42,360 --> 00:07:45,639
+veulent passer à Linux pour des besoins
+
+244
+00:07:44,000 --> 00:07:47,479
+bureautiques et médias passons
+
+245
+00:07:45,639 --> 00:07:49,720
+maintenant à deux distributions issues
+
+246
+00:07:47,479 --> 00:07:51,400
+de la team redat Fedora est un projet
+
+247
+00:07:49,720 --> 00:07:53,800
+libre et communautaire officiellement
+
+248
+00:07:51,400 --> 00:07:55,599
+supporté et sponsorisé par redat une
+
+249
+00:07:53,800 --> 00:07:57,520
+distribution historique qui met le focus
+
+250
+00:07:55,599 --> 00:07:59,599
+sur l'innovation et connaît un succès
+
+251
+00:07:57,520 --> 00:08:01,440
+toujours plus important un choix ant
+
+252
+00:07:59,599 --> 00:08:03,360
+pour ceux qui utilisent redat au travail
+
+253
+00:08:01,440 --> 00:08:04,919
+Nobara est une version modifiée de
+
+254
+00:08:03,360 --> 00:08:06,879
+Fedora qui connaît aussi un succès
+
+255
+00:08:04,919 --> 00:08:08,639
+grandissant elle propose notamment des
+
+256
+00:08:06,879 --> 00:08:10,199
+fonctionnalités complémentaires et des
+
+257
+00:08:08,639 --> 00:08:12,319
+corrections pour améliorer l'expérience
+
+258
+00:08:10,199 --> 00:08:14,680
+jeux et multimédia et aussi de jeolis
+
+259
+00:08:12,319 --> 00:08:16,199
+thè préinstallés pour gnom et KDE gen
+
+260
+00:08:14,680 --> 00:08:18,479
+tout connaît aussi quelques petits en
+
+261
+00:08:16,199 --> 00:08:20,360
+voici deux calculate dispose de deux
+
+262
+00:08:18,479 --> 00:08:21,800
+variantes serveur et bureau la
+
+263
+00:08:20,360 --> 00:08:24,000
+distribution simplifie l'installation
+
+264
+00:08:21,800 --> 00:08:26,159
+d'une gen to propose un calculate
+
+265
+00:08:24,000 --> 00:08:28,120
+Directory Server destiné à gérer des
+
+266
+00:08:26,159 --> 00:08:31,240
+utilisateurs avec des fonctionnalités et
+
+267
+00:08:28,120 --> 00:08:33,440
+protocoles liés mail eldap SBA Jaber et
+
+268
+00:08:31,240 --> 00:08:35,719
+cetera selon ses admirateurs avec
+
+269
+00:08:33,440 --> 00:08:37,519
+calculate tout fonctionne très bien une
+
+270
+00:08:35,719 --> 00:08:39,519
+bonne alternative pour les connaisseurs
+
+271
+00:08:37,519 --> 00:08:41,000
+enfin systemme Rescue est un système
+
+272
+00:08:39,519 --> 00:08:43,240
+live massivement utilisé pour la
+
+273
+00:08:41,000 --> 00:08:44,440
+résolution de problèmes techniques j'ai
+
+274
+00:08:43,240 --> 00:08:46,040
+personnellement toujours un petit
+
+275
+00:08:44,440 --> 00:08:47,560
+système rescue sur moi pour toutes
+
+276
+00:08:46,040 --> 00:08:49,680
+sortes de manipulations ponctuelles sur
+
+277
+00:08:47,560 --> 00:08:51,760
+mes disques et autres systèmes passons
+
+278
+00:08:49,680 --> 00:08:53,240
+aux enfants de arche Linux pour rappel
+
+279
+00:08:51,760 --> 00:08:54,959
+les logiciels arche sont souvent très
+
+280
+00:08:53,240 --> 00:08:57,080
+récent il propose des fonctionnalités
+
+281
+00:08:54,959 --> 00:08:58,560
+avant les autres Linux cela peut générer
+
+282
+00:08:57,080 --> 00:09:00,240
+des instabilités qui affectent les
+
+283
+00:08:58,560 --> 00:09:01,839
+distributions qui se base sur ses dépôts
+
+284
+00:09:00,240 --> 00:09:03,839
+logiciels un dysfonctionnement
+
+285
+00:09:01,839 --> 00:09:05,160
+applicatif est souvent temporaire et ne
+
+286
+00:09:03,839 --> 00:09:07,399
+signifie pas que votre système est
+
+287
+00:09:05,160 --> 00:09:09,200
+instable manjaro est la plus connu des
+
+288
+00:09:07,399 --> 00:09:10,560
+distributions issues de arche elle
+
+289
+00:09:09,200 --> 00:09:12,440
+propose une installation graphique
+
+290
+00:09:10,560 --> 00:09:14,399
+simplifiée une interface travaillée et
+
+291
+00:09:12,440 --> 00:09:16,279
+une préconfiguration complète du système
+
+292
+00:09:14,399 --> 00:09:18,040
+un travail réussi pour un résultat beau
+
+293
+00:09:16,279 --> 00:09:20,200
+et performant jusqu'à l'interpréteur de
+
+294
+00:09:18,040 --> 00:09:21,360
+commande zsh un système qui m'a
+
+295
+00:09:20,200 --> 00:09:23,480
+personnellement donné entière
+
+296
+00:09:21,360 --> 00:09:25,800
+satisfaction à utiliser en desktop ou en
+
+297
+00:09:23,480 --> 00:09:27,680
+serveur big Linux est une surcouche
+
+298
+00:09:25,800 --> 00:09:29,800
+brésilienne à manjaro qui clame sa
+
+299
+00:09:27,680 --> 00:09:31,560
+facilité d'utilisation une distribution
+
+300
+00:09:29,800 --> 00:09:33,360
+prête à l'emploi très appréciée de ses
+
+301
+00:09:31,560 --> 00:09:35,360
+utilisateurs à l'origine basée sur
+
+302
+00:09:33,360 --> 00:09:38,200
+Kubuntu et dipin elle a switché sur
+
+303
+00:09:35,360 --> 00:09:40,120
+manjaro en 2021 elle est destinée à tous
+
+304
+00:09:38,200 --> 00:09:42,320
+les utilisateurs y compris débutants
+
+305
+00:09:40,120 --> 00:09:44,320
+pour une utilisation bureau arti est à
+
+306
+00:09:42,320 --> 00:09:45,720
+arche ce que devuan est à Debian une
+
+307
+00:09:44,320 --> 00:09:47,640
+distribution sans système D à
+
+308
+00:09:45,720 --> 00:09:49,640
+l'initialisation mais aussi un système
+
+309
+00:09:47,640 --> 00:09:51,519
+convivial inspiré de manjaro qui connaît
+
+310
+00:09:49,640 --> 00:09:53,519
+un succès significatif et de très bons
+
+311
+00:09:51,519 --> 00:09:55,480
+avis elle se décline en plusieurs
+
+312
+00:09:53,519 --> 00:09:56,800
+éditions avec des bureaux différents ou
+
+313
+00:09:55,480 --> 00:09:59,440
+une version ligne de commande pour les
+
+314
+00:09:56,800 --> 00:10:01,440
+serveurs Chios est un système basé sur
+
+315
+00:09:59,440 --> 00:10:02,959
+arche d'initiative allemande qui se
+
+316
+00:10:01,440 --> 00:10:05,320
+concentre sur les optimisations de
+
+317
+00:10:02,959 --> 00:10:06,839
+performance et de sécurité son noyau est
+
+318
+00:10:05,320 --> 00:10:08,959
+optimisé pour donner la priorité aux
+
+319
+00:10:06,839 --> 00:10:10,160
+tâche nécessitant une grande réactivité
+
+320
+00:10:08,959 --> 00:10:12,200
+en particulier les actions de
+
+321
+00:10:10,160 --> 00:10:14,880
+l'utilisateur donc réseré aux gens qui
+
+322
+00:10:12,200 --> 00:10:16,680
+veulent un bureau réactif and avouros
+
+323
+00:10:14,880 --> 00:10:18,600
+est une distribution arche qui a le vent
+
+324
+00:10:16,680 --> 00:10:20,440
+en poupe elle simplifie l'installation
+
+325
+00:10:18,600 --> 00:10:22,000
+propose des environnements préconfigurés
+
+326
+00:10:20,440 --> 00:10:24,360
+et une installation sans internet avec
+
+327
+00:10:22,000 --> 00:10:26,320
+l'environnement Xfce mais aussi une
+
+328
+00:10:24,360 --> 00:10:28,440
+compatibilité avec les processeurs ARM
+
+329
+00:10:26,320 --> 00:10:30,240
+et des drivers nvidia préconfigurés
+
+330
+00:10:28,440 --> 00:10:31,600
+enfin Garuda est une distribution
+
+331
+00:10:30,240 --> 00:10:33,720
+indienne dont l'utilisation est
+
+332
+00:10:31,600 --> 00:10:35,360
+simplifiée orienté performance elle
+
+333
+00:10:33,720 --> 00:10:36,800
+propose quelques améliorations telles
+
+334
+00:10:35,360 --> 00:10:39,360
+qu'une optimisation de la gouvernance
+
+335
+00:10:36,800 --> 00:10:41,000
+CPU et l'utilisation de zram leurs
+
+336
+00:10:39,360 --> 00:10:43,279
+utilisateurs aiment aussi son apparence
+
+337
+00:10:41,000 --> 00:10:45,120
+colorée passons aux distributions from
+
+338
+00:10:43,279 --> 00:10:46,440
+scratch elles sont très intéressantes
+
+339
+00:10:45,120 --> 00:10:47,800
+car on va bien au-delà d'une
+
+340
+00:10:46,440 --> 00:10:49,839
+amélioration d'une distribution
+
+341
+00:10:47,800 --> 00:10:51,560
+existante ici il s'agit d'une
+
+342
+00:10:49,839 --> 00:10:54,079
+construction complète d'un système Linux
+
+343
+00:10:51,560 --> 00:10:56,000
+pour un objectif donné nyxos est sans
+
+344
+00:10:54,079 --> 00:10:57,800
+aucun doute une distribution d'avenir
+
+345
+00:10:56,000 --> 00:10:59,600
+son mécanisme innovant de configuration
+
+346
+00:10:57,800 --> 00:11:01,959
+déclarative basé sur un un véritable
+
+347
+00:10:59,600 --> 00:11:03,920
+langage sa politique imuable 100 %
+
+348
+00:11:01,959 --> 00:11:05,560
+reproductible et le mode de stockage
+
+349
+00:11:03,920 --> 00:11:07,320
+indépendant de ces paquets en font un
+
+350
+00:11:05,560 --> 00:11:09,240
+système unique incontestablement
+
+351
+00:11:07,320 --> 00:11:10,680
+innovant qui opère un bouleversement
+
+352
+00:11:09,240 --> 00:11:12,600
+profond de l'organisation et de la
+
+353
+00:11:10,680 --> 00:11:14,440
+gestion du système à l'origine
+
+354
+00:11:12,600 --> 00:11:16,120
+expérimentale nous disposons aujourd'hui
+
+355
+00:11:14,440 --> 00:11:17,600
+d'une solution complètement fiable qui
+
+356
+00:11:16,120 --> 00:11:18,800
+permet par exemple d'avoir la même
+
+357
+00:11:17,600 --> 00:11:20,680
+configuration sur des centaines
+
+358
+00:11:18,800 --> 00:11:22,399
+d'ordinateurs différents modifiables en
+
+359
+00:11:20,680 --> 00:11:23,800
+une seule commande il y a des chances
+
+360
+00:11:22,399 --> 00:11:26,639
+que nous décortiquion ce système sur
+
+361
+00:11:23,800 --> 00:11:28,480
+cette chaîne alpine Linux distribution
+
+362
+00:11:26,639 --> 00:11:29,720
+norvégienne connaît un Fran succès en
+
+363
+00:11:28,480 --> 00:11:31,880
+particulier dans le monde des
+
+364
+00:11:29,720 --> 00:11:33,560
+équipements réseaux et des containers sa
+
+365
+00:11:31,880 --> 00:11:35,519
+construction extrêmement légère fiable
+
+366
+00:11:33,560 --> 00:11:37,560
+et épurée fluidifie la gestion des podes
+
+367
+00:11:35,519 --> 00:11:39,680
+par kubernetes et optimise performance
+
+368
+00:11:37,560 --> 00:11:41,720
+et ressources en outre son gestionnaire
+
+369
+00:11:39,680 --> 00:11:43,440
+de paquets apk stable et facile à
+
+370
+00:11:41,720 --> 00:11:44,560
+utiliser propose de nombreux paquets
+
+371
+00:11:43,440 --> 00:11:46,959
+pour administrateurs réseau et
+
+372
+00:11:44,560 --> 00:11:49,120
+développeurs void est une distribution
+
+373
+00:11:46,959 --> 00:11:51,200
+légère indépendante sans système D
+
+374
+00:11:49,120 --> 00:11:52,680
+rolling release qui propose d'installer
+
+375
+00:11:51,200 --> 00:11:53,959
+les logiciels au choix par les binaires
+
+376
+00:11:52,680 --> 00:11:56,200
+ou les source et qui fonctionne aussi
+
+377
+00:11:53,959 --> 00:11:57,880
+sur raspberry P une initiative très bien
+
+378
+00:11:56,200 --> 00:11:59,720
+notée par ses utilisateurs pour son
+
+379
+00:11:57,880 --> 00:12:01,800
+extrême fiabilité et ses outils bien
+
+380
+00:11:59,720 --> 00:12:04,600
+pensés à réserver cependant aux
+
+381
+00:12:01,800 --> 00:12:06,519
+utilisateurs avertis clear linux est un
+
+382
+00:12:04,600 --> 00:12:08,839
+système minimal orienté performance pour
+
+383
+00:12:06,519 --> 00:12:10,320
+une utilisation dans le Cloud il propose
+
+384
+00:12:08,839 --> 00:12:11,240
+des mises à jour de système global
+
+385
+00:12:10,320 --> 00:12:13,040
+plutôt que chaque paquet
+
+386
+00:12:11,240 --> 00:12:15,639
+individuellement à essayer comme
+
+387
+00:12:13,040 --> 00:12:17,760
+alternative à alpine par exemple solu
+
+388
+00:12:15,639 --> 00:12:19,040
+est un linux moderne en rolling release
+
+389
+00:12:17,760 --> 00:12:20,560
+développé from scratch pour la
+
+390
+00:12:19,040 --> 00:12:22,600
+bureautique le développement les
+
+391
+00:12:20,560 --> 00:12:24,079
+créateurs multimédia et les gamers il
+
+392
+00:12:22,600 --> 00:12:26,360
+propose entre autres son bureau maison
+
+393
+00:12:24,079 --> 00:12:28,279
+budg une solution moderne et épurée
+
+394
+00:12:26,360 --> 00:12:30,120
+solus est supportée par une communauté
+
+395
+00:12:28,279 --> 00:12:31,680
+active à essayer si tu cherches à
+
+396
+00:12:30,120 --> 00:12:34,279
+remplacer le Linux de ton ordinateur
+
+397
+00:12:31,680 --> 00:12:36,279
+personnel pppy est une distribution très
+
+398
+00:12:34,279 --> 00:12:38,360
+légère fiable et facile d'utilisation
+
+399
+00:12:36,279 --> 00:12:40,279
+disponible en live cd pour un usage
+
+400
+00:12:38,360 --> 00:12:41,760
+bureau généraliste le système peut être
+
+401
+00:12:40,279 --> 00:12:43,720
+chargé en RAM de manière à pouvoir
+
+402
+00:12:41,760 --> 00:12:45,880
+retirer la clé USB et optimiser les
+
+403
+00:12:43,720 --> 00:12:47,560
+performances il peut-être utilisé sur
+
+404
+00:12:45,880 --> 00:12:49,680
+une large gamme de matériel ancien et
+
+405
+00:12:47,560 --> 00:12:52,440
+modne pupy a généré pas mal de petits
+
+406
+00:12:49,680 --> 00:12:54,399
+qu'on appelle des peuplettes SOS est une
+
+407
+00:12:52,440 --> 00:12:56,680
+distribution expérimentale récente assez
+
+408
+00:12:54,399 --> 00:12:58,560
+innovante elle exécute ses composants
+
+409
+00:12:56,680 --> 00:13:00,399
+dans des containurs isolés se charge en
+
+410
+00:12:58,560 --> 00:13:02,320
+RAM utilise un mode de mise à jour
+
+411
+00:13:00,399 --> 00:13:04,320
+atomique et plein d'autres mécanismes
+
+412
+00:13:02,320 --> 00:13:05,800
+intéressants à découvrir sur son site
+
+413
+00:13:04,320 --> 00:13:08,279
+une solution plutôt destinée aux
+
+414
+00:13:05,800 --> 00:13:10,160
+utilisateurs Linux avancé enfin
+
+415
+00:13:08,279 --> 00:13:12,639
+terminons cette série avec Linux from
+
+416
+00:13:10,160 --> 00:13:14,639
+scratch ou LFS qui te propose non pas de
+
+417
+00:13:12,639 --> 00:13:16,240
+télécharger une image mais un livre qui
+
+418
+00:13:14,639 --> 00:13:18,040
+t'explique comment construire un linux
+
+419
+00:13:16,240 --> 00:13:19,720
+manuellement de bout en bout pour te
+
+420
+00:13:18,040 --> 00:13:21,800
+faciliter la tâche la documentation
+
+421
+00:13:19,720 --> 00:13:24,000
+existe aussi en français une alternative
+
+422
+00:13:21,800 --> 00:13:25,680
+inaccessible au non informaticien
+
+423
+00:13:24,000 --> 00:13:27,920
+revenons un peu en arrière dans les
+
+424
+00:13:25,680 --> 00:13:30,199
+années 90 le système Unix a donné
+
+425
+00:13:27,920 --> 00:13:31,880
+naissance au système BSD ou Berkley
+
+426
+00:13:30,199 --> 00:13:33,399
+système distribution qui n'avait
+
+427
+00:13:31,880 --> 00:13:35,399
+techniquement rien à env au tout nouveau
+
+428
+00:13:33,399 --> 00:13:37,279
+Linux de l'époque et qui eux aussi ont
+
+429
+00:13:35,399 --> 00:13:39,040
+évolué jusqu'à notre ère mais alors
+
+430
+00:13:37,279 --> 00:13:41,240
+pourquoi BSD n'est-il pas plus connu
+
+431
+00:13:39,040 --> 00:13:43,079
+aujourd'hui dans leur grande modestie
+
+432
+00:13:41,240 --> 00:13:44,320
+les développeurs BSD expliquent entre
+
+433
+00:13:43,079 --> 00:13:46,040
+autres qu'ils portent plus souvent
+
+434
+00:13:44,320 --> 00:13:47,560
+d'intérêt à l'amélioration de leur code
+
+435
+00:13:46,040 --> 00:13:49,360
+qu'à sa promotion et qu'étant plus
+
+436
+00:13:47,560 --> 00:13:50,639
+expérimenté que les développeurs Linux
+
+437
+00:13:49,360 --> 00:13:52,199
+ils ressentent moins le besoin de
+
+438
+00:13:50,639 --> 00:13:54,440
+réaliser des systèmes plus simples à
+
+439
+00:13:52,199 --> 00:13:55,959
+utiliser tu es donc prévenu BSD c'est
+
+440
+00:13:54,440 --> 00:13:57,480
+pas pour les lopettes dis-moi en
+
+441
+00:13:55,959 --> 00:13:59,639
+commentaire si un aperçu de ce monde
+
+442
+00:13:57,480 --> 00:14:02,040
+mystérieux t'intéresse voici les quatre
+
+443
+00:13:59,639 --> 00:14:04,000
+distributions BSD phar free BSD est la
+
+444
+00:14:02,040 --> 00:14:06,040
+plus connue car elle occupe 80 % des
+
+445
+00:14:04,000 --> 00:14:07,880
+installations BSD certainement l'un des
+
+446
+00:14:06,040 --> 00:14:09,880
+plus simples à utilisé fre BSD est
+
+447
+00:14:07,880 --> 00:14:11,440
+réputé stable et fiable en mode serveur
+
+448
+00:14:09,880 --> 00:14:12,800
+mais on peut aussi l'utiliser pour du
+
+449
+00:14:11,440 --> 00:14:14,199
+bureau une expérience que j'ai
+
+450
+00:14:12,800 --> 00:14:16,519
+personnellement tenté quelques années
+
+451
+00:14:14,199 --> 00:14:18,440
+durant tout comme gen tout les pquetages
+
+452
+00:14:16,519 --> 00:14:20,079
+ou port BSD s'installent en compilant
+
+453
+00:14:18,440 --> 00:14:21,519
+les sources la plupart des programmes
+
+454
+00:14:20,079 --> 00:14:23,639
+qui tournent sous Linux peuvent y être
+
+455
+00:14:21,519 --> 00:14:25,560
+installés e fre BSD dispose même d'un
+
+456
+00:14:23,639 --> 00:14:28,040
+installeur automatisé qui facilitera
+
+457
+00:14:25,560 --> 00:14:30,120
+cette tâche net BSD est quant à lui
+
+458
+00:14:28,040 --> 00:14:31,240
+spécialisé dans la portabilité il est
+
+459
+00:14:30,120 --> 00:14:32,959
+possible de l'installer sur un très
+
+460
+00:14:31,240 --> 00:14:34,880
+grand nombre d'architecture lui aussi
+
+461
+00:14:32,959 --> 00:14:36,839
+peut-être installé comme serveur ou avec
+
+462
+00:14:34,880 --> 00:14:38,360
+un environnement graphique NetBSD
+
+463
+00:14:36,839 --> 00:14:40,920
+s'installe manuellement avec la
+
+464
+00:14:38,360 --> 00:14:42,560
+documentation le projet Open BSD est un
+
+465
+00:14:40,920 --> 00:14:44,720
+peu particulier il accorde une
+
+466
+00:14:42,560 --> 00:14:46,480
+importance maladive à la sécurité il est
+
+467
+00:14:44,720 --> 00:14:48,360
+en outre réputé pour la qualité de sa
+
+468
+00:14:46,480 --> 00:14:50,680
+documentation et son intransigence sur
+
+469
+00:14:48,360 --> 00:14:52,160
+la liberté du code source thodorade son
+
+470
+00:14:50,680 --> 00:14:53,839
+créateur talentueux mais dont la
+
+471
+00:14:52,160 --> 00:14:55,800
+personnalité rude et intransigente est
+
+472
+00:14:53,839 --> 00:14:58,240
+devenu légendaire est à l'origine d'Open
+
+473
+00:14:55,800 --> 00:15:00,199
+SSH et c-éveloppeur de net BSD il
+
+474
+00:14:58,240 --> 00:15:01,759
+déclare à propos du système linux je
+
+475
+00:15:00,199 --> 00:15:03,440
+cite c'est terrible tout le monde
+
+476
+00:15:01,759 --> 00:15:05,959
+l'utilise et il ne réalise pas à quel
+
+477
+00:15:03,440 --> 00:15:07,519
+point c'est mauvais open BSD est classé
+
+478
+00:15:05,959 --> 00:15:08,759
+difficile pour les connaissan importante
+
+479
+00:15:07,519 --> 00:15:10,839
+que nécessite ce système pour le
+
+480
+00:15:08,759 --> 00:15:12,360
+maîtriser assurément un fantastique
+
+481
+00:15:10,839 --> 00:15:14,680
+terrain de jeu pour les passionnés
+
+482
+00:15:12,360 --> 00:15:17,320
+finissons enfin par Dragonfly BSD un
+
+483
+00:15:14,680 --> 00:15:19,079
+outsider génial né d'un forc de Free BSD
+
+484
+00:15:17,320 --> 00:15:20,519
+en 2003 il propose de nombreuses
+
+485
+00:15:19,079 --> 00:15:23,199
+améliorations parmi lesquelles une
+
+486
+00:15:20,519 --> 00:15:25,519
+réimplémentation du SMP et des mécanisme
+
+487
+00:15:23,199 --> 00:15:27,519
+multiread son système de fichier Hammer
+
+488
+00:15:25,519 --> 00:15:29,880
+à base de B arbre supporte nativement
+
+489
+00:15:27,519 --> 00:15:31,680
+les snapshots et la DD application et de
+
+490
+00:15:29,880 --> 00:15:33,560
+nombreuses autres optimisations font de
+
+491
+00:15:31,680 --> 00:15:35,560
+ce système un choix performant et fiable
+
+492
+00:15:33,560 --> 00:15:37,519
+pour serveur et bureaux comme tu peux le
+
+493
+00:15:35,560 --> 00:15:39,240
+voir le monde des distribution est vaste
+
+494
+00:15:37,519 --> 00:15:41,000
+j'espère que ce petit aperçu t'aidera à
+
+495
+00:15:39,240 --> 00:15:42,560
+y voir plus clair n'hésite pas à poser
+
+496
+00:15:41,000 --> 00:15:43,959
+des questions ou à nous parler de ta
+
+497
+00:15:42,560 --> 00:15:45,160
+distribution dans les commentaires
+
+498
+00:15:43,959 --> 00:15:47,720
+surtout si elle n'est pas dans cette
+
+499
+00:15:45,160 --> 00:15:50,720
+liste bonne continuation et à très
+
+500
+00:15:47,720 --> 00:15:50,720
+bientôt
+
