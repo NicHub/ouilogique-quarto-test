@@ -17,18 +17,24 @@ title: Quel Linux pour quel usage ?
 -   Darkone Linux — Quel Linux pour quel usage ?
     <https://www.youtube.com/watch?v=rlNtyhGLA_Y>
 
-## Distributions Linux mentionnées
+## Distributions Linux
 
 ```{python}
-import yaml
+#| output: asis
+import runpy
+runpy.run_path("tools/render_linuxes.py")
+print("")
+```
 
-with open("linuxes.yaml", "r", encoding="utf-8") as f:
-    distros = yaml.safe_load(f)
-
-for distro in distros:
-    print(distro)
+```{=html}
+<style>
+.sourceCode { display: none; }
+.logo { height: 50px; background-color: #BBB; }
+.render_linuxes ul:not(ul ul) > li { border-bottom: 1px solid firebrick; }
+</style>
 ```
 
 ## À voir aussi
 
 -   <https://www.youtube.com/c/ChrisTitusTech>
+

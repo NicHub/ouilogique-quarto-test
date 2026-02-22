@@ -1,175 +1,358 @@
 - name: Slackware
   expertise: 5
   usage: 1
-  urls: https://www.slackware.com/
+  urls:
+    - https://www.slackware.com/
+    - https://en.wikipedia.org/wiki/Slackware
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/2/22/Slackware_logo_from_the_official_Slackware_site.svg
+  url-logo: ./images/Slackware_logo_from_the_official_Slackware_site.svg
 - name: Debian
   expertise: 1
   usage: 3
-  urls: https://www.debian.org/
+  urls:
+    - https://www.debian.org/
+    - https://en.wikipedia.org/wiki/Debian
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg
+  url-logo: ./images/Debian-OpenLogo.svg
 - name: Red Hat
   expertise: 3
   usage: 3
-  urls: https://www.redhat.com/fr
+  urls:
+    - https://www.redhat.com/fr
+    - https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/en/e/ee/Red_Hat_Enterprise_Linux_logo-en.svg
+  url-logo: ./images/Red_Hat_Enterprise_Linux_logo-en.svg
 - name: Gentoo
   expertise: 5
   usage: 3
-  urls: https://www.gentoo.org/
+  urls:
+    - https://www.gentoo.org/
+    - https://en.wikipedia.org/wiki/Gentoo
+  url-logo-dist: https://en.wikipedia.org/wiki/Special:FilePath/Gentoo%20Linux%20logo%20matte.svg
+  url-logo: ./images/Gentoo%20Linux%20logo%20matte.svg
 - name: Arch Linux
   expertise: 5
   usage: 1
-  urls: https://archlinux.org/
+  urls:
+    - https://archlinux.org/
+    - https://en.wikipedia.org/wiki/Arch_Linux
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/5/56/Arch_Linux_logo_with_light_text.svg
+  url-logo: ./images/Arch_Linux_logo_with_light_text.svg
 - name: SUSE / openSUSE
   expertise: -1
   usage: 1
   urls:
     - https://www.suse.com/
     - https://www.opensuse.org/
+    - https://en.wikipedia.org/wiki/OpenSUSE
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/7/72/OpenSUSE_Leap_green_logo.svg
+  url-logo: ./images/OpenSUSE_Leap_green_logo.svg
 - name: MX Linux
   expertise: -1
   usage: -1
-  urls: https://mxlinux.org/
+  urls:
+    - https://mxlinux.org/
+    - https://en.wikipedia.org/wiki/MX_Linux
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/2/29/MX_LINUX_Logo.svg
+  url-logo: ./images/MX_LINUX_Logo.svg
 - name: Devuan
   expertise: 3
   usage: 1
-  urls: https://www.devuan.org/
+  urls:
+    - https://www.devuan.org/
+    - https://en.wikipedia.org/wiki/Devuan
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/f/f4/Devuan-logo.svg
+  url-logo: ./images/Devuan-logo.svg
 - name: Kali Linux
   expertise: 5
   usage: 5
-  urls: https://www.kali.org/
-  abstract: "The most advanced Penetration Testing Distribution. Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering."
+  urls:
+    - https://www.kali.org/
+    - https://en.wikipedia.org/wiki/Kali_Linux
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg
+  url-logo: ./images/Kali_Linux_2.0_wordmark.svg
+  abstract: |
+    The most advanced Penetration Testing Distribution. Kali Linux is an
+    open-source, Debian-based Linux distribution geared towards various
+    information security tasks, such as Penetration Testing, Security
+    Research, Computer Forensics and Reverse Engineering.
 - name: BackTrack
   expertise: 5
   usage: 5
-  urls: http://www.backtrack-linux.org/
-  abstract: "BackTrack is now Kali Linux (since 2013)."
+  urls:
+    - http://www.backtrack-linux.org/
+    - https://en.wikipedia.org/wiki/BackTrack
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/0/09/Backtrack_logo.png
+  url-logo: ./images/Backtrack_logo.png
+  abstract: |
+    BackTrack is now Kali Linux (since 2013).
 - name: Raspberry Pi OS (Raspbian)
   expertise: -1
   usage: 1
-  urls: https://www.raspberrypi.com/software/operating-systems/
+  urls:
+    - https://www.raspberrypi.com/software/operating-systems/
+    - https://en.wikipedia.org/wiki/Raspberry_Pi_OS
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/d/d1/Raspberry_Pi_OS_Logo.png
+  url-logo: ./images/Raspberry_Pi_OS_Logo.png
 - name: Emmabuntüs
   expertise: -3
   usage: -1
-  urls: https://emmabuntus.org/
+  urls:
+    - https://emmabuntus.org/
+    - https://en.wikipedia.org/wiki/Emmabunt%C3%BCs
+  url-logo-dist: null
+  url-logo: ./images/404.svg
 - name: SteamOS
   expertise: -1
   usage: -1
-  urls: https://store.steampowered.com/steamos/
+  urls:
+    - https://store.steampowered.com/steamos/
+    - https://en.wikipedia.org/wiki/SteamOS
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/5/5a/SteamOS_wordmark.svg
+  url-logo: ./images/SteamOS_wordmark.svg
 - name: antiX
   expertise: -1
   usage: -1
-  urls: https://antixlinux.com/
+  urls:
+    - https://antixlinux.com/
+    - https://en.wikipedia.org/wiki/AntiX
+  url-logo-dist: null
+  url-logo: ./images/404.svg
 - name: Tails
   expertise: 1
   usage: 5
-  urls: https://tails.net/
-  abstract: "Tails est un système d’exploitation portable qui protège contre la surveillance et la censure."
+  urls:
+    - https://tails.net/
+    - https://en.wikipedia.org/wiki/Tails_(operating_system)
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/9/99/Tails-logo-flat-inverted.svg
+  url-logo: ./images/Tails-logo-flat-inverted.svg
+  abstract: |
+    Tails est un système d’exploitation portable qui protège contre la
+    surveillance et la censure.
 - name: GRML
   expertise: 3
   usage: 5
-  urls: https://grml.org/
-  abstract: "Grml is a bootable live system (Live-CD) based on Debian. Grml includes a collection of GNU/Linux software especially for system administrators. Users don't have to install anything on fixed storage. Grml is especially well suited for administrative tasks like installation, deployment and system rescue."
+  urls:
+    - https://grml.org/
+    - https://en.wikipedia.org/wiki/Grml
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/3/34/Grmllogo.png
+  url-logo: ./images/Grmllogo.png
+  abstract: |
+    Grml is a bootable live system (Live-CD) based on Debian. Grml
+    includes a collection of GNU/Linux software especially for system
+    administrators. Users don’t have to install anything on fixed storage.
+    Grml is especially well suited for administrative tasks like
+    installation, deployment and system rescue.
 - name: Ubuntu
   expertise: -1
   usage: 1
-  urls: https://ubuntu.com/
+  urls:
+    - https://ubuntu.com/
+    - https://en.wikipedia.org/wiki/Ubuntu
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/0/00/Ubuntu-logo-no-wordmark-2022.svg
+  url-logo: ./images/Ubuntu-logo-no-wordmark-2022.svg
 - name: Zorin OS
   expertise: -3
   usage: -1
-  urls: https://zorin.com/os/
+  urls:
+    - https://zorin.com/os/
+    - https://en.wikipedia.org/wiki/Zorin_OS
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/1/14/Zorin_Logomark.svg
+  url-logo: ./images/Zorin_Logomark.svg
 - name: Linux Mint
   expertise: -3
   usage: -1
-  urls: https://linuxmint.com/
-  abstract: "Linux Mint is an operating system for desktop and laptop computers. It is designed to work out of the box and comes fully equipped with the apps most people need."
+  urls:
+    - https://linuxmint.com/
+    - https://en.wikipedia.org/wiki/Linux_Mint
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/4/45/The_Linux_Mint_Logo.svg
+  url-logo: ./images/The_Linux_Mint_Logo.svg
+  abstract: |
+    Linux Mint is an operating system for desktop and laptop computers. It
+    is designed to work out of the box and comes fully equipped with the
+    apps most people need.
 - name: elementary OS
   expertise: -3
   usage: -1
-  urls: https://elementary.io/
+  urls:
+    - https://elementary.io/
+    - https://en.wikipedia.org/wiki/Elementary_OS
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/8/83/Elementary_OS_logo.svg
+  url-logo: ./images/Elementary_OS_logo.svg
 - name: Pop!_OS
   expertise: -1
   usage: -1
-  urls: https://pop.system76.com/
+  urls:
+    - https://pop.system76.com/
+    - https://en.wikipedia.org/wiki/Pop!_OS
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/c/c5/Pop_OS-Logo-nobg.svg
+  url-logo: ./images/Pop_OS-Logo-nobg.svg
 - name: Linux Lite
   expertise: -3
   usage: -3
-  urls: https://www.linuxliteos.com/
+  urls:
+    - https://www.linuxliteos.com/
+    - https://en.wikipedia.org/wiki/Linux_Lite
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/7/79/Linux_Lite_Simple_Fast_Free_logo.png
+  url-logo: ./images/Linux_Lite_Simple_Fast_Free_logo.png
 - name: Fedora
   expertise: 1
   usage: 1
-  urls: https://fedoraproject.org/
+  urls:
+    - https://fedoraproject.org/
+    - https://en.wikipedia.org/wiki/Fedora
+  url-logo-dist: https://en.wikipedia.org/wiki/Special:FilePath/Fedora%20logo%20%282021%29.svg
+  url-logo: ./images/Fedora%20logo%20%282021%29.svg
 - name: Nobara
   expertise: -1
   usage: -1
-  urls: https://nobaraproject.org/
+  urls:
+    - https://nobaraproject.org/
+    - https://en.wikipedia.org/wiki/Nobara_(operating_system)
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/e/ea/Nobara_logotype.png
+  url-logo: ./images/Nobara_logotype.png
 - name: Calculate Linux
   expertise: 5
   usage: 3
-  urls: https://www.calculate-linux.org/
+  urls:
+    - https://www.calculate-linux.org/
+    - https://en.wikipedia.org/wiki/Calculate_Linux
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/e/ec/Calculatelinux-logo.png
+  url-logo: ./images/Calculatelinux-logo.png
 - name: SystemRescue
   expertise: 3
   usage: 5
-  urls: https://www.system-rescue.org/
+  urls:
+    - https://www.system-rescue.org/
+    - https://en.wikipedia.org/wiki/SystemRescue
+  url-logo-dist: https://en.wikipedia.org/wiki/Special:FilePath/System-rescue-cd-logo-new.svg
+  url-logo: ./images/System-rescue-cd-logo-new.svg
 - name: Manjaro
   expertise: 1
   usage: 1
-  urls: https://manjaro.org/
+  urls:
+    - https://manjaro.org/
+    - https://en.wikipedia.org/wiki/Manjaro
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_manjaro_rounded_2022.svg
+  url-logo: ./images/Logo_manjaro_rounded_2022.svg
 - name: BigLinux
   expertise: -3
   usage: -1
   urls: https://www.biglinux.com.br/
+  url-logo-dist: null
+  url-logo: ./images/404.svg
 - name: Kubuntu
   expertise: -1
   usage: -1
-  urls: https://kubuntu.org/
+  urls:
+    - https://kubuntu.org/
+    - https://en.wikipedia.org/wiki/Kubuntu
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/3/3c/Kubuntu_2024_Logo.svg
+  url-logo: ./images/Kubuntu_2024_Logo.svg
 - name: Deepin
   expertise: -1
   usage: -1
-  urls: https://www.deepin.org/
+  urls:
+    - https://www.deepin.org/
+    - https://en.wikipedia.org/wiki/Deepin
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/f/f5/Deepin_logo.svg
+  url-logo: ./images/Deepin_logo.svg
 - name: Artix Linux
   expertise: 1
   usage: 1
-  urls: https://artixlinux.org/
+  urls:
+    - https://artixlinux.org/
+    - https://en.wikipedia.org/wiki/Artix_Linux
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/4/4b/ArtixLogo.svg
+  url-logo: ./images/ArtixLogo.svg
 - name: CachyOS
   expertise: 3
   usage: 1
-  urls: https://cachyos.org/
+  urls:
+    - https://cachyos.org/
+  url-logo-dist: null
+  url-logo: ./images/404.svg
 - name: EndeavourOS
   expertise: 1
   usage: 1
-  urls: https://endeavouros.com/
+  urls:
+    - https://endeavouros.com/
+    - https://en.wikipedia.org/wiki/EndeavourOS
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg
+  url-logo: ./images/EndeavourOS_Logo.svg
 - name: Garuda Linux
   expertise: -1
   usage: -1
-  urls: https://garudalinux.org/
+  urls:
+    - https://garudalinux.org/
+    - https://en.wikipedia.org/wiki/Garuda_Linux
+  url-logo-dist: https://en.wikipedia.org/wiki/Special:FilePath/Garuda-purple.svg
+  url-logo: ./images/Garuda-purple.svg
 - name: NixOS
   expertise: 3
   usage: 5
-  urls: https://nixos.org/
+  urls:
+    - https://nixos.org/
+    - https://en.wikipedia.org/wiki/NixOS
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/c/c4/NixOS_logo.svg
+  url-logo: ./images/NixOS_logo.svg
 - name: Alpine Linux
   expertise: 3
   usage: 5
-  urls: https://alpinelinux.org/
+  urls:
+    - https://alpinelinux.org/
+    - https://en.wikipedia.org/wiki/Alpine_Linux
+  url-logo-dist: https://en.wikipedia.org/wiki/Special:FilePath/Alpine%20Linux.svg
+  url-logo: ./images/Alpine%20Linux.svg
 - name: Void Linux
   expertise: 3
   usage: 3
-  urls: https://voidlinux.org/
+  urls:
+    - https://voidlinux.org/
+    - https://en.wikipedia.org/wiki/Void_Linux
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg
+  url-logo: ./images/Void_Linux_logo.svg
 - name: Clear Linux
   expertise: 3
   usage: 5
-  urls: https://www.clearlinux.org/
+  urls:
+    - https://www.clearlinux.org/
+    - https://en.wikipedia.org/wiki/Clear_Linux_OS
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/en/e/e3/Clear_Linux_logo.svg
+  url-logo: ./images/Clear_Linux_logo.svg
 - name: Solus
   expertise: -1
   usage: -1
-  urls: https://getsol.us/
+  urls:
+    - https://getsol.us/
+    - https://en.wikipedia.org/wiki/Solus
+  url-logo-dist: https://en.wikipedia.org/wiki/Special:FilePath/Solus.svg
+  url-logo: ./images/Solus.svg
 - name: Puppy Linux
   expertise: -3
   usage: -3
-  urls: https://puppylinux-woof-ce.github.io/
-- name: SOS
+  urls:
+    - https://puppylinux-woof-ce.github.io/
+    - https://en.wikipedia.org/wiki/Puppy_Linux
+  url-logo-dist: https://upload.wikimedia.org/wikipedia/commons/4/4b/Banner_logo_Puppy.png
+  url-logo: ./images/Banner_logo_Puppy.png
+  abstract: |
+    Puppy Linux is a unique family of Linux distributions meant for the
+    home-user computers. It was originally created by Barry Kauler in 2003.
+- name: SOS (Simple Operating System)
   expertise: 5
   usage: 3
-  urls: https://sos-os.org/
+  urls:
+    - http://sos.enix.org/
+  url-logo-dist: null
+  url-logo: ./images/404.svg
+  abstract: |
+    SOS (Simple Operating System) est un noyau Linux conçu pour être simple à comprendre, tout en couvrant les concepts fondamentaux des systèmes d’exploitation modernes. Il a été développé par la communauté Linux Magazine France et présenté à travers une série d’articles publiés entre 2004 et 2006. Ce projet vise à enseigner par la pratique la structure interne d’un système d’exploitation, en permettant aux utilisateurs d’explorer le code source mensuel disponible sur [sos.enix.org](http://sos.enix.org/).
 - name: Linux From Scratch (LFS)
   expertise: 5
   usage: 5
-  urls: https://www.linuxfromscratch.org/
+  urls:
+    - https://linuxfromscratch.org/
+    - https://en.wikipedia.org/wiki/Linux_from_Scratch
+  url-logo-dist: https://linuxfromscratch.org/images/linux-from-scratch.png
+  url-logo: ./images/linux-from-scratch.png
