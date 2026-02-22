@@ -1,0 +1,175 @@
+- name: Slackware
+  expertise: 5
+  usage: 1
+  urls: https://www.slackware.com/
+- name: Debian
+  expertise: 1
+  usage: 3
+  urls: https://www.debian.org/
+- name: Red Hat
+  expertise: 3
+  usage: 3
+  urls: https://www.redhat.com/fr
+- name: Gentoo
+  expertise: 5
+  usage: 3
+  urls: https://www.gentoo.org/
+- name: Arch Linux
+  expertise: 5
+  usage: 1
+  urls: https://archlinux.org/
+- name: SUSE / openSUSE
+  expertise: -1
+  usage: 1
+  urls:
+    - https://www.suse.com/
+    - https://www.opensuse.org/
+- name: MX Linux
+  expertise: -1
+  usage: -1
+  urls: https://mxlinux.org/
+- name: Devuan
+  expertise: 3
+  usage: 1
+  urls: https://www.devuan.org/
+- name: Kali Linux
+  expertise: 5
+  usage: 5
+  urls: https://www.kali.org/
+  abstract: "The most advanced Penetration Testing Distribution. Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering."
+- name: BackTrack
+  expertise: 5
+  usage: 5
+  urls: http://www.backtrack-linux.org/
+  abstract: "BackTrack is now Kali Linux (since 2013)."
+- name: Raspberry Pi OS (Raspbian)
+  expertise: -1
+  usage: 1
+  urls: https://www.raspberrypi.com/software/operating-systems/
+- name: Emmabuntüs
+  expertise: -3
+  usage: -1
+  urls: https://emmabuntus.org/
+- name: SteamOS
+  expertise: -1
+  usage: -1
+  urls: https://store.steampowered.com/steamos/
+- name: antiX
+  expertise: -1
+  usage: -1
+  urls: https://antixlinux.com/
+- name: Tails
+  expertise: 1
+  usage: 5
+  urls: https://tails.net/
+  abstract: "Tails est un système d’exploitation portable qui protège contre la surveillance et la censure."
+- name: GRML
+  expertise: 3
+  usage: 5
+  urls: https://grml.org/
+  abstract: "Grml is a bootable live system (Live-CD) based on Debian. Grml includes a collection of GNU/Linux software especially for system administrators. Users don't have to install anything on fixed storage. Grml is especially well suited for administrative tasks like installation, deployment and system rescue."
+- name: Ubuntu
+  expertise: -1
+  usage: 1
+  urls: https://ubuntu.com/
+- name: Zorin OS
+  expertise: -3
+  usage: -1
+  urls: https://zorin.com/os/
+- name: Linux Mint
+  expertise: -3
+  usage: -1
+  urls: https://linuxmint.com/
+  abstract: "Linux Mint is an operating system for desktop and laptop computers. It is designed to work out of the box and comes fully equipped with the apps most people need."
+- name: elementary OS
+  expertise: -3
+  usage: -1
+  urls: https://elementary.io/
+- name: Pop!_OS
+  expertise: -1
+  usage: -1
+  urls: https://pop.system76.com/
+- name: Linux Lite
+  expertise: -3
+  usage: -3
+  urls: https://www.linuxliteos.com/
+- name: Fedora
+  expertise: 1
+  usage: 1
+  urls: https://fedoraproject.org/
+- name: Nobara
+  expertise: -1
+  usage: -1
+  urls: https://nobaraproject.org/
+- name: Calculate Linux
+  expertise: 5
+  usage: 3
+  urls: https://www.calculate-linux.org/
+- name: SystemRescue
+  expertise: 3
+  usage: 5
+  urls: https://www.system-rescue.org/
+- name: Manjaro
+  expertise: 1
+  usage: 1
+  urls: https://manjaro.org/
+- name: BigLinux
+  expertise: -3
+  usage: -1
+  urls: https://www.biglinux.com.br/
+- name: Kubuntu
+  expertise: -1
+  usage: -1
+  urls: https://kubuntu.org/
+- name: Deepin
+  expertise: -1
+  usage: -1
+  urls: https://www.deepin.org/
+- name: Artix Linux
+  expertise: 1
+  usage: 1
+  urls: https://artixlinux.org/
+- name: CachyOS
+  expertise: 3
+  usage: 1
+  urls: https://cachyos.org/
+- name: EndeavourOS
+  expertise: 1
+  usage: 1
+  urls: https://endeavouros.com/
+- name: Garuda Linux
+  expertise: -1
+  usage: -1
+  urls: https://garudalinux.org/
+- name: NixOS
+  expertise: 3
+  usage: 5
+  urls: https://nixos.org/
+- name: Alpine Linux
+  expertise: 3
+  usage: 5
+  urls: https://alpinelinux.org/
+- name: Void Linux
+  expertise: 3
+  usage: 3
+  urls: https://voidlinux.org/
+- name: Clear Linux
+  expertise: 3
+  usage: 5
+  urls: https://www.clearlinux.org/
+- name: Solus
+  expertise: -1
+  usage: -1
+  urls: https://getsol.us/
+- name: Puppy Linux
+  expertise: -3
+  usage: -3
+  urls: https://puppylinux-woof-ce.github.io/
+- name: SOS
+  expertise: 5
+  usage: 3
+  urls: https://sos-os.org/
+- name: Linux From Scratch (LFS)
+  expertise: 5
+  usage: 5
+  urls: https://www.linuxfromscratch.org/

@@ -2,7 +2,9 @@
 author: Nico
 categories: []
 date: 2026-02-22 12:00:00+01:00
-draft: true
+draft: false
+execute:
+  enabled: true
 lang: fr
 layout: page
 lightbox: auto
@@ -10,10 +12,22 @@ pagetitle: '{{< meta title >}}'
 title: Quel Linux pour quel usage ?
 ---
 
-## Source
+## Source
 
-- Darkone Linux — Quel Linux pour quel usage ?
+-   Darkone Linux — Quel Linux pour quel usage ?
     <https://www.youtube.com/watch?v=rlNtyhGLA_Y>
+
+## Distributions Linux mentionnées
+
+```{python}
+import yaml
+
+with open("linuxes.yaml", "r", encoding="utf-8") as f:
+    distros = yaml.safe_load(f)
+
+for distro in distros:
+    print(distro)
+```
 
 ## À voir aussi
 
