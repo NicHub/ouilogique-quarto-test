@@ -207,3 +207,9 @@ page 48 / note de bas de page no 10.
 Chaque valeur scalaire Unicode peut être représentée, selon le format de stockage, sous la forme d’une suite d’octets (UTF-8), d’un seizet normal ou de deux seizets d’indirection (UTF-16) ou d’une valeur de 32 bits (UTF-32).
 -->
 :::
+
+
+## À voir aussi
+
+-   Struct alignement
+    <https://youtu.be/63zGtiv89bA?t=193>
