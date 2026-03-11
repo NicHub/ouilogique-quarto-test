@@ -195,3 +195,7 @@ WP ⇒ Wp-Super Cache
 -   <https://www.bridgetownrb.com/>
 -   <https://vuepress.vuejs.org/>
 -   <https://scully.io/>
+
+## Jamstack
+
+-   <https://jamstack.org/generators/>
