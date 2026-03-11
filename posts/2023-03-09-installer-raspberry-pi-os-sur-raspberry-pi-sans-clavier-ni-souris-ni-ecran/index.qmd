@@ -108,11 +108,17 @@ nmap -sP 192.168.1.0/24
 
 ## Configuration
 
+> Explication de l’ordre de lecture des fichiers de configuration :
+> <https://linuxize.com/post/bashrc-vs-bash-profile/>.
+
+Créer un fichier bashrc personnel.
+
 ```bash
-nano ~/.bash_profile
+mkdir -p ~/.config/bash/
+nano ~/.config/bash/bashrc
 ```
 
-Copier-coller les commandes suivantes dans .bash_profile :
+Copier-coller les commandes suivantes dans ~/.config/bash/bashrc :
 
 ```bash
 PS1=$'\n\n\xf0\x9f\x98\xBA'"  \t – \[\033[01;32m\]\u@\h\[\033[00m\]:\W > "
@@ -123,22 +129,16 @@ alias lsserial='python3 -m serial.tools.list_ports'
 IP=$(hostname -I | awk '{print $1}')
 alias pyserver='PORT=4000; echo -e "\nhttp://localhost:$PORT"; echo -e "http://$IP:$PORT\n"; /usr/bin/python3 -m http.server $PORT'
 TIMEFORMAT=$'\nElapsed time: %E'
-
-###
-# Create virtual environment for python3 (once)
-# cd $HOME && python3 -m venv pyenv
-# and activate it (for each terminal)
-##
-VENVPATH="$HOME/pyenv/bin/activate"
-if [[ -f "$VENVPATH" ]]; then source "$VENVPATH"; fi
-
-# If Byobu is installed, launch it at startup.
-[[ -f /usr/bin/byobu-launch ]] && _byobu_sourced=1 . /usr/bin/byobu-launch 2>/dev/null || true
-
 ```
 
+Sourcer ce fichier dans ~/.bashrc
+
 ```bash
-source ~/.bash_profile
+nano ~/.bashrc
+
+USER_BASHRC="$HOME/.config/bash/bashrc"; [ -f $USER_BASHRC ] && source $USER_BASHRC
+
+source ~/.bashrc
 ```
 
 ```bash
@@ -528,6 +528,46 @@ Si la résolution du nom d’hôte ne fonctionne pas, on peut aussi utiliser l�
 \\192.168.1.240
 ```
 
+
+### Installer d’autres versions de Python 3
+
+
+```bash
+# Vérifier le modèle de RPi
+# Doit être égal ou supérieur à : Raspberry Pi 4 Model B Rev 1.1
+cat /proc/device-tree/model
+
+# Vérifier le _machine hardware name_
+# Doit être : aarch64
+uname -m
+
+# Installer `uv` <https://docs.astral.sh/uv/#installation>
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Lister les versions de Python disponibles avec `uv`
+uv python list
+
+# Installer une version au choix
+uv python install 3.14
+
+# Créer et activer un environnement virtuel pour cette version de Python.
+uv venv ~/.venvs/pyve14 --python 3.14
+source ~/.venvs/pyve14/bin/activate
+
+# Ajouter dans bashrc personnel (~/.config/bash/bashrc)
+alias pyve14="source ~/.venvs/pyve14/bin/activate"
+
+```
+. "$HOME/.local/bin/env"
+
+alias pyve14="source ~/.venvs/pyve14/bin/activate"
+
+
+
+
+
+::: {.content-hidden when-format="html"}
+<!--
 ### Installer une autre version de Python 3
 
 > Les informations de ce chapitre sont passablement obsolètes car les dernières versions de l’OS du RPi intègrent des versions de Python supérieures à 3.6.
@@ -595,6 +635,9 @@ sudo python3.6 -m pip install quart
 ```
 
 [quart]: https://github.com/pallets/quart/
+ -->
+:::
+
 
 ### picocom
 
