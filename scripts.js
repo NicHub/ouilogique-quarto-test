@@ -70,8 +70,17 @@ function smoothScrollToTop() {
     window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+function isLightboxOpen() {
+    return document.body.classList.contains("glightbox-open")
+        || Boolean(document.querySelector(".glightbox-container:not(.inactive)"));
+}
+
 document.addEventListener("keydown", (event) => {
+    if (isLightboxOpen()) return;
     if (isNavigating) return;
+
+    // Preserve browser and OS-level keyboard shortcuts such as Cmd/Ctrl+Arrow.
+    if (event.metaKey || event.ctrlKey || event.altKey) return;
 
     // Leave if user is typing in an editable area.
     const tag = (event.target.tagName || "").toLowerCase();
