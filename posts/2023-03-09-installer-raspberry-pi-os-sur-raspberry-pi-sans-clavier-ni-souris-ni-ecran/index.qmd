@@ -156,13 +156,16 @@ sudo raspi-config
 
 # Télécharge les informations des paquets à partir des sources configurées.
 # Et mets à jour les paquets installés sans en supprimer.
-sudo apt-get -y update && sudo apt-get -y upgrade
+sudo apt-get update && sudo apt-get upgrade -y
+
+# S’il y a du ménage à faire
+# Supprime les dépendances qui ne sont plus utilisées.
+sudo apt-get autoremove --simulate
+sudo apt-get autoremove -y
 
 # Installe les versions candidates des paquets installés en installant ou en supprimant d’autres paquets si nécessaire.
-sudo apt-get -y dist-upgrade
-
-# Supprime les dépendances qui ne sont plus utilisées.
-sudo apt-get -y autoremove
+sudo apt-get dist-upgrade --simulate
+sudo apt-get dist-upgrade -y
 ```
 
 À voir aussi :
