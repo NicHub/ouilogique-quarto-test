@@ -296,19 +296,25 @@ Source : <https://github.com/LilyGO/TTGO-LORA32/issues/3#issuecomment-363007465
 
 ## Pinout XIAO nRF52840 avec shield LoRa WIO-SX1262
 
-Page du produit : <https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html>
+Page du produit :
+<https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html>
 
-Infos techniques : <https://wiki.seeedstudio.com/XIAO_BLE/>
+Infos techniques :
+<https://wiki.seeedstudio.com/XIAO_BLE/>
 
-Schéma de la version Sense : <https://files.seeedstudio.com/wiki/XIAO-BLE/Seeed-Studio-XIAO-nRF52840-Sense-v1.1.pdf>
+Schéma de la version Sense :
+<https://files.seeedstudio.com/wiki/XIAO-BLE/Seeed-Studio-XIAO-nRF52840-Sense-v1.1.pdf>
 
-Schéma du shield LoRa WIO-SX1262 pour nRF52840 : <https://files.seeedstudio.com/products/113010003/Wio-SX1262%20for%20XIAO%20V1.0.pdf>
+Page du shield LoRa WIO-SX1262 pour nRF52840 :
+<https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html>
+
+Schéma du shield LoRa WIO-SX1262 pour nRF52840 :
+<https://files.seeedstudio.com/products/113010003/Wio-SX1262%20for%20XIAO%20V1.0.pdf>
 
 <!--
 ![Pinout XIAO-nRF52840 plus][Pinout XIAO-nRF52840 plus]
 
 [Pinout XIAO-nRF52840 plus]: ./images/XIAO-nRF52840.jpg
- -->
 
 ![Pinout XIAO-nRF52840][Pinout XIAO-nRF52840]
 
@@ -317,6 +323,19 @@ Schéma du shield LoRa WIO-SX1262 pour nRF52840 : <https://files.seeedstudio.c
 ![Pinout XIAO-nRF52840 back][Pinout XIAO-nRF52840 back]
 
 [Pinout XIAO-nRF52840 back]: ./images/XIAO-nRF52840-3.jpg
+ -->
+
+![Pinout XIAO-nRF52840-4][Pinout XIAO-nRF52840-4]
+
+[Pinout XIAO-nRF52840-4]: ./images/XIAO-nRF52840-4.png
+
+![Pinout XIAO-nRF52840-5][Pinout XIAO-nRF52840-5]
+
+[Pinout XIAO-nRF52840-5]: ./images/XIAO-nRF52840-5.png
+
+![Pinout XIAO-nRF52840-6][Pinout XIAO-nRF52840-6]
+
+[Pinout XIAO-nRF52840-6]: ./images/XIAO-nRF52840-6.png
 
 ## Pinout XIAO ESP32S3 Plus
 
