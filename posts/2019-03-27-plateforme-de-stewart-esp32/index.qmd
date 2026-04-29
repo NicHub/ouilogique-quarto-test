@@ -477,3 +477,4 @@ Servos: TowerPro MG995
     -   [Aaed Musa](https://www.aaedmusa.com/)
     -   [The 3-RPS parallel manipulator from an algebraic viewpoint](https://www.sciencedirect.com/science/article/abs/pii/S0094114X13002504)
 -   [3DOF Ball on Plate with Closed Loop Stepper Motors](https://www.youtube.com/watch?v=ASe9uZmp-y0)
+-   [I built a Ball Balancing Robot](https://www.youtube.com/watch?v=KnYSuQEBGHc)
