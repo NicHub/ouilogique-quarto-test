@@ -147,6 +147,38 @@ sudo raspi-config
 # Advanced Options / Expand filesystem
 ```
 
+## Générer une locale manquante
+
+Si le shell affiche un avertissement du type suivant au démarrage,
+c’est généralement qu’une variable d’environnement demande une locale qui n’a pas encore été générée sur le Raspberry.
+
+```bash
+bash: warning: setlocale: LC_ALL: cannot change locale (fr_CH.UTF-8): No such file or directory
+```
+
+On peut vérifier les locales disponibles avec la commande suivante :
+
+```bash
+locale -a
+```
+
+Si `fr_CH.utf8` n’apparaît pas dans la liste, il faut activer la ligne correspondante dans `/etc/locale.gen`, puis régénérer les locales.
+
+```bash
+sudo sed -i 's/^# *fr_CH.UTF-8 UTF-8/fr_CH.UTF-8 UTF-8/' /etc/locale.gen
+sudo locale-gen fr_CH.UTF-8
+```
+
+On peut ensuite vérifier que la locale a bien été générée.
+
+```bash
+locale -a | grep '^fr_CH\.utf8$'
+```
+
+> N.B. Cette procédure ne change pas forcément la langue par défaut du système.
+> Elle rend seulement la locale `fr_CH.UTF-8` disponible.
+> Pour changer la langue par défaut, utiliser `sudo raspi-config` ou `sudo update-locale`.
+
 ## Mise à jour de Raspbian
 
 ```bash
