@@ -50,6 +50,8 @@ format:
         twitter-card: true
         include-in-header:
             - _includes/fonts.html
+        include-before-body:
+            - _includes/keepandroidopen-banner.html
         include-after-body:
             - _includes/scripts.html
             - _includes/cloudflare-analytics.html
