@@ -26,23 +26,19 @@ Le Raspberry sera donc en mode _headless_, c’est-à-dire sans clavier, ni sour
 
 ## Matériel utilisé pour cette procédure
 
--   Un Raspberry Pi modèle 3 (ou plus) pour Raspberry Pi OS 64 bit, ou un Raspberry Pi modèle 2 (ou plus) pour Raspberry Pi OS 32 bit
--   Une carte SD (32 Go recommandés)
+-   Un Raspberry Pi modèle 4
+-   Une carte SD (16 Go recommandés)
 -   Un ordinateur standard
--   Un routeur (optionnel, on peut connecter le RPi directement sur le port Ethernet)
--   Un câble Ethernet
+-   Un routeur WiFi
 
 ## Préparation (~15 min)
-
-> N.B. Ce chapitre a été mis à jour en mai 2026
 
 ## Choix de l’OS
 
 Anciennement, l’OS du Raspberry s’appelait _Raspbian_ ce qui était logique puisqu’il est basé sur _Debian_.
 On devait le télécharger séparément et l’installer avec un programme qui s’appelait _Etcher_.
 
-Aujourd’hui, les choses sont un peu différentes.
-_Etcher_ a été remplacé par _Raspberry Pi Imager_ et on n’a plus besoin de télécharger l’OS séparément, car c’est le programme qui s’en charge.
+Aujourd’hui, _Etcher_ a été remplacé par _Raspberry Pi Imager_ et on n’a plus besoin de télécharger l’OS séparément, car c’est _Raspberry Pi Imager_ qui s’en charge.
 Il peut être téléchargé ici :
 
 -   <https://www.raspberrypi.com/software/>
@@ -69,7 +65,7 @@ Donc voici quelques possibilités.
 
 -   Sur un ordinateur standard (pas le Raspberry), [télécharger _Raspberry Pi Imager_](https://www.raspberrypi.com/software/) et l’installer.
 -   Dans _Raspberry Pi Imager_, cliquer sur “Système d’exploitation” et [sélectionner l’OS de votre choix](#choix-de-los).
--   Insérer une carte SD, cliquer sur “Choisir le stockage” et choisir la carte SD.
+-   Insérer une carte SD sur l’ordinateur standard, cliquer sur “Choisir le stockage” et choisir la carte SD.
 -   **Important :** Ouvrir les options de personnalisation de _Raspberry Pi Imager_, puis configurer au minimum le nom d’hôte, le nom d’utilisateur, le mot de passe et l’accès distant SSH.
 
     > Anciennement, l’activation de SSH se faisait en créant un fichier vide appelé `ssh` dans le répertoire `boot`, par exemple avec la commande `touch /Volumes/boot/ssh`.
@@ -104,6 +100,10 @@ arp -a
 
 ```bash
 nmap -sn 192.168.1.0/24
+```
+
+```bash
+nmap -sn 10.177.185.0/24
 ```
 
 ## Configuration
@@ -194,6 +194,9 @@ sudo apt full-upgrade -y
 # Si nécessaire supprime les dépendances qui ne sont plus utilisées.
 sudo apt autoremove --simulate
 sudo apt autoremove -y
+
+# Au jour le jour.
+sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y
 ```
 
 À voir aussi :
@@ -265,11 +268,16 @@ sudo raspi-config
 ```
 
 Télécharger un client VNC pour se connecter au serveur VNC du RPi.
-Sur les versions récentes de Raspberry Pi OS, le serveur VNC fourni est WayVNC.
-Raspberry Pi Connect est aussi une option officielle pour l’accès distant au bureau et au terminal.
 
-> N.B. Le client VNC installé par défaut sur macOS ne fonctionne pas pour se connecter au serveur VNC du RPi.
-> L’erreur retournée est<br>_Le logiciel de l’ordinateur distant semble ne pas être compatible avec cette version de Partage d’écran._<br>`bash /System/Library/CoreServices/Applications/Screen\ Sharing.app`
+Par exemple RealVNC :
+
+-   <https://www.realvnc.com/en/connect/download/viewer/>.
+
+> N.B. Le client VNC installé par défaut sur macOS ne fonctionne pas pour se connecter au serveur VNC du RPi.
+> L’erreur retournée est<br>
+  _Le logiciel de l’ordinateur distant semble ne pas être compatible avec cette version de Partage d’écran._<br>
+  `bash /System/Library/CoreServices/Applications/Screen\ Sharing.app`
+
 
 ## Enlever les programmes inutiles
 
@@ -277,7 +285,7 @@ Enfin, inutiles pour moi...
 
 ```bash
 df -h # Pour voir la capacité de la carte SD
-sudo apt-get purge wolfram-engine # Si le paquet est installé.
+sudo apt-get purge wolfram-engine
 sudo apt-get purge libreoffice*
 sudo apt-get clean
 sudo apt-get autoremove
