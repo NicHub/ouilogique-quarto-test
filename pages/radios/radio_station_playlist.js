@@ -2,6 +2,17 @@ let radio_station_playlist =
 [
     {
         "geo_name": "France",
+        "station_name": "Radio Nova",
+        "live_urls": [
+            "https://www.nova.fr/radios/"
+        ],
+        "stream_urls": [
+            "http://radionova.ice.infomaniak.ch/radionova-256.aac",
+            "http://radionova.ice.infomaniak.ch/radionova-high.mp3"
+        ]
+    },
+    {
+        "geo_name": "France",
         "station_name": "France Inter",
         "live_urls": [
             "https://www.radiofrance.fr/franceinter/direct"
