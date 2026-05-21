@@ -7,8 +7,8 @@ let radio_station_playlist =
             "https://www.nova.fr/radios/"
         ],
         "stream_urls": [
-            "http://radionova.ice.infomaniak.ch/radionova-256.aac",
-            "http://radionova.ice.infomaniak.ch/radionova-high.mp3"
+            "https://radionova.ice.infomaniak.ch/radionova-256.aac",
+            "https://radionova.ice.infomaniak.ch/radionova-high.mp3"
         ]
     },
     {
